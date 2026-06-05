@@ -1,11 +1,11 @@
 ---
 name: invoice-generator
-description: Use when someone asks to create an invoice for PT Swiss Hospitality Consulting, generate an invoice for a client, or bill a client for services.
+description: Use when someone asks to create an invoice, bill a client for services, or generate an invoice from any of Matthieu's companies (PT Swiss Hospitality Consulting or Scalrize).
 ---
 
 # Invoice Generator
 
-Creates a professional HTML invoice from PT Swiss Hospitality Consulting. Always asks for the current exchange rate before calculating. Saves to the relevant project folder.
+Creates a professional HTML invoice from one of Matthieu's entities, then exports to PDF. Supports two sender profiles. Always asks for the current exchange rate when converting to IDR.
 
 ---
 
@@ -15,64 +15,113 @@ Ask the user for any missing information:
 
 | Field | Required | Notes |
 |---|---|---|
+| Sender company | Yes | "PT Swiss Hospitality Consulting" or "Scalrize" |
 | Client name | Yes | Full company name |
 | Client contact | Optional | e.g. "Attn: Toby" |
 | Invoice date | Yes | DD.MM.YYYY |
 | Concerns | Yes | Short description, e.g. "Sales Training" |
-| Line items | Yes | Description + USD price for each |
-| Invoice number | Yes | Format: INV-YYYY-NNN (auto-increment from last) |
+| Line items | Yes | Description + price for each |
+| Invoice currency | Yes | IDR, USD, EUR, CHF |
+| Invoice number | Yes | Format: INV-YYYY-NNN (check existing files to auto-increment) |
 | Payment split | Optional | e.g. "50% today, 50% before start" |
-| Save location | Yes | Default: `Projects/Sales-Training/` |
+| Save location | Yes | Default depends on project context |
 
-**Always ask:** "What is the current USD/IDR exchange rate?"
-Never use a cached rate. Always ask fresh at the moment of invoice creation.
-
----
-
-## Step 2 — Calculate IDR Amounts
-
-For each line item and totals:
-- IDR amount = USD amount × exchange rate
-- Format: `X XXX XXX,00` (spaces as thousands separator, comma as decimal)
-- Include exchange rate note in the invoice footer
+**If invoice currency is IDR:** Always ask "What is the current USD/IDR exchange rate?" — never use a cached rate.
 
 ---
 
-## Step 3 — Generate the HTML Invoice
+## Step 2 — Sender Profiles
 
-Use the template at `Projects/Sales-Training/invoice-nirvana-001.html` as the visual reference (it is the canonical design).
+### PT Swiss Hospitality Consulting
 
-Key design rules:
-- Header: Company name (left) + INVOICE label + number (right)
-- Meta row: Date, Location (Bali), Concerns
-- Bill To block: Client name + contact
-- Items table: Description with subtitle | USD | IDR columns. Header row = light blue (#c8dce8). Body rows alternate #eef4f8 / #e4edf3.
-- Totals block: Right-aligned, grand total row in black (#1a1a1a) with white text
-- Payment schedule table (if split): Show each installment, badge "Due Now" on the first one in amber (#e8a820)
-- FX note: Italic, small, below payment table: "Exchange rate: 1 USD = IDR X,XX on [Dth of Month, YYYY]" (spell out the date in full, e.g. "5th of June, 2026")
-- Bank details grid: Mandiri, 175-00-0313369-0, PT Swiss Hospitality Consulting, IDR, Bali
-
-PT Swiss Hospitality Consulting address:
-```
+**Address:**
 Jalan Sunset Road No. 28
 Seminyak, Kuta
 Kabupaten Badung, Bali 80361
 Indonesia
+
+**Bank details (IDR):**
+- Bank: Bank Mandiri
+- Account number: 175-00-0313369-0
+- Account holder: PT Swiss Hospitality Consulting
+- Currency: IDR
+- Branch: Bali
+
+---
+
+### Scalrize
+
+No company address.
+
+**Bank details — ask the client's currency, then use the matching Wise account:**
+
+**CHF / international:**
+- Name: Matthieu Patrick Jammers
+- IBAN: GB61 TRWI 2308 0145 5737 43
+- Swift/BIC: TRWIGB2LXXX
+- Bank: Wise Payments Limited, 1st Floor, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom
+
+**USD (from US — domestic):**
+- Name: Matthieu Patrick Jammers
+- Account type: Checking
+- Routing number: 101019628
+- Account number: 218566780366
+- Bank: Wise US Inc, 108 W 13th St, Wilmington, DE 19801, United States
+- Swift/BIC (international): TRWIUS35XXX
+
+**EUR:**
+- Name: Matthieu Patrick Jammers
+- IBAN: BE81 9057 2093 4824
+- Swift/BIC: TRWIBEB1XXX (outside SEPA) / domestic SEPA transfer otherwise
+- Bank: Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
+
+---
+
+## Step 3 — Calculate Amounts
+
+If invoicing in IDR:
+- IDR amount = USD amount × exchange rate
+- Format: `X XXX XXX,00` (spaces as thousands separator, comma as decimal)
+
+If invoicing in USD/EUR/CHF: display amounts directly in that currency.
+
+---
+
+## Step 4 — Generate the HTML Invoice
+
+Use `Projects/Sales-Training/invoice-nirvana-001.html` as the canonical visual reference.
+
+Key design rules:
+- Header: Company name + address (left) | INVOICE label + number (right)
+- If no address (Scalrize): show company name only
+- Meta row: Date, Location (Bali), Concerns
+- Bill To block: Client name + contact
+- Items table: Description with subtitle | Price columns. Header row = light blue (#c8dce8). Body rows alternate #eef4f8 / #e4edf3.
+- Totals block: Right-aligned, grand total row black (#1a1a1a) with white text
+- Payment schedule table (if split): Show each installment, badge "Due Now" on first in amber (#e8a820)
+- FX note (IDR only): Italic, small, below payment table: "Exchange rate: 1 USD = IDR X,XX on [Dth of Month, YYYY]" (spell out date in full, e.g. "5th of June, 2026")
+- Bank details: use the correct profile from Step 2 based on sender and currency
+
+---
+
+## Step 5 — Save HTML and Export PDF
+
+File naming: `invoice-[client-slug]-[NNN].html` / `.pdf`
+
+Save HTML, then immediately export PDF using Chrome headless:
+```
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+  --headless --disable-gpu \
+  --print-to-pdf="[same path but .pdf]" \
+  --print-to-pdf-no-header \
+  "file:///[absolute path to .html]"
 ```
 
 ---
 
-## Step 4 — Save the File
-
-File naming: `invoice-[client-slug]-[NNN].html`
-- Example: `invoice-nirvana-001.html`, `invoice-nirvana-002.html`
-- Save to the project folder specified, or ask if unclear.
-
----
-
-## Step 5 — Confirm
+## Step 6 — Confirm
 
 Report back:
-- File saved at: `[path]`
-- Amount due now: $X,XXX = IDR X XXX XXX,00
-- Exchange rate used: 1 USD = IDR X,XX
+- HTML + PDF saved at: `[path]`
+- Amount due now: [amount in invoice currency]
+- Exchange rate used (if IDR): 1 USD = IDR X,XX
