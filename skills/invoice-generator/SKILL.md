@@ -108,18 +108,28 @@ If invoicing in USD/EUR/CHF: display amounts directly in that currency.
 
 ## Step 4 — Generate the HTML Invoice
 
-Use `Projects/Sales-Training/invoice-nirvana-001.html` as the canonical visual reference.
+Two design templates depending on sender:
 
-Key design rules:
-- Header: Company name + address (left) | INVOICE label + number (right)
-- If no address (Scalrize): show company name only
+**PT Swiss Hospitality Consulting** — use `Projects/Sales-Training/invoice-nirvana-001.html` as visual reference:
+- Header: company name + address (left) | INVOICE label + number (right)
 - Meta row: Date, Location (Bali), Concerns
-- Bill To block: Client name + contact
-- Items table: Description with subtitle | Price columns. Header row = light blue (#c8dce8). Body rows alternate #eef4f8 / #e4edf3.
-- Totals block: Right-aligned, grand total row black (#1a1a1a) with white text
-- Payment schedule table (if split): Show each installment, badge "Due Now" on first in amber (#e8a820)
-- FX note (IDR only): Italic, small, below payment table: "Exchange rate: 1 USD = IDR X,XX on [Dth of Month, YYYY]" (spell out date in full, e.g. "5th of June, 2026")
-- Bank details: use the correct profile from Step 2 based on sender and currency
+- Bill To block: left border `#1a1a1a`, background `#f7f7f5`
+- Items table: header row light blue `#c8dce8`, body rows alternate `#eef4f8` / `#e4edf3`
+- Grand total row: `#1a1a1a` background, white text
+- Payment schedule: "Due Now" badge in amber `#e8a820`
+- FX note (IDR only): italic small text: "Exchange rate: 1 USD = IDR X,XX on [Dth of Month, YYYY]"
+- Bank details: Mandiri / IDR profile
+
+**Scalrize** — apply the Scalrize design system from the profile above:
+- Header: full-width sage `#4f6352` band, logo left (horizontal JPG), "INVOICE" right in white Fraunces
+- No address block under logo
+- Meta row: Date, Concerns (no Location needed)
+- Bill To block: left border `#4f6352`, background `#f0f4f1`
+- Items table: header row sage `#4f6352` white text, body rows alternate `#f0f4f1` / `#ffffff`
+- Grand total row: `#141917` background, white text
+- Payment schedule: "Due Now" badge in sage `#4f6352`
+- FX note (IDR only): same format as above
+- Bank details: Wise account matching invoice currency
 
 ---
 
