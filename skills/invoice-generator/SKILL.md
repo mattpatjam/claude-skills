@@ -49,7 +49,7 @@ Key design rules:
 - Items table: Description with subtitle | USD | IDR columns. Header row = light blue (#c8dce8). Body rows alternate #eef4f8 / #e4edf3.
 - Totals block: Right-aligned, grand total row in black (#1a1a1a) with white text
 - Payment schedule table (if split): Show each installment, badge "Due Now" on the first one in amber (#e8a820)
-- FX note: Italic, small, below payment table: "Exchange rate: 1 USD = IDR X,XX (as of DD.MM.YYYY)"
+- FX note: Italic, small, below payment table: "Exchange rate: 1 USD = IDR X,XX on [Dth of Month, YYYY]" (spell out the date in full, e.g. "5th of June, 2026")
 - Bank details grid: Mandiri, 175-00-0313369-0, PT Swiss Hospitality Consulting, IDR, Bali
 
 PT Swiss Hospitality Consulting address:
