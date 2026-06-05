@@ -53,6 +53,25 @@ Indonesia
 
 No company address.
 
+**Design system (use for all Scalrize invoices):**
+- Logo: use horizontal logo at `Scalrize/Website/assets.Scalrize/company.logo.horizontal.jpg` — embed via `<img>` tag with absolute file path
+- Heading font: Fraunces (serif) — load from Google Fonts: `https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=DM+Sans:wght@400;500;600&display=swap`
+- Body font: DM Sans (sans-serif)
+- Colors:
+  - Primary (sage): `#4f6352`
+  - Primary dark: `#3d4e3f`
+  - Primary pale: `#e8ede9`
+  - Text (ink): `#141917`
+  - Text soft: `#242c25`
+  - Border: `#e4e8e5`
+  - Background: `#ffffff`
+- Invoice header: sage background `#4f6352` with white text, logo top-left, INVOICE label top-right
+- Table header row: sage `#4f6352` with white text
+- Table body rows: alternate `#f0f4f1` / `#ffffff`
+- Grand total row: `#141917` background, white text
+- "Due Now" badge: sage `#4f6352`
+- Bill To block: left border `#4f6352`, background `#f0f4f1`
+
 **Bank details — ask the client's currency, then use the matching Wise account:**
 
 **CHF / international:**
