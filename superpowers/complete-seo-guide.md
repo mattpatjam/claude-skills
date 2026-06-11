@@ -50,6 +50,12 @@ Three factors:
 - Authority is largely determined by backlinks from reputable sites.
 - The more high-quality, relevant links a page gets, the more authority it has.
 - Experience and trust signals: author credentials, first-hand content, factual accuracy, site reputation.
+- **2026 shift:** You cannot fake E-E-A-T. AI models are explicitly trained to identify and reward human-crafted expertise validated by other authoritative sources. The only sustainable advantage is genuine authority.
+
+**Entities and Topics (the shift from keywords)**
+- Search engines no longer evaluate pages purely on keyword matches. They evaluate *entities* (recognized subjects, people, brands, places) and *topics* (clusters of related knowledge).
+- Google wants to know if your brand is a recognized authority on a topic — not just whether you used the right phrase.
+- Implication: one comprehensive, authoritative piece on a topic outranks ten shallow keyword-stuffed posts. Build topic authority, not keyword density.
 
 **Usefulness / User Experience**
 - Does the page actually help the person who searched?
