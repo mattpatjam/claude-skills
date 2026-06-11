@@ -227,6 +227,14 @@ Tools: Google Search Console (free), Surfer (paid, handles all in one screen), S
   - Expert insights: interviews, quotes, proprietary knowledge (can come from podcasts, books, journals, YouTube — does not have to be yours)
   - Specific examples: real businesses, real numbers, real outcomes
 - In a sea of AI-generated content, the human layer is what stands out and earns clicks.
+- **The human-AI symbiosis (2026 model):** Stop "producing content." Start "building strategic authority assets." Use human expertise to create the signal — real experience, real results, real opinions. Use AI to structure, optimize, and amplify that signal. AI creates the scaffolding. You create the credibility.
+
+**Answer-First Content Structure**
+- AI models are trained to pull content that answers a specific question clearly and immediately.
+- Structure every piece so the direct answer comes first — in the opening paragraph or under the H2 — before supporting context.
+- This is the format AI cites. It is also the format humans prefer when scanning.
+- Template: Question as H2 → 1-2 sentence direct answer → supporting evidence and context below.
+- The brands cited in AI-generated answers are the ones with Answer-First structure. Being cited in the AI answer is now more valuable than ranking #3 in the blue links below it.
 
 **Phase 4: Optimize**
 - Refine based on data, not guesswork.
