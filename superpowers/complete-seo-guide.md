@@ -403,6 +403,21 @@ AI assistants answer these. They recommend specific brands and websites. If your
 
 ChatGPT, Gemini, Perplexity, Copilot, Claude, Grok, Google AI Mode — these are all now search engines.
 
+### Generative GEO — Optimizing for the Answer, Not the Click
+
+Google SGE, Perplexity, and ChatGPT now synthesize an "answer" at the top of the results page. Users get what they need without clicking further. The old goal was rank #1. The new goal is **be cited in the answer itself**.
+
+What Generative GEO requires:
+- **Schema markup** — FAQ schema, How-To schema, and Organization schema tell AI models exactly what your content covers and what your brand is. Without this, your content is harder for AI to parse and cite.
+- **Answer-First content** — Direct answer in the first 1-2 sentences of every section. AI pulls clean, structured answers. Buried conclusions do not get cited.
+- **Verifiable expertise** — Author credentials, named sources, data with clear provenance. AI models are trained to weight content that can be verified and attributed.
+- **Logical site structure** — Clear topic hubs, strong internal linking, well-defined H1/H2/H3 hierarchy. AI reads site structure to understand what a brand is an authority on.
+- **Entity recognition** — Your brand name, the services you offer, and the markets you serve need to appear consistently and clearly across your own site AND in third-party sources (reviews, articles, directories). AI builds an "entity" profile of your brand from all these signals combined.
+
+The winner in 2026 is the brand cited in the AI answer — not the one that ranks #3 in the blue links nobody scrolls to.
+
+---
+
 ### How AI Chooses What to Cite
 
 - AI models synthesize information from across the web and generate an answer.
