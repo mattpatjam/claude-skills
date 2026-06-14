@@ -8,7 +8,9 @@ argument-hint: [client name or "OLC"]
 
 Runs a structured diagnostic session to identify where a developer client's sales funnel (or OLC's own) is broken or missing. Produces a written audit with prioritized fixes.
 
-Knowledge base: `Projects/olc-method/company/funnels.md`
+Knowledge base:
+- `Projects/olc-method/company/funnels.md` — OLC-specific funnel strategy and application context
+- `.claude/knowledge/dotcom-secrets-reference.md` — full framework definitions (Secret Formula, Value Ladder, 7 Phases, scripts, etc.)
 
 ---
 
