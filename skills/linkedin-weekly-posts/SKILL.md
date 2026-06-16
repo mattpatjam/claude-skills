@@ -125,7 +125,6 @@ After displaying: ask "Which ones are you going with? I can humanize either one 
 ## Notes
 
 - Step 1 is always first. Never jump to generation without the 3 questions.
-- Do not send email. Session display is the delivery for the interactive workflow.
-- Character count warnings are non-fatal. LinkedIn's actual limit is 3,000 chars. The 1,400-1,700 target is a readability guideline.
-- The Give:Ask week detection uses `post_tracker.json`. For manual session runs, `is_give_ask_week=False` is correct — Give:Ask is handled by the Sunday GitHub Actions run.
+- Do not send email. Session display is the delivery.
+- Character count target is 1,200–1,600 chars. LinkedIn's hard limit is 3,000 — the target is a readability guideline, not a hard stop.
 - If Matthieu says "humanize it" after seeing a post, invoke the `humanizer` skill.
