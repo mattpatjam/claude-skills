@@ -86,7 +86,7 @@ Run the full quality checklist from `prompt.md` before outputting anything. If a
 
 ## Step 4: Display Posts
 
-After generation completes, read `/tmp/linkedin_results.json` and display all 4 options clearly using this structure:
+Display all 4 options clearly using this structure:
 
 ```
 TUESDAY [date] — [theme]
