@@ -51,7 +51,7 @@ Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week
 2. Locate last Tuesday's and Thursday's posts
 3. Extract for each: hook text (first line), impressions, reactions, comments
 4. Infer the content pillar from the post type (Human/Perspective/Proof/Educator)
-5. Append entries to `Automations/linkedin-automation/posts_published.md` in this format:
+5. Append entries to `.claude/skills/linkedin-weekly-posts/posts_published.md` in this format:
    ```
    ## [YYYY-MM-DD] ([Tuesday/Thursday])
    Pillar: [pillar]
@@ -59,7 +59,7 @@ Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week
    Hook: "[hook text]"
    Impressions: [n] | Reactions: [n] | Comments: [n] | Reposts: [n]
    ```
-6. Recalculate pillar averages in `Automations/linkedin-automation/post_analytics.json` and update `last_updated`
+6. Recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_analytics.json` and update `last_updated`
 7. Confirm to Matthieu: "Analytics updated. [Tuesday hook] got X impressions. [Thursday hook] got Y impressions."
 
 **If no:** skip to Step 3.
