@@ -12,8 +12,6 @@ Runs the full weekly LinkedIn content creation workflow for Matthieu. Sequence i
 3. Generate 4 post options with full context injected
 4. Display posts formatted in the session
 
-Working directory for all generation steps: `Automations/linkedin-automation/`
-
 ---
 
 ## Step 1: Gather Recent Past (Required — Never Skip)
