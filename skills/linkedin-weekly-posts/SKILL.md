@@ -70,37 +70,17 @@ Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week
 
 ## Step 3: Generate Posts
 
-Run this Python script via Bash from `Automations/linkedin-automation/`:
+Read `.claude/skills/linkedin-weekly-posts/prompt.md` in full — this contains all writing rules, pillars, themes, format specs, and quality checklist.
 
-```bash
-cd /Users/matt/Desktop/Claude/Automations/linkedin-automation && python3 -c "
-import os
+Read `/tmp/linkedin_recent_past.txt` for this week's personal context from Matthieu.
 
-with open('.env') as f:
-    for line in f:
-        line = line.strip()
-        if '=' in line and not line.startswith('#'):
-            k, v = line.split('=', 1)
-            os.environ[k] = v
+Then generate 4 post options following the prompt exactly:
+- 2 options for **Tuesday** (same theme, two different pillars)
+- 2 options for **Thursday** (same theme, two different pillars — theme must differ from Tuesday)
 
-with open('/tmp/linkedin_recent_past.txt') as f:
-    recent_past = f.read()
+Weave the recent past input naturally into the posts where relevant (personal story, client observation, market insight). Do not force it — only use it if it genuinely strengthens the post.
 
-from generate_post import generate_all_posts
-
-scraping_context = 'Scraping unavailable. Write from professional expertise only. Do not fabricate market data.'
-results = generate_all_posts(scraping_context, is_give_ask_week=False, recent_past=recent_past)
-
-import json, builtins
-with builtins.open('/tmp/linkedin_results.json', 'w') as f:
-    json.dump(results, f, default=str)
-print('DONE')
-" 2>&1
-```
-
-Tell Matthieu: "Generating posts now. Takes 1-2 minutes." before running.
-
-If it fails: show the error, diagnose, and fix before retrying.
+Run the full quality checklist from `prompt.md` before outputting anything. If any item fails — rewrite before showing Matthieu.
 
 ---
 
