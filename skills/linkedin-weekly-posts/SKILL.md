@@ -49,7 +49,7 @@ Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week
 
 First, attempt auto-scrape:
 1. Use `mcp__firecrawl__firecrawl_interact` to navigate to `https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/shares/`
-2. Locate last Tuesday's and Thursday's posts
+2. Locate last Tuesday's, Wednesday's, and Thursday's posts
 3. Extract for each: hook text (first line), impressions, reactions, comments
 4. Infer the content pillar from the post type (Human/Perspective/Proof/Educator)
 
