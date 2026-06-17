@@ -81,9 +81,10 @@ Read `.claude/skills/linkedin-weekly-posts/prompt.md` in full — this contains 
 
 Read `/tmp/linkedin_recent_past.txt` for this week's personal context from Matthieu.
 
-Then generate 4 post options following the prompt exactly:
+Then generate 6 post options following the prompt exactly:
 - 2 options for **Tuesday** (same theme, two different pillars)
-- 2 options for **Thursday** (same theme, two different pillars — theme must differ from Tuesday)
+- 2 options for **Wednesday** (same theme, two different pillars — theme must differ from Tuesday)
+- 2 options for **Thursday** (same theme, two different pillars — theme must differ from Tuesday and Wednesday)
 
 Weave the recent past input naturally into the posts where relevant (personal story, client observation, market insight). Do not force it — only use it if it genuinely strengthens the post.
 
