@@ -46,25 +46,32 @@ Write this block to `/tmp/linkedin_recent_past.txt` using the Write tool.
 Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week's post performance and update the tracking files. Takes about 5 minutes. Yes or no?"
 
 **If yes:**
-1. Use `mcp__firecrawl__firecrawl_interact` to navigate to Matthieu's LinkedIn activity page:
-   `https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/shares/`
+
+First, attempt auto-scrape:
+1. Use `mcp__firecrawl__firecrawl_interact` to navigate to `https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/shares/`
 2. Locate last Tuesday's and Thursday's posts
 3. Extract for each: hook text (first line), impressions, reactions, comments
 4. Infer the content pillar from the post type (Human/Perspective/Proof/Educator)
-5. Append entries to `.claude/skills/linkedin-weekly-posts/posts_published.md` in this format:
-   ```
-   ## [YYYY-MM-DD] ([Tuesday/Thursday])
-   Pillar: [pillar]
-   Theme: [theme]
-   Hook: "[hook text]"
-   Impressions: [n] | Reactions: [n] | Comments: [n] | Reposts: [n]
-   ```
-6. Recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_analytics.json` and update `last_updated`
-7. Confirm to Matthieu: "Analytics updated. [Tuesday hook] got X impressions. [Thursday hook] got Y impressions."
+
+**If scraping succeeds:** log the data (format below), confirm results, then skip to Step 3.
+
+**If scraping fails (login wall, blocked, or no data returned):** ask Matthieu:
+> "LinkedIn blocked the scrape. Can you check your last two posts and give me the numbers? Just send: Tuesday: X impressions, Y reactions / Thursday: X impressions, Y reactions. Or say 'skip' to move on."
+
+If he provides numbers — log them. If he says skip — proceed to Step 3 without logging.
+
+Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
+```
+## [YYYY-MM-DD] ([Tuesday/Thursday])
+Pillar: [pillar]
+Theme: [theme]
+Hook: "[hook text]"
+Impressions: [n] | Reactions: [n] | Comments: [n] | Reposts: [n]
+```
+
+Then recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_analytics.json` and update `last_updated`.
 
 **If no:** skip to Step 3.
-
-**If LinkedIn is inaccessible or not logged in:** tell Matthieu and proceed to Step 3 without updating files.
 
 ---
 
