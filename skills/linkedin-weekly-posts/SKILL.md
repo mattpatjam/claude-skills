@@ -122,6 +122,26 @@ After displaying: ask "Which ones are you going with? I can humanize either one 
 
 ---
 
+## Step 5: Log the Chosen Posts
+
+Once Matthieu confirms which options he's going with (e.g. "Tuesday Option 1, Thursday Option 2"), log each to `.claude/skills/linkedin-weekly-posts/posts_published.md`:
+
+```
+## [YYYY-MM-DD] ([Tuesday/Thursday])
+Pillar: [pillar used]
+Theme: [theme used]
+Hook: "[first line of the post]"
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+```
+
+Leave the engagement fields as `—` — they get filled in during Step 2 the following week when analytics are checked.
+
+Also update `.claude/skills/linkedin-weekly-posts/post_analytics.json` to increment the count for that pillar under `pillars_used`.
+
+This log is what Step 3 uses in future sessions to avoid repeating themes and pillars from the last 60 days.
+
+---
+
 ## Notes
 
 - Step 1 is always first. Never jump to generation without the 3 questions.
