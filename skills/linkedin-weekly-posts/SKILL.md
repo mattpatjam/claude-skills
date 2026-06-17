@@ -56,7 +56,7 @@ First, attempt auto-scrape:
 **If scraping succeeds:** log the data (format below), confirm results, then skip to Step 3.
 
 **If scraping fails (login wall, blocked, or no data returned):** ask Matthieu:
-> "LinkedIn blocked the scrape. Can you check your last two posts and give me the numbers? Just send: Tuesday: X impressions, Y reactions / Thursday: X impressions, Y reactions. Or say 'skip' to move on."
+> "LinkedIn blocked the scrape. Can you check your last three posts and give me the numbers? Just send: Tuesday: X impressions, Y reactions / Wednesday: X impressions, Y reactions / Thursday: X impressions, Y reactions. Or say 'skip' to move on."
 
 If he provides numbers — log them. If he says skip — proceed to Step 3 without logging.
 
