@@ -62,7 +62,7 @@ If he provides numbers — log them. If he says skip — proceed to Step 3 witho
 
 Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 ```
-## [YYYY-MM-DD] ([Tuesday/Thursday])
+## [YYYY-MM-DD] ([Tuesday/Wednesday/Thursday])
 Pillar: [pillar]
 Theme: [theme]
 Hook: "[hook text]"
