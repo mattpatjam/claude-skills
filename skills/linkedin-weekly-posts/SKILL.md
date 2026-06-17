@@ -24,7 +24,9 @@ Ask these 3 questions one at a time in natural conversation. Wait for each answe
 
 **Q3:** "Anything you said to a client this week that landed well, or that you wish you'd said differently?"
 
-After all three answers, build this block:
+**Q4:** "What's something you're working through or learning right now as a professional — a deal dynamic, a market shift, a skill you're developing? Doesn't need to be resolved."
+
+After all four answers, build this block:
 
 ```
 RECENT PAST INPUT FROM MATTHIEU (this week):
@@ -32,10 +34,11 @@ RECENT PAST INPUT FROM MATTHIEU (this week):
 Q1 — Deal/viewing/conversation: [answer 1]
 Q2 — Market/buyer/seller observation: [answer 2]
 Q3 — Something said to a client: [answer 3]
+Q4 — Something currently being figured out: [answer 4]
 ```
 
 If any answer is "nothing" or blank: write "Nothing to report" for that item. Do NOT fabricate or prompt for more.
-If all three are empty: write `No recent past provided — write from professional expertise only.`
+If all four are empty: write `No recent past provided — write from professional expertise only.`
 
 Write this block to `/tmp/linkedin_recent_past.txt` using the Write tool.
 
