@@ -131,16 +131,16 @@ THURSDAY [date] — [theme]
 [same structure]
 ```
 
-After displaying: ask "Which ones are you going with? I can humanize either one before you post."
+After displaying: ask "Which ones are you going with? I can humanize any of them before you post."
 
 ---
 
 ## Step 5: Log the Chosen Posts
 
-Once Matthieu confirms which options he's going with (e.g. "Tuesday Option 1, Thursday Option 2"), log each to `.claude/skills/linkedin-weekly-posts/posts_published.md`:
+Once Matthieu confirms which options he's going with (e.g. "Tuesday Option 1, Wednesday Option 2, Thursday Option 1"), log each to `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 
 ```
-## [YYYY-MM-DD] ([Tuesday/Thursday])
+## [YYYY-MM-DD] ([Tuesday/Wednesday/Thursday])
 Pillar: [pillar used]
 Theme: [theme used]
 Hook: "[first line of the post]"
