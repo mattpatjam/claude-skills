@@ -122,6 +122,11 @@ Recommendation: [Option 1 or 2 — one sentence why]
 
 ---
 
+WEDNESDAY [date] — [theme]
+[same structure]
+
+---
+
 THURSDAY [date] — [theme]
 [same structure]
 ```
