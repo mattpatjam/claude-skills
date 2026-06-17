@@ -1,0 +1,21 @@
+{
+  "last_updated": null,
+  "pillars_used": {
+    "The Educator": 0,
+    "The Perspective": 0,
+    "The Human": 0,
+    "The Proof": 0
+  },
+  "themes_used": {
+    "Sales Techniques": 0,
+    "Bali Market": 0,
+    "Legal Framework": 0,
+    "Construction Due Diligence": 0
+  },
+  "pillar_performance": {
+    "The Educator": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
+    "The Perspective": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
+    "The Human": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
+    "The Proof": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 }
+  }
+}
