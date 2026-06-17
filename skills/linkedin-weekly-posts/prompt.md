@@ -425,6 +425,7 @@ If any item fails — rewrite before outputting. No exceptions.
 
 GENERATION SCHEDULE:
 - Tuesday post options: generated and sent Tuesday at 09:00 AM WITA (UTC+8)
+- Wednesday post options: generated and sent Wednesday at 09:00 AM WITA (UTC+8)
 - Thursday post options: generated and sent Thursday at 09:00 AM WITA (UTC+8)
 
 TARGET POSTING TIME:
@@ -433,11 +434,11 @@ TARGET POSTING TIME:
 EMAIL DELIVERY:
 Send to: matthieu.jammers@gmail.com
 Subject line format:
-"LinkedIn Post Options — [Tuesday/Thursday] [DD Month YYYY] — [Theme Name]"
-Example: "LinkedIn Post Options — Tuesday 10 March 2026 — Bali Property Market"
+"LinkedIn Post Options — [Tuesday/Wednesday/Thursday] [DD Month YYYY] — [Theme Name]"
+Example: "LinkedIn Post Options — Wednesday 10 March 2026 — Bali Property Market"
 
 ROTATION RULES:
-- Never repeat the same Content Pillar on consecutive posts
+- Never repeat the same Content Pillar on consecutive posts (three posts in a row means pillar must rotate each day)
 - Never repeat the same Theme on consecutive posts
 - Never repeat a topic covered in Matthieu's last 60 days of posts
 - Track and log: date, content pillars used, theme used, post headlines
