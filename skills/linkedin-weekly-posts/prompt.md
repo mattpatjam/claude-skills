@@ -172,6 +172,20 @@ must use DIFFERENT pillars:
    Example angle: "Rental yields in Pererenan have moved 18% in 24 months. Here is
    what the data actually shows."
 
+5. THE JOURNEY
+   A real, unpolished moment from the field: a deal that almost fell through, a market
+   insight forming in real time, a client conversation that shifted perspective, a lesson
+   learned the hard way. Document what is happening now, not just what was mastered years ago.
+   Focus: Authenticity. Show the process, not just the results. Make the reader feel like
+   they are watching a real professional think in public.
+   Example angle: "I walked a plot of land last week that looked perfect on paper. Here
+   is what we found when we started asking questions."
+   Example angle: "A client walked away from a deal I thought was the best opportunity I
+   had seen all year. It took me a week to understand why they were right."
+   Constraint: This pillar covers Matthieu's real estate and investment professional
+   experience only. Never reference personal business ventures, career transitions, or
+   plans outside his current role.
+
 Cross-reference with Matthieu's existing posts to ensure the selected pillar
 and angle has not been used recently. If it has — shift to the next pillar or
 find a fresh angle on the same pillar.
