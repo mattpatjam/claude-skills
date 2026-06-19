@@ -32,6 +32,9 @@ Otherwise ask:
 1. Who is the client and what do they sell?
 2. Who is their buyer? (avatar — who they are, what they want, what they're struggling with)
 3. What is the dream outcome? Not what the product does — where does the buyer arrive and what do they experience? Be specific.
+4. What vehicle has the buyer already tried or is currently using to get that result? Why is it failing them — and what does that failure feel like emotionally?
+5. **Opportunity check:** Is this offer a genuinely new vehicle, or is it a better version of what they've already tried? If it sounds like "better than X" — push back. The buyer who failed with the old vehicle doesn't want a better version of it. They want proof this is something different. Reframe until the offer stands alone as its own category.
+6. **Status check:** Which 1-2 of the 4 status levers does buying this offer activate for the buyer? (a) Appearance of intelligence — "this was the smart, non-obvious move"; (b) Appearance of wealth/power/happiness — "I operate at this level"; (c) Physical appearance; (d) Style/identity signal. This shapes which emotional outcomes lead the offer framing.
 
 ---
 
