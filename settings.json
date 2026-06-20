@@ -14,6 +14,15 @@
             "statusMessage": "Syncing to GitHub..."
           }
         ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/matt/Desktop/Claude/.claude/hooks/olc-tracker-reminder.sh"
+          }
+        ]
       }
     ]
   }
