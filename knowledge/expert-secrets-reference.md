@@ -134,7 +134,78 @@ Before building any client's offer, run these questions on your own business:
 
 ---
 
-## 5. OLC Method — Applied Framework
+## 5. More Money from the Same Farm — Frameworks as Multipliers
+
+The core idea: your intellectual framework is not a single product. It's a raw asset that can be packaged, repackaged, and turned into tools that each generate separate revenue.
+
+You either sell information products or you use them as fuel to create desire for your core offer. Either way, one framework monetizes multiple times.
+
+### Why This Works
+- Information products indoctrinate buyers about WHY they need your product before they see your pitch
+- Giving the framework away at the top of funnel acquires customers for free
+- Once you're seen as the creator of the framework, you're an expert, not a commodity
+
+### Three Forms of Any Framework
+
+Every framework can be delivered at three levels. Same intellectual content, different experience, different price:
+
+| Level | Model | Example |
+|---|---|---|
+| 1 | **Do It Yourself (DIY)** | Course, guide, templates |
+| 2 | **Do It With You (DWY)** | Coaching, cohort, group program |
+| 3 | **Do It For You (DIFY)** | Full service, outsourced execution |
+
+Price scales with each level. The framework doesn't change — the experience of consuming it does.
+
+### How to Increase Perceived Value Without Changing Content
+
+Change the medium:
+- Written word → audio
+- Audio → video
+- Video → live experience
+
+Each step up dramatically increases perceived value at minimal marginal cost.
+
+### Framework as Pre-Funnel Content
+
+The framework itself is free marketing:
+- **Ad hook** — one step from the framework as the hook pulls people into the funnel
+- **Lead magnet** — 2 to 20 minute video teaching one framework step = high-converting free opt-in
+- **Indoctrination content** — primes buyers to understand WHY they need your offer before they see the price
+
+### Turning Frameworks into Tools
+
+The more you simplify the execution for the client, the more you get paid. The ladder:
+
+1. Framework → simplifies thinking
+2. Tool → simplifies execution (software, physical product, service, supplement)
+
+Your earning ceiling rises with how simple you make the process.
+
+**Brainstorm questions for expanding any offer:**
+- Is there software that could automate part of this framework?
+- Could we bundle a physical product into this offer?
+- What byproducts have we created while implementing this framework that clients would value?
+- Are there other info products or services we could bundle?
+
+### The Stack Slide
+
+Goal: show 10x perceived value vs. the price being charged.
+
+Structure:
+1. **Core product** — the main thing you sell
+2. **Opportunity stack** — everything bundled on top of it
+
+Every item gets a standalone dollar value assigned. The buyer sees: "I'm getting $X,000 in value for $X."
+
+Rules:
+- Every item must have a value attached
+- Every new offer requires rebuilding the stack slide from scratch
+- Items can be: tools, info products, done-for-you components, physical products, bonuses, guarantees, software
+
+---
+
+## 6. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
