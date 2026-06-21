@@ -337,6 +337,9 @@ Weak hook examples (never do these):
 - Reference Matthieu's professional experience or perspective naturally
   where it adds credibility — never force it
 
+**Story arc (applies to all pillars):**
+The body must move the reader through three beats: open with a tension or gap (something they believe that's wrong, a situation they recognize, a cost they didn't know they were paying), move through the insight or turning point (what's actually true, what changed, what Matthieu learned), and close on a resolution or lesson (what to do with this now). The resolution feeds directly into the CTA. For Educator posts structured as lists, anchor the list inside a story — open with the problem that makes the list necessary, then deliver the list, then close with the lesson. Never lead with the list itself.
+
 ### THE CLOSE & CTA
 - End with a low-friction question that invites genuine response
 - The question must feel natural, not like a marketing tactic
