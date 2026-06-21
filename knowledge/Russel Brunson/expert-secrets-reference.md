@@ -205,7 +205,58 @@ Rules:
 
 ---
 
-## 6. OLC Method — Applied Framework
+## 6. Creating Your Movement — Future-Based Cause
+
+*"Where there is no vision, the people perish."*
+
+The expert's job is to cast a vision of a better future and bring people from where they are to where they want to be. After creating the new opportunity, you must give followers hope — something to believe in — so they become receptive to the change you're offering.
+
+Note: every winning presidential campaign ran on a new opportunity or future-based cause. Every losing campaign ran on improvement slogans.
+
+### Step 1: Run for President of Your Movement
+
+Find one message that works across all communication with your audience. A consistent, constant call to your tribe that reminds them of the vision they've put their faith in.
+
+Ask:
+- What do my people really want?
+- Where do they want to go?
+- How do I capture that in a simple campaign slogan?
+
+Your slogan is not about you. It's a rallying point for them.
+
+### Step 2: Give Them an Identity Shift
+
+After someone joins your movement and takes you up on your new opportunity, the most important thing you can do is shift their identity. Success is more tied to identity than to tactics, skills, or information.
+
+Key rule: don't make the brand name about you. If it's about you, others can't identify with it.
+
+Three tools for the identity shift:
+
+1. **"I am" statement** — a name for your tribe that makes them want to belong. Customers self-identify with your movement. ("I am a funnel hacker." "I am a closer." "I am an OLC partner.")
+
+2. **Title of Liberty / Manifesto** — a rallying declaration that:
+   - Reminds them who you are
+   - Reminds them who they are
+   - Refocuses them on where you're going together
+   Use it when they're doubtful. It's the text they can return to.
+
+3. **Consistent re-enrollment** — your job doesn't stop at the first sale. You sell them on the identity over and over. People are real; they drift. Pull them back.
+
+### Step 3: Create Milestone Awards
+
+Set goals your tribe can chase. Create milestone awards they can achieve as they grow inside your new opportunity.
+
+Two journeys happen simultaneously for every member:
+
+1. **Journey of Achievement** — the external path toward the promised result. You guide them through this.
+
+2. **Journey of Transformation** — who they become while on the journey of achievement. Even if they hit the promised result, without this transformation they'll drift away looking for fulfillment elsewhere.
+
+**Liberate and educate.** As people progress on both journeys, give them the opportunity to help others who can't yet help themselves. This is the social mission layer — it locks people into the movement because their identity is now tied not just to their own progress but to the progress of others.
+
+---
+
+## 7. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
