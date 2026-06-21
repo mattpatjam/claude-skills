@@ -136,6 +136,22 @@ Offer three hook formats as prompts if they're stuck:
 
 ---
 
+## Phase 6: Movement & Tribe
+
+Tell the user: "Last thing — this is about the movement behind the brand. Not the product, not the offer. The cause people are rallying to."
+
+Ask these three questions one at a time:
+
+**Campaign slogan:** "If you were running for president of your market — what's the one phrase on the campaign poster? Not a tagline for an offer. The vision statement your people would put on a bumper sticker. What do they want, and where are you taking them?"
+
+**Tribe name:** "What do your people call themselves when they're in? What's the 'I am ___' statement — the identity they take on when they join your movement?"
+
+**Manifesto / Title of Liberty:** "What's the declaration they return to when doubt creeps in? This doesn't have to be written yet — but what would it say? A few sentences that remind them who you are, who they are, and where you're going together."
+
+If answers are vague, push: "Imagine someone who just joined six months ago and is losing faith. What would you want them to read? What would pull them back?"
+
+---
+
 ## Output: Write the Brand Foundation Document
 
 Once all phases are confirmed, write the full document to the appropriate file.
