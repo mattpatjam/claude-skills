@@ -278,7 +278,7 @@ Once all phases are confirmed, write the full document to file.
 - Asking price: $X
 - Frame: "You're getting $X in value. Today, you pay only $X."
 
-## 11. Offer Name Options
+## 12. Offer Name Options
 1. [Option 1]
 2. [Option 2]
 3. [Option 3]
