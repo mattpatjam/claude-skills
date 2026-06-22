@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 # Load .env from project root
-env_path = Path(__file__).parent.parent / ".env"
+env_path = Path(__file__).parent.parent.parent.parent / ".env"
 if env_path.exists():
     for line in env_path.read_text().splitlines():
         line = line.strip()
