@@ -256,7 +256,64 @@ Two journeys happen simultaneously for every member:
 
 ---
 
-## 7. OLC Method — Applied Framework
+## 7. The Epiphany Bridge
+
+People don't buy logically. They buy based on emotion, then use logic to justify the decision they've already made.
+
+The epiphany bridge is a story that takes people through the same emotional experience that made you believe in the new opportunity. It bridges the gap between your emotional conviction and their current skepticism — without relying on data, logic, or techno-babble.
+
+### How It Works
+
+When you discovered your new opportunity, something happened: a guide gave you an insight, an idea arrived, a conversation changed your thinking. That moment of realization — your epiphany — is what made you move. You didn't need a spreadsheet. You felt it.
+
+The problem: after months or years of living inside the new opportunity, you've accumulated so much knowledge that when you explain it to others, you instinctively reach for the logic. The features, the mechanism, the data. That's techno-babble. And it doesn't sell.
+
+Your audience hasn't had the epiphany yet. You're talking to the version of yourself that existed before the moment of realization. Logic can't get them there. Only story can.
+
+### The Core Mechanism
+
+Status is in play on both sides:
+- The buyer is emotionally attracted to the status the new opportunity would give them
+- But they need to justify it logically to the people in their life, so they don't lose status with them
+
+Your job: tell the story that creates the emotional state first. Let them find the logic themselves.
+
+If you structure the story correctly, they will have the same epiphany you had — and then sell themselves.
+
+### Three Keys to Effective Epiphany Bridge Storytelling
+
+**1. Oversimplify**
+Speak at a third-grade level. Complex language signals status to you; it loses audiences. If the room has to work hard to follow you, you've already lost the emotional thread.
+
+**2. Kinda Like Bridge**
+When you need to explain something complex, translate it to something they already know:
+
+> "What are ketones? They're kind of like millions of little motivational speakers running through your body that give you energy and make you feel awesome."
+
+Take the abstract concept → find an analogy they already understand → bridge it.
+
+Rule: every time you hit a word or concept past a third-grade level, stop and run the Kinda Like Bridge.
+
+**3. Make them feel**
+Don't describe the scene — put them inside it. Explain how the character felt. When the audience knows what the character is feeling, they start to feel it too.
+
+To land the epiphany, the audience must be in the same emotional state you were in when you received yours. If they're not feeling it, they'll miss the point entirely.
+
+### How to Build Your Epiphany Bridge Story
+
+Start by going back:
+- What was happening around you when you had the epiphany?
+- Who was the guide — the person, the book, the moment that delivered the insight?
+- What did you feel in the seconds before the realization? After?
+- What changed forever in that moment?
+
+Those sensory details are the story. Build outward from them.
+
+Then test: if someone who has never heard of your opportunity listens to this story, do they feel what you felt? If not, you're still in techno-babble territory. Strip it back further until the feeling is the only thing left.
+
+---
+
+## 8. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
