@@ -46,22 +46,38 @@ Write this block to `/tmp/linkedin_recent_past.txt` using the Write tool.
 
 ## Step 2: LinkedIn Analytics Check (Optional)
 
-Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week's post performance and update the tracking files. Takes about 5 minutes. Yes or no?"
+Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week's post performance and update the tracking files. Takes about 30 seconds. Yes or no?"
 
 **If yes:**
 
-First, attempt auto-scrape:
-1. Use `mcp__firecrawl__firecrawl_interact` to navigate to `https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/shares/`
-2. Locate last Tuesday's, Wednesday's, and Thursday's posts
-3. Extract for each: hook text (first line), impressions, reactions, comments
-4. Infer the content pillar from the post type (Human/Perspective/Proof/Educator)
+Run the scraper via Bash:
+```
+/Users/matt/Desktop/Claude/.venv/bin/python3 /Users/matt/Desktop/Claude/tools/linkedin_analytics.py
+```
 
-**If scraping succeeds:** log the data (format below), confirm results, then skip to Step 3.
+Parse the JSON output. It returns `posts` array with `impressions`, `engagements`, `hook`, and `text_preview` for the top 3 posts from the last 7 days.
 
-**If scraping fails (login wall, blocked, or no data returned):** ask Matthieu:
-> "LinkedIn blocked the scrape. Can you check your last three posts and give me the numbers? Just send: Tuesday: X impressions, Y reactions / Wednesday: X impressions, Y reactions / Thursday: X impressions, Y reactions. Or say 'skip' to move on."
+**If output contains `"error"`:** Tell Matthieu what went wrong. If error says "li_at cookie may have expired", ask him to:
+1. Open Chrome → LinkedIn → DevTools (F12) → Application → Cookies → `.linkedin.com` → `li_at` → copy the Value
+2. Paste the new value into `.env` replacing the `LI_AT=` line
+Then retry once.
 
-If he provides numbers — log them. If he says skip — proceed to Step 3 without logging.
+**If scraping succeeds:** Present the results clearly:
+```
+Last 7 days — Top performing posts:
+
+1. [impressions] impressions • [engagements] engagements
+   "[hook]"
+
+2. [impressions] impressions • [engagements] engagements
+   "[hook]"
+
+3. [impressions] impressions • [engagements] engagements
+   "[hook]"
+```
+Ask: "Want me to log these to the tracking files?" If yes, log them (format below). If no, proceed to Step 3.
+
+**If Matthieu says skip:** proceed to Step 3 without logging.
 
 Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 ```
