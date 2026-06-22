@@ -232,7 +232,15 @@ Once all phases are confirmed, write the full document to file.
 | Time Delay | | |
 | Effort & Sacrifice | | |
 
-## 4. Problems & Solutions Map
+## 4. Buyer Epiphany Stories
+
+### [Profile 1 name]
+[60-second story — plain language, scene → realization → emotional state at decision moment]
+
+### [Profile 2 name] *(if applicable)*
+[...]
+
+## 5. Problems & Solutions Map
 | Step | Problem | Value Driver | Solution Statement |
 |---|---|---|---|
 
