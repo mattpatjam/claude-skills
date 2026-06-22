@@ -52,7 +52,7 @@ Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week
 
 Run the scraper via Bash:
 ```
-/Users/matt/Desktop/Claude/.venv/bin/python3 /Users/matt/Desktop/Claude/tools/linkedin_analytics.py
+/Users/matt/Desktop/Claude/.venv/bin/python3 /Users/matt/Desktop/Claude/.claude/skills/linkedin-weekly-posts/linkedin_analytics.py
 ```
 
 Parse the JSON output. It returns `posts` array with `impressions`, `engagements`, `hook`, and `text_preview` for the top 3 posts from the last 7 days.
