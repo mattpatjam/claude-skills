@@ -272,7 +272,7 @@ Once all phases are confirmed, write the full document to file.
 ## 10. Guarantee
 [Type + exact wording]
 
-## 10. Pricing Anchor
+## 11. Pricing Anchor
 - Dream outcome value to buyer: $X/year
 - Total stack value: $X
 - Asking price: $X
