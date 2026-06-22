@@ -4,7 +4,7 @@ Scrapes LinkedIn Creator Analytics top performing posts (7-day window).
 Outputs JSON to stdout. Uses li_at session cookie from .env.
 
 Usage:
-    /Users/matt/Desktop/Claude/.venv/bin/python3 tools/linkedin_analytics.py
+    /Users/matt/Desktop/Claude/.venv/bin/python3 .claude/skills/linkedin-weekly-posts/linkedin_analytics.py
 """
 import json
 import os
