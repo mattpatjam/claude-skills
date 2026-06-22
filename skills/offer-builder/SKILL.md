@@ -38,6 +38,25 @@ Otherwise ask:
 
 ---
 
+## Phase 1B: Buyer Epiphany Story
+
+Ask:
+> "Think about the moment YOU became convinced this opportunity was real — or the moment your best client decided to buy. What was happening? What did they feel right before they said yes?"
+
+Then build one short story per buyer profile (60 seconds spoken, ~100 words written). Requirements:
+- Third-grade language — no jargon, no percentages, no projections
+- Sets the scene briefly (who the person was, where they were emotionally)
+- Builds to the single moment of realization — the "aha"
+- Ends at the emotional state, not the logical outcome
+
+**Format prompt:** "Tell me about [buyer type] who was in the same position your prospect is in now. What happened when they finally decided?"
+
+This story gets delivered before the value stack in every sales conversation. It creates the emotional state that makes the logic land. Without it, the value stack is asking the buyer to make a rational decision under pressure — most people can't.
+
+Document one story per buyer profile. If there's only one buyer profile, one story is enough.
+
+---
+
 ## Phase 2: Problems List
 
 Tell the user:
