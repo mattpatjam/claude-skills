@@ -1,21 +1,21 @@
 {
-  "last_updated": null,
+  "last_updated": "2026-06-22",
   "pillars_used": {
     "The Educator": 0,
-    "The Perspective": 0,
-    "The Human": 0,
-    "The Proof": 0
+    "The Perspective": 1,
+    "The Human": 1,
+    "The Proof": 1
   },
   "themes_used": {
-    "Sales Techniques": 0,
-    "Bali Market": 0,
+    "Sales Techniques": 2,
+    "Bali Market": 1,
     "Legal Framework": 0,
     "Construction Due Diligence": 0
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
-    "The Perspective": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
-    "The Human": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 },
-    "The Proof": { "avg_impressions": null, "avg_reactions": null, "post_count": 0 }
+    "The Perspective": { "avg_impressions": 2000, "avg_reactions": null, "post_count": 1 },
+    "The Human": { "avg_impressions": 1000, "avg_reactions": null, "post_count": 1 },
+    "The Proof": { "avg_impressions": 392, "avg_reactions": null, "post_count": 1 }
   }
 }
