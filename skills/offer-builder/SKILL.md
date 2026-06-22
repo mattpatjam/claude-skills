@@ -244,7 +244,7 @@ Once all phases are confirmed, write the full document to file.
 | Step | Problem | Value Driver | Solution Statement |
 |---|---|---|---|
 
-## 5. Offer Stack
+## 6. Offer Stack
 
 ### [Bundle Name 1] — valued at $X
 - [Delivery vehicle A]
@@ -254,13 +254,13 @@ Once all phases are confirmed, write the full document to file.
 ### [Bundle Name 2] — valued at $X
 - [...]
 
-## 6. Scarcity
+## 7. Scarcity
 [Type and specifics — why the limit exists]
 
-## 7. Urgency
+## 8. Urgency
 [Mechanism and deadline]
 
-## 8. Bonus Stack
+## 9. Bonus Stack
 
 ### Bonus 1: [Name] — valued at $X
 [What it is. Objection it neutralizes. Vivid outcome.]
@@ -269,7 +269,7 @@ Once all phases are confirmed, write the full document to file.
 
 ### Bonus 3: [Name] — valued at $X
 
-## 9. Guarantee
+## 10. Guarantee
 [Type + exact wording]
 
 ## 10. Pricing Anchor
