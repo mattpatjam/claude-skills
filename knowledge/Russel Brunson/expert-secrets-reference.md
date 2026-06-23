@@ -313,6 +313,105 @@ Then test: if someone who has never heard of your opportunity listens to this st
 
 ---
 
+### The Hero's Journey Framework
+
+Every good story has three elements: **character, desire, conflict.** Little Red Riding Hood wants to take cookies to her grandma — the wolf is the conflict. That's it. Every movie, book, play, and pitch runs on this structure.
+
+Stories actually tell two journeys simultaneously:
+- **First journey:** The journey of achievement (external — what the hero does)
+- **Second journey:** The journey of transformation (internal — who the hero becomes)
+
+The first is visible. The second is what makes people feel something.
+
+#### Phase 1 — Separation from the Ordinary World (first 25%)
+
+The hero leaves where they started. Two things happen here:
+
+**Build rapport with the hero — make them:**
+- A victim of outside forces (we root for them)
+- In a difficult situation (we worry about them)
+- Likable (we want to be with them)
+- Funny (we connect with them)
+- Powerful (we want to be like them)
+
+**Introduce the desire — always one of two directions:**
+- Toward pleasure: to win or retrieve something
+- Away from pain: to escape or stop something
+
+#### Phase 2 — The Journey: Conflict and Villain
+
+The hero has left the ordinary world and is pursuing their desire. Along the way: conflict. The villain's role is to make us root harder for the hero.
+
+Rule: the worse the villain, the stronger the bond between the audience and the hero.
+
+The villain doesn't have to be a person. False beliefs, broken systems, and failing market vehicles all work as villains.
+
+#### Phase 3 — The Mentor, Expert, or Guide
+
+The hero can't reach their desire alone. They meet a guide who gives them the epiphany and the framework.
+
+For Expert Secrets purposes: the guide is the person who delivers the new opportunity. Sometimes it's a person — sometimes it's an impression, a book, a moment of inspiration. The framework received from the guide becomes the hero's plan for defeating the villain.
+
+#### Phase 4 — Achievement and Transformation
+
+The hero finishes the journey. External: they achieved the desire. Internal: they've become a different person. The old identity is dead. The new one has arrived.
+
+This invisible second journey — transformation — is the one audiences feel most deeply, even if they can't articulate why.
+
+---
+
+### The Epiphany Bridge Script
+
+An adaptation of the Hero's Journey. Use it for podcasts, Facebook Live, ads, emails, sales videos, webinars, speaking — any time you tell a story. Seven phases answer 14 questions. Scales from two minutes to two hours depending on how deep you go on each phase.
+
+**Phase 1 — The Back Story**
+What is your back story that gives us a vested interest in your journey? Return to the time and place before the epiphany. This is where your audience currently is — anchor them there first.
+
+**Phase 2 — The Desire**
+- What do you want to achieve? (Usually: to win, retrieve, escape, or stop something)
+- What are your **external** desires? (The journey of achievement — visible, concrete)
+- What are your **internal** desires? (The journey of transformation — the fear, the doubt, the shame)
+  Note: internal desires are harder to share but build rapport faster than anything else when you do.
+
+**Phase 3 — The Old Vehicles**
+What did you try before that didn't work? This is the moment of frustration that made the hero willing to try something new. The old vehicle's failure is what makes the opportunity switch credible.
+
+**Phase 4 — The Journey**
+- What was the call or event that started the journey? (Impression, feeling, conversation, event)
+- Who or what is the villain? (Often: false beliefs, broken systems, market structures)
+- What is the worst-case scenario if the journey fails?
+
+**Phase 5 — The New Opportunity**
+- Who was the guide who gave you the epiphany?
+- What was the epiphany itself?
+- What new opportunity did you create or discover from it? (This is the opportunity switch)
+
+**Phase 6 — The Framework**
+- What strategy or framework did you develop?
+- What was your plan for applying the new opportunity?
+- What results did you get following the framework?
+- What results did others get? (Case studies go here)
+
+**Phase 7 — Achievement and Transformation**
+- What external result did you accomplish? (The achievement)
+- How did you transform internally during the journey? (Who you became)
+- What happened after? Show the aftermath — let people see the real outcome.
+
+---
+
+### The 32-Second Epiphany Bridge Script
+
+When time is short, skim the surface of five core steps:
+1. The back story
+2. The journey
+3. The new opportunity
+4. The framework
+5. The achievement
+
+Same arc, compressed. Use for ad hooks, email openers, Instagram Reels, quick cold outreach.
+
+---
+
 ## 8. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
