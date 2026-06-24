@@ -470,7 +470,104 @@ The better you are at telling the stories, the more effective you become at pers
 
 ---
 
-## 9. OLC Method — Applied Framework
+## 9. Plugging In Your Offer and Stories — The One-to-Many Presentation Framework
+
+The framework for one-to-many selling takes the Story Inventory (Section 8) and the Stack Slide (Section 5) and loads them into a proven presentation structure. The output is a presentation that can run in a webinar, a live room, a pitch meeting, or a video funnel — same bones, same sequence.
+
+### The Core Rule
+
+Teaching the best content hurts sales. Identifying, breaking, and rebuilding false belief patterns gets people to take action. The presentation is not a class. It is a belief-change sequence that ends with an offer.
+
+### The Three Parts
+
+1. **The Big Domino** — get the audience to believe one thing
+2. **The Three Secrets** — break the three false belief categories through story, strategy, and social proof
+3. **The Stack and Closes** — present the offer in the precise format proven to convert
+
+### Timing (30-minute version)
+
+| Minutes | Content |
+|---|---|
+| 0–5 | Intro, Big Domino statement, Origin Story (new opportunity belief) |
+| 5–10 | Vehicle Framework Story (how the mechanism works) |
+| 10–15 | Internal Belief Story (they can execute it) |
+| 15–20 | External Belief Stories (nothing outside will stop them) |
+| 20–30 | The Stack and Closes |
+
+---
+
+### Part 1 — The Big Domino
+
+The presentation is designed to knock down exactly one domino. Not five. One.
+
+**The domino:** your audience needs to believe that your new opportunity is the key to the result they desire most, and that it is only attainable through your specific vehicle frameworks.
+
+**The domino statement formula:**
+> "If I can make people believe that [new opportunity] is the key to [the result they desire most] and is only attainable through [my specific vehicle frameworks], then all other objections and concerns become irrelevant, and they have to give me money."
+
+If the audience truly believes the new opportunity is the only path to what they want, every other objection dissolves. Status, fear, past failures — all secondary once the domino falls.
+
+---
+
+### Part 2 — Slide Sequence
+
+**Slide 1 — The Hook:** "How to [result they desire most] without [the thing they fear most]." No preamble. This is the title. It answers: why should I keep watching?
+
+**Slides 2+ — Intro / Rapport:** Build trust before teaching anything. Blair Warren's five-step persuasion sequence:
+1. **Justify their failures** — "If you've failed before, it's not your fault. The information landscape is confusing."
+2. **Allay their fears** — "If you've worried you can't do this, I want to put that to rest. You can. You just need the right guide."
+3. **Throw rocks at their enemies** — "The [industry incumbent / status quo] wants you to believe you need [barrier]. They're wrong, and they have reasons for wanting you to think that."
+4. **Confirm their suspicions** — "If you've suspected that [frustrating system] is rigged against you, you're probably right."
+5. **Encourage their dreams** — "That's why we're here. I want to show you how to make it happen."
+
+**Slide 3+ — The Ruler Slide:** Define who this is for. Be inclusive. Name the two types of person in the room (beginner / experienced) and tell each what they'll get. No one should wonder if they're in the right place.
+
+**Slide 4+ — The Big Domino Slide:** State the one belief you need them to walk away with. Make it explicit. "In the next [X] minutes, my goal is to get you to believe that [new opportunity] is the key to [desired result]. I'll show you the frameworks that make it simple to get there."
+
+**Slide 5 — Qualify Yourself:** One or two lines. Where you were (same place they are now). Where you are now (the result). Then move immediately into the Epiphany Bridge origin story — no long credential list, no resume. The story is the qualification.
+
+**Slide 6+ — Epiphany Bridge Origin Story:** Tell the full origin story (Section 7 script). This knocks down the first false belief category: that the new opportunity doesn't work. The story must end with the epiphany, not the outcome. The outcome comes later in the social proof section.
+
+---
+
+### The Three Secrets
+
+Each secret addresses one false belief category. Each one is delivered as story → strategy → social proof. In that order, every time.
+
+**The Rule on Teaching:** Share the what (the strategy). Never share the how (the tactics). The desire for the how is the reason they pay at the end. Teaching tactics in the presentation kills sales.
+
+| Secret | False belief it breaks | Story type |
+|---|---|---|
+| 1 | "This new opportunity doesn't work / isn't for me" | Origin / epiphany bridge story |
+| 2 | "I don't have the ability to use it" | Internal belief story |
+| 3 | "Something outside me will stop me" | External belief story |
+
+For each secret:
+- Name the framework (give it a label — makes it memorable and proprietary)
+- Tell the epiphany bridge story that breaks the belief
+- Share social proof: a case study or third-party result that shows someone like them achieving the outcome
+
+The three secrets are not new beliefs. They are responses to false beliefs the audience already holds about your big domino. Knock them down and the domino falls automatically.
+
+---
+
+### Part 3 — The Stack and Closes
+
+Once the three secrets are delivered, the teaching is over. Move directly into the offer. The Stack Slide (Section 5) goes here — present each element, name it, assign a value, build the cumulative total. The closes are woven in between elements, not bolted on at the end.
+
+The full stack and close sequence is a separate framework. The key principle: by the time you present the price, the audience should already believe the total value is 10x what you're asking.
+
+---
+
+### Blair Warren's One-Sentence Persuasion Strategy (Full)
+
+> "People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions, and help them throw rocks at their enemies."
+
+This sentence contains the entire rapport-building sequence. Run it in the intro. Revisit it whenever the audience shows skepticism. It is not manipulation — it is meeting the audience where they actually are.
+
+---
+
+## 10. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
