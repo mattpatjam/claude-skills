@@ -407,6 +407,9 @@ Content & Purpose
 - [ ] Would a smart, experienced professional in Matthieu's network stop scrolling?
 - [ ] Is there at least one specific, verified fact or concrete example?
 - [ ] Is every fact traceable to a verified source from the approved list?
+- [ ] Does this post teach what, not how? Does it show the insight and outcome without
+      handing over the complete process? If a reader could do Matthieu's job after reading
+      this post — rewrite it. The how is what clients pay for.
 
 Voice & Tone
 - [ ] Does it sound like a real professional wrote this? Read it aloud to check
