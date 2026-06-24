@@ -107,12 +107,26 @@ Every post must serve at least ONE of these three purposes:
    The reader who sees 20 posts over 10 weeks and thinks "this person really knows what
    they're talking about" is worth more than 1,000 empty impressions.
 
+**The teach what, not how rule:**
+Posts show the insight and the outcome. They never walk through the complete tactical process.
+The insight is the hook. The process is what people pay for.
+
+"What makes a buyer ready to sign" is a post. "Here are the 7 steps to qualify a buyer" is a manual.
+"Why I never send a price before asking two questions" is a post. The two questions stay private.
+"This type of buyer closes in under 3 weeks — here's how I spot them early" is a post.
+The identification method is what clients hire Matthieu to do.
+
+The desire for the how is the reason people reach out, DM, or book a call.
+If a post teaches the full playbook, it removes the reason to hire the person who built it.
+Teach the principle. Name the outcome. Hold the execution.
+
 What this is NOT:
 - A content calendar for vanity metrics
 - A place to recycle generic real estate tips found on any blog
 - A megaphone for self-promotion
 - Filler — if a post doesn't pass the "would I actually stop scrolling for this?" test,
   rewrite it
+- A free manual that replaces the need to hire Matthieu
 
 The benchmark question before every post:
 "If a smart, experienced professional in Matthieu's network read this, would they find
