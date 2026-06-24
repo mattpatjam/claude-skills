@@ -412,7 +412,65 @@ Same arc, compressed. Use for ad hooks, email openers, Instagram Reels, quick co
 
 ---
 
-## 8. OLC Method — Applied Framework
+## 8. False Beliefs and Story Inventory
+
+The only real goal in marketing is to identify the false beliefs customers tell themselves that keep them from success — and rewrite those stories.
+
+If a buyer believes it will work for them, they will do the work. If they don't, they'll start the journey but won't finish it. The number one job of any salesperson or marketer is to get the buyer to believe the new opportunity is the key to their desired result.
+
+### Why False Beliefs Form
+
+When someone has a bad experience, they create a story they tell themselves. That story holds them back. When they encounter your new opportunity, their subconscious immediately scans their existing stories to see if what you're saying fits. If it does, they believe you. If not, they're skeptical — and you need to rewrite the story.
+
+The mechanism: identify the experience that created the false belief → share a story that breaks it → give them an epiphany → new belief forms.
+
+### The 4 Types of False Beliefs (and the Stories That Break Them)
+
+Every buyer has false beliefs in four areas. Each requires a specific type of story:
+
+**1. False belief about the new opportunity itself**
+The buyer has tried something before that didn't work and has concluded this category is broken. Your origin story (epiphany bridge) breaks this — it shows how you discovered a different path that the old vehicle couldn't offer. Goal: break the belief that what you're offering is just another version of what failed them.
+
+**2. False belief about the vehicle framework**
+Once they understand the opportunity, their next objection is the mechanism. "That might work for some people, but I don't understand how it actually works." Share a story about how you learned the framework, how you earned it, why it works in the real world. Goal: make the mechanism credible, not abstract.
+
+**3. Internal false belief — "I can't do it"**
+Even if they believe in the opportunity and the framework, they don't believe they personally can execute. "Others can do this, but not me." Share a story of how you discovered you could do it — and examples of people just like them who did. Goal: break the belief that it requires skills or circumstances they don't have.
+
+**4. External false belief — "Something outside me will stop it"**
+The last layer: they believe an outside force (the market, the timing, their partner, some systemic factor) will prevent success even if everything else is right. Share an epiphany bridge story that shows how someone in the same external situation succeeded despite it. Goal: remove the escape hatch of external blame.
+
+### How to Rewrite a False Belief
+
+1. Identify the experience they went through that created the story.
+2. Tell a better story that gives them an epiphany and collapses the old belief.
+
+The story must match the belief category exactly. A story about why the vehicle works (category 2) does nothing to break "I personally can't do this" (category 3). Match story to belief type.
+
+### Building the Story Inventory
+
+Work through four columns for each category of false belief:
+
+| Column | What to write |
+|---|---|
+| **False belief** | The exact story they tell themselves. Write it in their words, not yours. |
+| **Experience** | The likely event that created this belief. What happened to them? |
+| **Story they tell** | How that experience became a permanent rule in their mind. |
+| **Your epiphany bridge** | The story you tell that breaks the rule and installs a new belief. |
+
+Run three rows per category (new opportunity, vehicle, internal, external) = 12 story inventory slots total.
+
+**If you don't have a personal story for a false belief:** use someone else's. A client story, a case study, a third-party example works just as well — as long as the epiphany moment is clear and the listener can see themselves in it.
+
+### The Payoff
+
+A fully built story inventory means no objection surprises you. Every objection a buyer raises maps to one of the four belief categories. You already have the story. You tell it. The objection dissolves not because you argued against it — but because the buyer's internal story just changed.
+
+The better you are at telling the stories, the more effective you become at persuasion — and the less you need to rely on logic, pressure, or discounts.
+
+---
+
+## 9. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
