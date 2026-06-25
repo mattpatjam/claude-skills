@@ -530,32 +530,159 @@ If the audience truly believes the new opportunity is the only path to what they
 
 ---
 
-### The Three Secrets
+### Building the Three Secrets — Step by Step
 
-Each secret addresses one false belief category. Each one is delivered as story → strategy → social proof. In that order, every time.
+Before the presentation, you need to identify and prepare the material for all three secrets.
 
-**The Rule on Teaching:** Share the what (the strategy). Never share the how (the tactics). The desire for the how is the reason they pay at the end. Teaching tactics in the presentation kills sales.
+**Step 1 — Identify the three core false beliefs**
 
-| Secret | False belief it breaks | Story type |
+Prospects hold false beliefs in three categories. Find the one dominant belief in each:
+
+| Category | What it is | Example |
 |---|---|---|
-| 1 | "This new opportunity doesn't work / isn't for me" | Origin / epiphany bridge story |
-| 2 | "I don't have the ability to use it" | Internal belief story |
-| 3 | "Something outside me will stop me" | External belief story |
+| Vehicle | "This new opportunity doesn't work / isn't right for me" | "Sales funnels don't work in real estate" |
+| Internal | "I don't have the ability to execute this" | "I'm not good at sales / tech / presenting" |
+| External | "Outside forces will stop me regardless" | "The market / economy / competition is against me" |
 
-For each secret:
-- Name the framework (give it a label — makes it memorable and proprietary)
-- Tell the epiphany bridge story that breaks the belief
-- Share social proof: a case study or third-party result that shows someone like them achieving the outcome
+Identify which belief in each category is the core chain holding the big domino up. That's your target.
 
-The three secrets are not new beliefs. They are responses to false beliefs the audience already holds about your big domino. Knock them down and the domino falls automatically.
+**Step 2 — Write three epiphany bridge stories**
+
+For each core false belief, find (or create) the epiphany bridge story that breaks it. The story must show the transformation from the false belief to the new belief in a visceral, personal way.
+
+**Step 3 — Rewrite each as a secret**
+
+Turn each false belief + story into a secret phrased as a how-to statement:
+- "Secret 1: How to [vehicle outcome] even if [vehicle false belief]"
+- "Secret 2: How to [internal outcome] even if [internal false belief]"
+- "Secret 3: How to [external outcome] even if [external false belief]"
+
+---
+
+### Delivering the Three Secrets — The 6-Step Flow
+
+Each secret follows the same sequence. Every time. No shortcuts.
+
+1. **State the secret** — name it using the how-to framing
+2. **Introduce the framework's name** — give it a proprietary label
+3. **Share the epiphany bridge story** — the one you created or earned that breaks this belief
+4. **Teach the strategy (the what, not the how)** — show them what to do, never how to do it; the how is what they pay for
+5. **Case study slides** — people like them who got the result using this framework
+6. **Other supporting epiphany bridge stories** — additional stories that reinforce the new belief
+
+**Note on Secret 1 (Vehicle):** There are two related but distinct stories here. The origin story (told during the intro) is about how you discovered the new opportunity and built your framework. The vehicle story (Secret 1) is about how you developed the framework itself. Don't confuse them — they serve different purposes.
+
+**The Rule on Teaching:** The content section answers "what" — never "how." Teaching tactics kills the close. The desire for the how is the conversion mechanism. Satisfy it prematurely and you lose the sale.
 
 ---
 
 ### Part 3 — The Stack and Closes
 
-Once the three secrets are delivered, the teaching is over. Move directly into the offer. The Stack Slide (Section 5) goes here — present each element, name it, assign a value, build the cumulative total. The closes are woven in between elements, not bolted on at the end.
+#### The Transition Slide
 
-The full stack and close sequence is a separate framework. The key principle: by the time you present the price, the audience should already believe the total value is 10x what you're asking.
+Before revealing the offer, use a permission-based transition. Ask a question that anchors everything they just learned to their desired outcome:
+
+- "If you used what I just showed you, would that help your business?"
+- "Who here wants me to spend 10 minutes showing you how to get all of this?"
+
+This removes pressure, signals a shift, and gets them nodding yes before the offer appears.
+
+#### The Question Slide
+
+Ask for permission to share something that will help them. Then warm them up:
+- "How many of you are excited about what we just covered?"
+- "Who wants me to walk you through how to get this?"
+
+This pre-frames the close as a favour, not a pitch.
+
+#### The Offer Reveal Sequence
+
+Present slides in this order:
+
+1. **Core product slide** — show a visual of what they're buying
+2. **What they'll gain / what they'll eliminate** — move them away from pain, toward pleasure. "When you have this, you'll be able to..." / "You'll finally be able to get rid of..."
+3. **The problem this solved for you** — the roadblock you hit trying to get what they want. "When I was figuring this out, I ran into... so I had to create this for myself."
+4. **What this saves them** — time and money they won't have to spend learning what you already learned
+
+#### The Stack Slide — Core Mechanic
+
+The stack slide is the most important close mechanic in the entire framework. The principle: **the only thing prospects remember is the last thing you show them.** If the last thing they see is the full offer stack, they anchor the price to total value — not the last item you mentioned.
+
+How to build it:
+
+- Introduce element 1 → tell the story behind how you created/learned/earned it → show element 1 on the stack slide with its standalone value
+- Introduce element 2 → same story → add to the stack slide, update total value
+- Repeat for every element
+- Each time you add an element, the audience sees the cumulative value rise
+
+Never present the price until the full stack slide is showing. The last thing they see before the price is every element, combined, with total value. Price is then revealed as a steep discount against that total.
+
+#### Slide Sequence Within the Close
+
+| Slide | Purpose |
+|---|---|
+| Core product | Visual of what they're buying |
+| Ability / elimination | Desire and pain relief |
+| Your roadblock | Empathy and credibility |
+| Time/money saved | Justify cost |
+| Stack slide (element 1) | Value builds |
+| Framework elements | Each added one at a time |
+| Case studies | Proof it works for others |
+| Who this is for | Requalify the room |
+| Destroy the #1 objection | Address the elephant directly — "You might be thinking you can't start because X. Here's why that's a mistake." |
+| Full stack slide | Everything combined |
+| "If all this did was..." | If-all-this-did statements for each secret. Anchor each outcome independently. |
+| Price reveal | Discounted from total stack value |
+| Price justification | Compare to retail price or cost of equivalent results |
+| Guarantee | Risk reversal — state it clearly and simply |
+| "Even if it only does half..." | Minimum-viable-ROI reframe |
+| Full recap slide | Entire offer one more time |
+| Urgency/scarcity bonus | Time-limited or quantity-limited push to act now |
+| Closing CTA | Stays on screen during Q&A — price, countdown, next step |
+
+#### Price Justification Framing
+
+"If you went to my regular site right now you could get this for $X. But because you've invested this time with me and proven you want this result, I'm making you a special offer."
+
+---
+
+### The 16 Mini-Closes
+
+Mini-closes are short epiphany bridge stories used to break the false belief "I shouldn't buy." Use them throughout the close sequence and during Q&A — not all at once. Pick the ones that match the objections surfacing in the room.
+
+1. **Money is good** — Money is a tool for exchange. You spend it to get something greater in return. Get the prospect to reframe money as a vehicle, not a sacrifice.
+
+2. **Disposable income** — They're already spending on things that don't serve them. Redirect that spend toward growth. Long-term fulfillment vs. short-term comfort.
+
+3. **Money replenishes** — Money comes back every month. Time doesn't. If they don't act, time is what they lose — not money.
+
+4. **Break old habits** — If they leave today without investing, nothing in their life changes. The only variable that produces a different outcome is a different decision.
+
+5. **Information alone** — They've received real value from the content. But information without accountability and coaching produces nothing. That's the gap this fills.
+
+6. **Money or excuses** — Call it gently: they have the money, or they have an excuse. Help them see which one is actually running the show.
+
+7. **Your two choices** — Walk them through what both paths look like. Stay where you are, or move. Make the contrast vivid.
+
+8. **Two choices (cost frame)** — Justify why the investment is priced where it is. Help them understand what it would cost to get these results any other way.
+
+9. **Us vs. them (doers vs. dabblers)** — Some people are here to implement. Others will take notes and never move. Ask them which one they want to be.
+
+10. **The hand hold** — Walk them through the signup process step by step, live. Remove any friction from the mechanics of buying.
+
+11. **Say goodbye** — Show them all the pain that disappears the moment they invest. Make the relief concrete and specific.
+
+12. **Now and later** — Paint their life now vs. what it becomes after they implement. Make the contrast visceral.
+
+13. **Only excuses** — Surface every excuse you've heard and diffuse each one directly. "Some people say X. Here's the truth about that."
+
+14. **Reluctant hero** — Help them believe they can actually do this. The obstacle isn't external — it's the story they're telling about themselves.
+
+15. **If you only got...** — Reference the value they've already received for free in the presentation. "If that's what you got for free, imagine what you'll get when you're inside."
+
+16. **Close close** — The final push. Used repeatedly during Q&A. A pure epiphany bridge story drawn from your story inventory — one that breaks the last remaining false belief about why they shouldn't buy right now.
+
+**Build your own closes:** A close is just an epiphany bridge story targeted at a buying objection. Any story from your story inventory that you didn't use in the presentation can become a close. The best presenters develop a library of 20-30 closes drawn from real conversations with their audience.
 
 ---
 
