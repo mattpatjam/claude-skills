@@ -73,3 +73,4 @@ Takes a property listing URL, scrapes it with Firecrawl, and formats the details
 - The "WHY THIS VILLA STANDS OUT" section should synthesize the most compelling points from the listing — lead with design/uniqueness, then investment appeal, then location.
 - Keep bullet points concise — one line each.
 - Do not add commentary or explanation outside the formatted listing.
+- **Run humanizer before delivery.** Invoke the `humanizer` skill on all copy before sending to a client. Remove em dashes, AI vocabulary, and promotional language.
