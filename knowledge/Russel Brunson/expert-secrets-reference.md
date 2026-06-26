@@ -694,7 +694,72 @@ This sentence contains the entire rapport-building sequence. Run it in the intro
 
 ---
 
-## 10. OLC Method — Applied Framework
+## 10. Becoming Your Dream Customer's Guide
+
+Your dream customer is stuck in a red ocean — they've tried vehicles that haven't worked, they're frustrated, and they're waiting for a guide to lead them through the challenges ahead.
+
+**Your role is the guide, not the hero.** The customer is the hero. Your brand exists to take them on their hero's journey.
+
+### The Journey Structure
+
+1. **Hook** — grab attention, become the guide who can lead them through their challenges
+2. **The Calling (opt-in)** — your first real offer. The deliverable matters less than the commitment they make in deciding to start this journey with you. Give them a lead magnet; they give you their email. They've decided to go on the journey.
+3. **The Presentation** — once they join your list, you have the ability to make them a presentation. It does three things:
+   - Introduce yourself as their new guide
+   - Tell your story to give them an epiphany
+   - Present your new opportunity
+4. **The Choice** — they accept the new opportunity or not. If yes, they become customers.
+5. **The Framework** — deliver the framework and work to ascend them up your value ladder
+6. **Transformation** — help them achieve what they desire and become the person they want to become
+
+### The Core Principle
+
+Focus on one funnel until it hits success. Do that by perfecting the presentation and overcoming your audience's objections. Every other move is a distraction until this one works.
+
+---
+
+## 11. The Live Presentation Funnel (8-Step Sequence)
+
+The operational sequence for running a live webinar. Each step is distinct — don't collapse them.
+
+**Step 1 — Send traffic to the webinar registration page**
+- Headline format: "How to [desired result] without [feared obstacle]"
+- Curiosity-based headlines throughout — build as much curiosity as possible
+- Add a visual that creates curiosity (even one that makes no sense)
+- Use urgency and scarcity — these are the real conversion weapons
+
+**Step 2 — Send registrants to a thank-you page with a self-liquidating offer**
+- The SLO offsets ad spend
+- Presented immediately after registration, before the webinar
+
+**Step 3 — Send a series of indoctrination emails**
+- Prime registrants on your origin story, your framework, and the new opportunity
+- Build belief before they show up live
+
+**Step 4 — Send reminders**
+- Multi-touch reminder sequence leading up to the live event
+- Urgency and excitement in each reminder
+
+**Step 5 — Present the webinar live**
+- Follow the one-to-many presentation framework (Section 9)
+- Big Domino → Three Secrets → Stack and Closes
+
+**Step 6 — Send follow-ups and create last-minute urgency**
+- For registrants who didn't attend and attendees who didn't buy
+- Replay access + deadline framing
+
+**Step 7 — Close the card**
+- Hard deadline on the offer
+- Remove access to the replay and special price simultaneously
+- Urgency must be real, not manufactured
+
+**Step 8 — Repeat**
+- Improve the presentation, test new traffic sources, optimize the SLO
+- The funnel is a system. Each run produces data. Use it.
+
+---
+
+## 12. OLC Method — Applied Framework
 
 **OLC's core market desire:** Wealth (developer ROI, freed capital, next project funded)
 
