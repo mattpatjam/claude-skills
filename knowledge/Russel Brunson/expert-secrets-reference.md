@@ -801,3 +801,5 @@ One switch (outsourced sales partner model). Five levels. Each level deepens the
 
 *See also: `dotcom-secrets-reference.md` for funnel architecture, value ladder mechanics, and Hook/Story/Offer framework.*
 *Applied to OLC: `company/brand-foundation.md`, `company/offer.md`, `methodology/phase-1-offer.md`*
+
+*Funnel operations (Section 11): pairs with `dotcom-secrets-reference.md` Hook/Story/Offer and value ladder mechanics.*
