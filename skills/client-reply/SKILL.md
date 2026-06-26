@@ -180,6 +180,7 @@ Save these notes in `references/examples/` inside the skill folder (one entry pe
 - **Conversational but professional.** No corporate jargon. No emojis unless context demands it.
 - **Bullet points where possible.** Clean, scannable, easy to read.
 - **No dashes or em dashes.** Use commas, periods, parentheses instead.
+- **Run humanizer before sending.** Invoke the `humanizer` skill on the draft reply. Any AI patterns will undercut the warm, human tone this skill is trying to create.
 - **Numbers over vague language.** "9% annual return" not "good returns."
 - **Human and warm, but confident.** Like talking to a smart colleague, not a salesman.
 
