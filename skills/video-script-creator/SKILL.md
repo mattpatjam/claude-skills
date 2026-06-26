@@ -210,6 +210,12 @@ Key patterns to replicate:
 
 ---
 
+## Humanizer Step
+
+Before delivering any script, invoke the `humanizer` skill on the copy. Remove em dashes, AI vocabulary (pivotal, showcase, stunning, vibrant, etc.), and any promotional language that sounds AI-generated. Scripts that pass humanizer are ready to post.
+
+---
+
 ## Performance Tracking
 
 After posting, log results in `references/performance/`:
