@@ -186,7 +186,7 @@ body {
 ## Notes
 
 - **Content density:** A4 at 96dpi screen is ~794px wide. Keep font sizes 13–16px for body, 28–48px for H1/H2. Don't cram — one idea per page is the rule.
-- **Images/logos:** Use relative paths. If the logo path is unknown, use a text placeholder and note it for the user to fix.
+- **Images/logos:** Use relative paths. OLC Method logos are kept locally at `website/OLC_beige_horizontal.jpg` and `website/OLC_beige_vertical.jpg` — always reference these, never `assets/`. The `assets/` folder lives in Google Drive only and is not available locally. The Nirvana logo is at `website/clients/Nirvana.png`. If another client logo is needed, download it from Google Drive first before referencing it in the HTML.
 - **No JavaScript:** Pitch decks are static documents. No JS means no risk of broken interactivity in PDF.
 - **Printing to PDF:** Browser → File → Print → Destination: Save as PDF → Paper size: A4 → Margins: None. Or use system print dialog with A4 selected.
 - **Non-OLC brand:** If brand tokens are provided, substitute all sage green (#4F6352) references with the new accent color. Substitute fonts if specified. Keep the same page structure.
