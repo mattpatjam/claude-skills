@@ -98,7 +98,11 @@ Use the A4 page structure from the reference file (`a4-template.md`). Key rules:
 
 Use the Write tool to save the file at the specified output path. The file must be fully self-contained — open it in a browser and it works with no other files (except referenced images like logos).
 
-**Step 7 — Open and confirm**
+**Step 7 — Run the humanizer**
+
+Invoke the `humanizer` skill on all text content in the document. Remove em dashes, AI vocabulary (granular, pivotal, showcase, etc.), -ing phrases, and any promotional or soulless language. Every client-facing document must pass through humanizer before delivery.
+
+**Step 8 — Open and confirm**
 
 Run `open [output-path]` to open the file in the browser. Report: file path + page count.
 
