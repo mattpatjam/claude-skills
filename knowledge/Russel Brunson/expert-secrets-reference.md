@@ -799,6 +799,108 @@ One switch (outsourced sales partner model). Five levels. Each level deepens the
 
 ---
 
+## 13. The Presentation Shortcut — 8 Questions
+
+When you need to build a presentation fast (15 minutes minimum), answer these eight questions in order. The answers become your script.
+
+1. **What's the new opportunity I'm offering?** — Not an improvement. A new vehicle.
+2. **What special offer can I create for those who purchase?** — This is your offer stack.
+3. **What is the one Big Domino for this offer?** — Frame it as: "How to make at least [result] with [framework]."
+4. **What is my epiphany bridge origin story to knock down the Big Domino?** — Your story of how you discovered/proved this works.
+5. **What framework am I teaching, and what false belief am I breaking about the vehicle?** — List: Framework name, false belief, the truth, the story that breaks it, the title.
+6. **What framework am I teaching, and what false belief am I breaking about internal beliefs?** — Same structure: framework, false belief, truth, story, title.
+7. **What framework am I teaching, and what false belief am I breaking about external beliefs?** — Same structure: framework, false belief, truth, story, title.
+8. **How can I structure the stack and close to increase conversions?** — Work the stack slide sequence. Build value before revealing price.
+
+**Note:** Titles are the most important element. Spend disproportionate time getting them right.
+
+### When the Presentation Isn't Working
+
+Three root causes only:
+
+1. You picked a bad market — no one wants what you're offering.
+2. You built an improvement offer, not a new opportunity.
+3. You slipped into teaching tactics before selling your audience on the strategy (the vehicle).
+
+Fix the market, the opportunity switch, or the belief-breaking sequence — in that order.
+
+---
+
+## 14. The 5-Minute Perfect Webinar Script
+
+A compressed script for Facebook Lives, short video ads, and low-ticket sales pages. The full Perfect Webinar structure in five minutes.
+
+---
+
+"Hey, did you know that [big misconception]?
+
+I know it sounds crazy because we're so used to hearing about [usual thing], and while that's important, I'm going to share three secrets with you today that are going to revolutionize the way you [area of their life you'll revolutionize].
+
+I'm [name], and I am [your role] who has helped [accomplishment].
+
+What is [the big idea or thing you'll reveal]?
+
+It's [the thing].
+
+It's [more details about the thing].
+
+I'm going to share with you three secrets about [the thing] and how you can [big payoff].
+
+I know what you're probably thinking [objection],
+
+But again I'm going to show you a great way you can [action they can take] and get amazing results.
+
+The first secret is [first secret].
+
+The big idea here is [the first secret big idea].
+This is important because [why first secret is important].
+
+The second secret is [second secret].
+
+The big idea here is [the second secret big idea].
+
+This is important because [why second secret is important].
+
+The third secret is [third secret].
+
+The big idea here is [the third secret big idea].
+
+This is important because [why third secret is important].
+
+Now, I know what you're thinking.
+
+It's [next objection].
+
+The tricky thing is [the real truth behind the objection they don't realize].
+
+And so I have [verb ending in -ed] this [the thing you've developed, created, or found] so you can [what they can do with it].
+
+[What makes this so special].
+
+And so what this is going to do is [what this will do for them].
+
+And I, as [your role] who has [cool accomplishment], what I do is [the superpower secret of your success].
+
+I've [what you've created/done] for them if you click this link.
+
+You can [what they can do when they click the link].
+
+I honestly don't know how much longer we'll keep this [the thing] available, and prices will probably go up because [why you can't keep this offer forever].
+
+Click the link to get it today while it's still available. We're always here to help, and I can tell you all the amazing results we've gotten for [target audience], just like you who are struggling with [problem].
+
+We also have [the next thing you'll offer them in an OTO], but today I'm talking about [the thing], which is amazing.
+
+I can't wait to see you on the inside.
+
+Have a great day."
+
+---
+
+**Primary use cases:** Facebook Lives that get repurposed into paid ads, short-form sales pages for lower-ticket offers on your value ladder.
+
+---
+
 *See also: `dotcom-secrets-reference.md` for funnel architecture, value ladder mechanics, and Hook/Story/Offer framework.*
 *Applied to OLC: `company/brand-foundation.md`, `company/offer.md`, `methodology/phase-1-offer.md`*
 
