@@ -905,6 +905,8 @@ Have a great day."
 
 ## 15. Hooks, Ads, and the Guide's Role in the Customer Journey
 
+> **Format note:** The "Perfect Webinar" and "live presentation funnel" are Brunson's original containers. The frameworks inside them — hook sources, Epiphany Bridge Story structure, SOAP opera email arc, Three Secrets, Stack — apply equally to any format: short-form video (Reels, TikTok, Facebook Live), long-form video, email sequences, newsletters, LinkedIn posts, sales pages, DM follow-up cadences. When references to "webinar" appear in this document, read them as "presentation" and choose the format that fits the audience and platform.
+
 ### Where Hooks Come From
 
 Every message you post and every ad you create draws from the same pool of source material. The personality and stories of the guide are woven into all of it.
