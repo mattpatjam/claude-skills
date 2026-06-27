@@ -901,6 +901,86 @@ Have a great day."
 
 ---
 
+---
+
+## 15. Hooks, Ads, and the Guide's Role in the Customer Journey
+
+### Where Hooks Come From
+
+Every message you post and every ad you create draws from the same pool of source material. The personality and stories of the guide are woven into all of it.
+
+Pull hook ideas from:
+
+1. Epiphany bridge stories
+2. Frameworks you teach
+3. The red ocean you're throwing rocks into (the old, broken vehicle)
+4. Your new opportunity
+5. Elements of your future-based cause
+6. Your platform (the movement you're building)
+7. Identity shifts ("you are now someone who...")
+8. Manifesto statements
+9. Milestone awards (proof of transformation at each step)
+10. Your offers
+11. Your presentations
+
+### The Three Most Profitable Ad Types
+
+All other ad formats are worth testing. These three are where the money consistently comes from:
+
+1. **Epiphany Bridge Story ads**
+2. **Email epiphany follow-up funnels (SOAP opera sequences)**
+3. **Live presentations repurposed as ads** (Facebook Lives, webinar replays)
+
+Most ads are simply a story about how you created the lead magnet, webinar, book, or whatever the CTA points to. You tell the story — you don't explain the product.
+
+### Epiphany Bridge Story Ads — The 5 Phases
+
+Every story ad follows this sequence, in order:
+
+1. **Backstory** — where the dream customer was before (the pain, the failed attempts, the frustration)
+2. **Journey** — what they tried that didn't work; the villain is always a false belief or broken vehicle, never a person
+3. **New opportunity** — the moment the old path was abandoned and something different appeared
+4. **Framework** — the decision or mechanism that made the shift possible
+5. **Achievement** — where they are now; stated plainly, no hype
+
+End with a CTA: "Click to get access to the framework."
+
+The story is about them, not you. You are the guide. They are the hero.
+
+---
+
+### SOAP Opera Email Sequences
+
+The perfect webinar framework broken into an email sequence. Used when someone first joins your list — these are the emails that run immediately after the opt-in.
+
+The name comes from the hook at the end of each episode: every email teases the next one so subscribers wait anxiously for it.
+
+**Emotional structure across 9 emails:**
+
+| Emails | Focus | What happens |
+|---|---|---|
+| 1–5 | Emotion | Deliver the presentation — one core story per email, building toward the offer. Email 5 introduces the Stack. |
+| 6–7 | Logic | Justify the decision with facts, data, results, proof. Why this is the rational choice. |
+| 8–9 | Fear | Urgency and scarcity close the sequence. What they lose if they don't move. |
+
+**Email-by-email breakdown:**
+
+- **Email 1:** Open with the hook that got them on the list. Set the stage. Tease email 2 ("tomorrow I'm going to show you why everything you've been told about [topic] is wrong").
+- **Email 2:** Origin story — your epiphany bridge. The moment you discovered the new opportunity. Ends with the vehicle secret teased.
+- **Email 3:** Vehicle secret story — how the framework works in plain language. Breaks the false belief about the vehicle. Teases internal belief email.
+- **Email 4:** Internal belief story — a person who thought "this isn't for someone like me" and did it anyway. Breaks self-doubt. Teases external belief email.
+- **Email 5:** External belief story + **Stack introduction** — breaks the "the market / timing / circumstance won't allow it" belief. Then presents the full offer stack for the first time. This is the emotional close.
+- **Email 6:** Logic — ROI breakdown, time saved, cost of inaction. Reference the stack value vs. the price.
+- **Email 7:** More logic — case study, testimonial, or third-party proof. Make the rational case.
+- **Email 8:** Fear — "Here's what happens if you don't do this." Not manipulation — the real cost of staying where they are.
+- **Email 9:** Final urgency — deadline, price increase, or access closure. Last chance to act.
+
+**The guide's role throughout:** You hook them in the ad. You give them the call to start the journey (opt-in). You present the new opportunity. You guide them through each belief shift. You help them achieve the transformation they want most.
+
+You are never the hero of these emails. The reader is the hero. You are the guide who has walked this path before and knows the way through.
+
+---
+
 *See also: `dotcom-secrets-reference.md` for funnel architecture, value ladder mechanics, and Hook/Story/Offer framework.*
 *Applied to OLC: `company/brand-foundation.md`, `company/offer.md`, `methodology/phase-1-offer.md`*
 
