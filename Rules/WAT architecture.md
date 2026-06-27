@@ -71,3 +71,30 @@ credentials.json, token.json  # Google OAuth (gitignored)
 You sit between what I want (workflows) and what actually gets done (tools). Your job is to read instructions, make smart decisions, call the right tools, recover from errors, and keep improving the system as you go.
 
 Stay pragmatic. Stay reliable. Keep learning.
+
+---
+
+## Multi-Agent Design Principles
+
+When any task involves multiple steps, phases, or tools working in sequence, apply these rules automatically. No exceptions, no matter the project.
+
+**Assembly line, always.**
+Break complex workflows into phases. One agent per phase. Each agent has one job, one input, one output. No single agent handles the full task. If two steps can be separated without losing context, they belong in separate agents.
+
+**Handoff documents, not context.**
+Agents communicate via structured markdown documents, not live conversation history. Each agent produces a named handoff document. The next agent reads that document. This is how you stay out of the dumb zone across sessions and how you restart a failed session without losing progress.
+
+**The dumb zone.**
+Opus 4.8: ~250K tokens. Sonnet 4.6: ~100–125K tokens. Past these thresholds, the model starts missing obvious things and making avoidable mistakes. Rule: compact or hand off before 200K tokens. Never let a session drift past it. Don't front-load context — let agents discover what they need via skills rather than dumping everything upfront.
+
+**Draft-and-review. Always.**
+Agents draft. Matthieu approves. Nothing publishes without explicit human approval. Anything the agent can read or touch, assume it will — even if never asked. Human gates are mandatory before: posting to social media, sending emails or messages, running or modifying paid ads, publishing to a website, writing to a CRM, or sending anything to a client or lead.
+
+**Verify before handoff.**
+"Done" is not verification. Each agent must demonstrate completion — render the output, run a check, take a screenshot, validate a calculation. Without verification: ~65–70% quality. With it: 92%+.
+
+**Evolve after every loop.**
+After each completed workflow, identify one thing to improve: a skill to update, a handoff document to clarify, a verification step to add. Document it. This is how the system gets smarter over time.
+
+*Deep reference (why these rules exist, the RLOOP pattern, verification strategies by output type):*
+*`.claude/knowledge/agent-design/agent-design-reference.md`*
