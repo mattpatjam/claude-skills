@@ -25,7 +25,8 @@ Build playbooks only when you have enough sources to confirm what's real.
 
 | File | Topic | Sources |
 |---|---|---|
-| [facebook-ads.md](facebook-ads.md) | Facebook/Meta Ads — psychology, creative, copy | Sabri Suby |
+| [facebook-ads.md](facebook-ads.md) | Facebook/Meta Ads — psychology, creative, copy, formats | Sabri Suby (x2) |
+| [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO | Sabri Suby |
 
 ---
 
