@@ -194,3 +194,111 @@ Before launching any Facebook ad, verify:
 - [ ] Gain frame used (unless testing fear frame)
 - [ ] Specificity in the numbers/claims ("12 kg", "90 leads", "5 weeks")
 - [ ] Total copy under 2,200 characters
+
+---
+
+## Meta Ad Scaling Tactics (2026)
+
+*Source: Sabri Suby — second video on paid ads*
+
+### Hack 1: Statics Beat Video
+
+Static image ads outperform video more often than people expect, for two structural reasons:
+
+1. **Volume:** Meta's Advantage+ (Andromeda) needs a constant feed of fresh creative or ads fatigue fast. Producing enough video to keep up is extremely expensive and slow. Statics can be produced in bulk, cheaply, in one session per week.
+2. **Algorithm bias:** Meta can show far more static ads per user per session than video ads. Because Meta optimizes for revenue, their algorithm favors statics — more impressions available = better inventory = lower CPMs.
+
+**Rule:** Dedicate one hour per week to producing fresh static creatives from your winning offer. One hour, every week, non-negotiable. A down-and-dirty native static will often outperform a polished 2.5-month VSL production.
+
+---
+
+### Hack 2: The One Keyword / Identity Trigger Hack
+
+Advantage+ targets by analyzing your creative, copy, offer, and landing page — not just audience settings. To reach different audience pockets, you have to signal the audience in the creative itself.
+
+**How it works:**
+1. Take your best performing ad
+2. Identify the top 20% of clients generating 80% of your revenue — what niches/industries/demographics are they in?
+3. Duplicate the winning ad and insert a niche keyword into the headline or body copy
+
+Example:
+- Generic: "Here's how to get 462 leads per week on autopilot"
+- Niche version: "Here's how to get 462 dental leads per week on autopilot"
+- Niche version: "Here's how to get 462 property investment leads per week on autopilot"
+
+The keyword acts as an **identity trigger** — the prospect recognizes themselves, and the algorithm learns which pocket of the audience to expand into. Same ad, different keyword = lower CPL, new audiences unlocked.
+
+---
+
+### Hack 3: AI Variation Scaling
+
+Once you have a winning ad, don't just run it — manufacture 100+ variations of it using AI.
+
+**The brief to give AI:**
+> "Read this ad. Your job is to rewrite it. If I showed the next version to 100 people, not one of them could tell a different person wrote it. The voice, structure, and feel must be identical. Now write a version for [specific audience/niche]."
+
+Start with body copy variations, then headlines, then the lead-in. Drop all variations into a CBO and let Meta find the winner. This compounds the one keyword hack — you're not just changing a word, you're creating fully cohesive niche-specific versions.
+
+---
+
+### Hack 4: Run Proven Organic Content as Ads
+
+If a piece of content has already proven itself organically — high views, high engagement — it has cleared the most important test: real people chose to watch it without being paid to.
+
+Take that organic content and run it as a paid ad. You're adding fuel to something already burning.
+
+Sources to mine for proven content:
+- Your own YouTube / Instagram / TikTok top performers
+- Influencers and pages in your niche (for inspiration on format and topic, not copying)
+
+---
+
+### Hack 5: Broad Targeting + Super Specific Creative
+
+Let the algorithm do the targeting. The creative specificity does the qualifying.
+
+Run broad audiences (no demographic restrictions, no interest stacking) but make the creative hyper-specific to the niche or person you want to attract. The algorithm will find the right people through the content signal.
+
+Counterintuitive result: broad targeting + specific creative often outperforms narrow targeting + generic creative.
+
+---
+
+### Hack 6: Message Match — Mirror Ad Headlines on Landing Pages
+
+Most advertisers spend 80% of effort on ads and 10% on landing pages. If the ad and landing page feel disconnected, people bounce instantly.
+
+**The rule:** Your winning ad headline should be mirrored on the landing page headline. Same language, same promise, same tone.
+
+**Why Meta is the best split-testing tool for landing pages:**
+- Your ad headline gets seen by thousands of people
+- Only a fraction click
+- You already know which headline won (it's the one getting clicks)
+- Mirror that exact headline on the landing page — conversion rate will jump
+
+Apply the same mirroring to sub-headlines and lead-in copy. Always run a minimum of 3 landing page variations.
+
+---
+
+### Hack 7: Retarget with a Different Offer
+
+When someone doesn't convert from your first ad, don't just hit them with the same ad again. There's a reason they didn't buy. Serve them something different.
+
+**Retargeting sequence:**
+1. **Objection-handling ads** — take every reason people don't book a call / don't buy (sourced from intake calls and market research) and make ads that directly address those objections
+2. **Proof / testimonial ads** — carousel ads with social proof, case studies, results. Show that your claims are real.
+3. **Different offer ads** — retarget with a different product, service, or price point. Someone not ready for your main offer may take a lower-ticket entry point.
+4. **Free audit / value call** — offer a free audit or consultation where the prospect gets genuine value regardless of whether they buy. This builds trust and feeds your market research simultaneously.
+
+Put all retargeting ads into one CBO alongside your top performing prospecting ads. Let Meta allocate budget.
+
+**Key insight:** Retargeting with different offers converts better than retargeting with the same offer at the same audience who already ignored it. People are in different stages of the market pyramid at different times.
+
+---
+
+**Updated Quick Reference Checklist** — add to existing checklist above:
+
+- [ ] Statics produced this week (1 hour minimum)
+- [ ] Winning ad duplicated with niche keyword variants
+- [ ] AI variations created from winning ad
+- [ ] Landing page headline mirrors winning ad headline
+- [ ] Retargeting sequence live (objection / proof / different offer)
