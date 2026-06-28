@@ -25,8 +25,10 @@ Build playbooks only when you have enough sources to confirm what's real.
 
 | File | Topic | Sources |
 |---|---|---|
-| [facebook-ads.md](facebook-ads.md) | Facebook/Meta Ads — psychology, creative, copy, formats | Sabri Suby (x2) |
-| [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO | Sabri Suby |
+| [facebook-ads.md](facebook-ads.md) | Facebook/Meta Ads — psychology, creative, copy, formats | Sabri Suby (x3) |
+| [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO, CAC/LTV/Payback | Sabri Suby (x3) |
+| [offer-creation.md](offer-creation.md) | Godfather Offer (7 parts), value ladder, loss leader, guarantee | Sabri Suby |
+| [copywriting.md](copywriting.md) | NEUE Wave formula, 9 questions every sales message must answer, long-form copy, LIVO | Sabri Suby |
 
 ---
 
