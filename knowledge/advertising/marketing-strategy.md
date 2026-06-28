@@ -141,6 +141,42 @@ Inspiration source: same as Facebook Ads — tabloids, gossip mags, news sites, 
 
 ---
 
+## Business Metrics: CAC, LTV, Payback Period
+
+Three numbers determine whether a business wins or loses. Engineer them in your favor.
+
+### 1. Customer Acquisition Cost (CAC)
+Every dollar spent on acquiring a customer: ad spend, agency fees, sales team, tools. Total acquisition spend ÷ customers acquired.
+
+### 2. Lifetime Value (LTV)
+Total revenue ÷ number of customers over a 12-month period = average LTV per customer.
+
+**Ideal LTV:CAC ratio: 3:1**
+- 1:1 = losing money
+- 3:1 = profitable and still scaling (sweet spot)
+- 5:1 = under-spending; you could be acquiring far more customers
+
+At 3:1, you're willing to spend 33% of LTV to acquire a customer. The goal is not the cheapest CAC — it's maximizing LTV so you can outspend every competitor.
+
+### 3. Payback Period
+How long does it take to recover your CAC as cash?
+
+This is the hidden constraint most businesses ignore. You can have a healthy 3:1 LTV:CAC and still run out of cash if your payback period is 12 months — because you're funding acquisition costs months before revenue returns.
+
+**Benchmarks:**
+- 30 days = ideal (can run on a credit card cycle, no cash strain)
+- 90 days = acceptable for service businesses
+- 6+ months = cash trough — business needs working capital to scale
+
+**The golden rule:** The business that can spend the most to acquire a customer wins. That means: maximize LTV, shorten payback period, outspend competitors into irrelevance.
+
+### Manipulating Payback Period
+- **One-click upsell** (e-commerce): immediately after purchase, offer more of what they bought or a complementary product at a discounted rate. Increases day-one revenue, shortens payback.
+- **Setup fees / phase fees** (services): charge upfront for onboarding. Recovers acquisition cost faster.
+- **Front-end loss leader + backend profit**: aggressive entry price brings volume in; upsells and renewals make the margin.
+
+---
+
 ## Quick Reference: The Full System
 
 ```
@@ -155,4 +191,8 @@ Inspiration source: same as Facebook Ads — tabloids, gossip mags, news sites, 
 5. Educate and nurture toward buying (Blue Ocean play)
       ↓
 6. Disrupt the pattern → stop the scroll → headline → click
+      ↓
+7. Convert with a Godfather Offer (see offer-creation.md)
+      ↓
+8. Maximize LTV, shorten payback, outspend competitors
 ```
