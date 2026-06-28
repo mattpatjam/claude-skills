@@ -3,12 +3,27 @@
 
 ---
 
+## The Business Growth Model
+
+Only two ways to grow a business:
+1. Get more customers
+2. Make them worth more
+
+Getting more customers = getting more leads (better, cheaper, more reliable).
+**Double your leads, double your business.** That's the whole book.
+
+---
+
 ## The Core Model
 ```
 Leads → Engaged Leads → Buyers → Repeat Buyers
 ```
 The only goal of lead gen is to get strangers to raise their hand.
 Everything before a sale is about getting attention and converting it to engagement.
+
+**What is a lead:** Any person you can contact. The numbers in your phone, emails on a list, people on the street. If you can contact them, they're a lead.
+
+**What is an engaged lead:** A lead who shows interest in what you sell. This is the true output of advertising — not impressions, not followers, not reach.
 
 ---
 
