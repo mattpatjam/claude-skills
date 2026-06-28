@@ -62,21 +62,98 @@ Everything before a sale is about getting attention and converting it to engagem
 ---
 
 ## Lead Magnets — Getting the Raise
-A lead magnet is something valuable given free in exchange for contact info or attention.
 
-### Types (ranked by conversion power):
-1. **Free trial / sample** — let them experience the product
-2. **Done-for-you asset** — template, swipe file, calculator they can use now
-3. **Mini-course or workshop** — short, teaches one thing, demonstrates expertise
-4. **Checklist / playbook** — fast to consume, actionable
-5. **Quiz or assessment** — high engagement, personalized output
-6. **Webinar / live event** — high intent, but harder to get attendance
+**Definition:** A complete solution to a narrow problem. Free or low-cost. Once solved, reveals another problem your core offer solves.
 
-### Lead Magnet Rules:
+**Why they work:** People give time before money. A person who pays with time now is more likely to pay with money later. If the lead magnet isn't worth their time, it's overpriced even at free.
+
+**The economics:** A good lead magnet lowers your cost per customer because more engaged leads = more bites at the apple. Even if the lead magnet costs you money to deliver, extra customers cover the cost.
+
+---
+
+### The Problem-Solution Cycle
+
+Every problem has a solution. Every solution reveals more problems. The cycle never ends.
+
+**How to pick the right problem to solve:**
+- Pick a narrow, meaningful problem
+- Solve it completely with your lead magnet
+- Make sure the NEXT problem that reveals itself is one your core offer solves
+- That's the only criteria that matters
+
+---
+
+### 7-Step Lead Magnet Creation Framework
+
+**Step 1 — Pick the problem and who to solve it for**
+Narrow and meaningful. The next problem it reveals must be solved by your core offer.
+
+**Step 2 — Choose how to solve it**
+Three types of lead magnets:
+1. **Reveal their problem** — works best when the problem gets worse the longer you wait
+2. **Sample or trial** — give full but brief access to your core offer (limit uses, time, or both). Works when you have a recurring solution to a recurring problem. A good sample is so good they get hooked and come back. A bad sample is sucky fluff that destroys trust.
+3. **One step of a multi-step process** — give one valuable step for free, sell the rest. Works when your core offer solves a complex problem with steps.
+
+**The dressing room principle:** The best lead magnets do all three simultaneously — it's a trial (try it on), it reveals a problem (that shirt needs different pants), and it's step one of a larger process (building a complete outfit). If you can engineer all three into one lead magnet, you've built a dressing room.
+
+**Step 3 — Choose how to deliver it**
+Four delivery methods, each compatible with all three types above:
+1. **Software** — a tool that does the job for them (spreadsheet, calculator, dashboard)
+2. **Information** — teaches something (course, guide, interview, checklist, live event)
+3. **Service** — you do work for free (website audit, 30-day ad management, consult)
+4. **Physical product** — something they can hold (book, supplement, sample, branded item)
+
+3 types × 4 delivery methods = 12 possible lead magnets for a single problem. Make as many versions as you can. Rotate them. Test which converts best.
+
+**Step 4 — Test the name**
+Leads must notice it before they can consume it. The headline/name matters more than almost anything else.
+
+Test in this order:
+1. Headline (most important)
+2. Images
+3. Sub-headline
+
+Use polls, posts, or pre-launch DMs. If people respond asking when they can get it — you've got a winner.
+
+**Step 5 — Make it easy to consume**
+People do things that take less effort. Package in every format you can:
+- Software: accessible on phone + desktop, multiple formats
+- Information: video + audio + text versions. People consume differently — give them all three.
+- Services: more times of day, more days of the week, phone + video + in-person
+- Physical: fast shipping, simple to open, clear directions
+
+**Step 6 — Make it genuinely good**
+> Give away the secret. Sell the implementation.
+
+The marketplace judges everything — free or not. If your lead magnet is fluff, people conclude you're fluff. They buy from someone else and tell others not to buy from you.
+
+People buy based on the value they *expect* after buying. The easiest way to set that expectation high is to deliver value before they pay.
+
+Your lead magnet should be valuable enough that you could charge for it. If you're scared to give it away, you've probably got a winner.
+
+**Step 7 — Make it easy to say they want more (CTA)**
+Once they consume the lead magnet, some are ready to buy. Tell them exactly what to do.
+
+**Good CTAs have two things:**
+1. What to do (clear, simple, direct — call, click, book, reply)
+2. A reason why — any reason works better than no reason
+
+**Best reasons to act now:**
+- **Scarcity** — limited supply, real or natural. Use the natural limits of your business ("I can only take 5 new clients this month"). Don't fake it.
+- **Urgency** — limited time. Offer closes at X. Bonus disappears in 24 hours. The shorter the window, the faster people move.
+- **Any reason at all** — Harvard study: people are more likely to act if you give a reason, even a weak one. "Because your business needs it" is better than nothing. Use "because" as a sentence trigger.
+
+**Pro tip on bonuses:** Add valuable rotating bonuses instead of changing prices. Bonus scarcity is easier to manage than pricing scarcity and creates natural urgency without touching your core offer.
+
+---
+
+### Lead Magnet Rules (Summary):
 - Solve ONE specific problem completely
 - Deliver value BEFORE asking for anything
 - The lead magnet should make them want the paid offer (logical next step)
 - Name it like an offer — specific, outcome-focused
+- Make it worth their time or it's overpriced at free
+- Give away the secret, sell the implementation
 
 ---
 
