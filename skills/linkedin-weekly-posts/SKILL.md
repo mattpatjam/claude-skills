@@ -222,7 +222,7 @@ Do not ask if he wants this. Just do it. Show the humanized version and confirm 
 
 ---
 
-## Step 6: Log the Chosen Posts
+## Step 8: Log the Chosen Posts
 
 Once Matthieu confirms which options he's going with (e.g. "Tuesday Option 1, Wednesday Option 2, Thursday Option 1"), log each to `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 
