@@ -94,7 +94,32 @@ Then recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_a
 
 ---
 
-## Step 3: Generate Posts
+## Step 3: Research (Required — Never Skip)
+
+**Do this before writing a single word of any post. No exceptions.**
+
+Run all of the following using the Scrapling MCP (`mcp__ScraplingServer__fetch`):
+
+1. **Matthieu's LinkedIn profile** — https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/all/
+   Extract: voice patterns, 10 most recent posts and hooks, topics covered in the last 60 days, what's performing. Do not repeat any topic or angle from the last 60 days.
+
+2. **Terje H. Nilsen's newsletter** — https://www.linkedin.com/in/terje-h-nilsen-9905a843/recent-activity/newsletter/
+   Extract: what topics he's covering, angles that are performing, gaps Matthieu could fill with a different perspective.
+
+3. **At least 2 news sources** — fetch whichever are most relevant to the themes selected for this week:
+   - The Bali Sun: https://thebalirealestate.com/ or balisun.com
+   - The Jakarta Post property section: https://www.thejakartapost.com/business/property
+   - Bali Discovery: https://balidiscovery.com/
+   - Indonesia Expat: https://indonesiaexpat.id/
+   - Nikkei Asia (Indonesia): https://asia.nikkei.com/Economy/Indonesia
+
+**After research:** Summarize in 3–5 bullets what's currently being talked about in the market, what Terje is covering, and what topics Matthieu hasn't touched recently. Use this to inform theme and angle selection. Only then proceed to Step 4.
+
+If Scrapling fails on LinkedIn (auth wall): note it and proceed with what was retrieved + post history from `posts_published.md`. Do not fabricate trending data.
+
+---
+
+## Step 4: Generate Posts
 
 Read `.claude/skills/linkedin-weekly-posts/prompt.md` in full — this contains all writing rules, pillars, themes, format specs, and quality checklist.
 
