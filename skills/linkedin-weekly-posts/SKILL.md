@@ -79,8 +79,6 @@ Last 7 days — Top performing posts:
 ```
 Ask: "Want me to log these to the tracking files?" If yes, log them (format below). If no, proceed to Step 3.
 
-**If Matthieu says skip:** proceed to Step 3 without logging.
-
 Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 ```
 ## [YYYY-MM-DD] ([Tuesday/Wednesday/Thursday])
