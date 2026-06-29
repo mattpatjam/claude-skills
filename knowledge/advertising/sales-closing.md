@@ -1,6 +1,6 @@
 # Sales & Closing Techniques
 
-*Sources: Sabri Suby*
+*Sources: Sabri Suby, Alex Hormozi*
 
 ---
 
