@@ -179,7 +179,15 @@ After displaying: ask "Which ones are you going with? I can humanize any of them
 
 ---
 
-## Step 5: Log the Chosen Posts
+## Step 5: Humanize the Chosen Posts (Required — No Exceptions)
+
+Once Matthieu confirms which options he's going with, invoke the `humanizer` skill on **each chosen post** before logging or delivering. No exceptions — every post that gets selected must pass through the humanizer before it is considered done.
+
+Do not ask if he wants this. Just do it. Show the humanized version and confirm it's ready to post.
+
+---
+
+## Step 6: Log the Chosen Posts
 
 Once Matthieu confirms which options he's going with (e.g. "Tuesday Option 1, Wednesday Option 2, Thursday Option 1"), log each to `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 
