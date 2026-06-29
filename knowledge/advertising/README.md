@@ -29,7 +29,7 @@ Build playbooks only when you have enough sources to confirm what's real.
 | [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO, CAC/LTV/Payback | Sabri Suby (x3) |
 | [offer-creation.md](offer-creation.md) | Godfather Offer (7 parts), value ladder, loss leader, guarantee | Sabri Suby |
 | [copywriting.md](copywriting.md) | NEUE Wave formula, 9 questions every sales message must answer, long-form copy, LIVO | Sabri Suby |
-| [sales-closing.md](sales-closing.md) | 7 closing tactics: comfort zone, radical transparency, pull/push, cost of inaction, tonality, vision selling, follow-up | Sabri Suby |
+| [sales-closing.md](sales-closing.md) | Closing philosophy, objection handling by type, power framework, past/present/future, directional decision, mirror close | Sabri Suby, Alex Hormozi |
 
 ---
 
