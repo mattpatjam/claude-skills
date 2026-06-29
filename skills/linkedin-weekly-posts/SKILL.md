@@ -171,9 +171,9 @@ Run the full quality checklist from `prompt.md` before outputting anything. If a
 
 ---
 
-## Step 4: Display Posts
+## Step 6: Display Posts
 
-Display all 4 options clearly using this structure:
+Display all 6 options clearly using this structure:
 
 ```
 TUESDAY [date] — [theme]
