@@ -48,11 +48,9 @@ Write this block to `/tmp/linkedin_recent_past.txt` using the Write tool.
 
 ---
 
-## Step 2: LinkedIn Analytics Check (Optional)
+## Step 2: LinkedIn Analytics Check (Required — Always Run)
 
-Ask: "Do you want me to check your LinkedIn analytics first? I'll pull last week's post performance and update the tracking files. Takes about 30 seconds. Yes or no?"
-
-**If yes:**
+Run the scraper immediately — do not ask permission:
 
 Run the scraper via Bash:
 ```
