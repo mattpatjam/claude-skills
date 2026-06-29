@@ -77,7 +77,7 @@ Last 7 days — Top performing posts:
 3. [impressions] impressions • [engagements] engagements
    "[hook]"
 ```
-Ask: "Want me to log these to the tracking files?" If yes, log them (format below). If no, proceed to Step 3.
+Log these to the tracking files immediately (format below), then proceed to Step 3.
 
 Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
 ```
