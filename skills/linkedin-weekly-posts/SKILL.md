@@ -8,9 +8,13 @@ description: Use when someone asks to generate LinkedIn posts, do this week's Li
 Runs the full weekly LinkedIn content creation workflow for Matthieu. Sequence is fixed and non-negotiable:
 
 1. Gather recent-past input (required — Hormozi's #1 content source)
-2. Optionally check LinkedIn analytics via browser
-3. Generate 4 post options with full context injected
-4. Display posts formatted in the session
+2. Check LinkedIn analytics and log performance (required — always run)
+3. Research — scrape Matthieu's profile, Terje's newsletter, and news sources (required — never skip)
+4. Select themes and angles for the week — get approval before writing
+5. Generate 6 post options (2 per day)
+6. Display posts formatted in the session
+7. Humanize all chosen posts (required — no exceptions)
+8. Log chosen posts to tracking files
 
 ---
 
