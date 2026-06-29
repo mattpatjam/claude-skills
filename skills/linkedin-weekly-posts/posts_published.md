@@ -5,6 +5,24 @@ Engagement data (`Impressions`, `Reactions`, `Comments`, `Reposts`) is filled in
 
 ---
 
+## 2026-06-26 (Thursday)
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "Bali has been here before: new regulations, new panic, same ending."
+Impressions: 2000 | Reactions: 27 | Comments: — | Reposts: —
+
+## 2026-06-24 (Tuesday)
+Pillar: The Educator
+Theme: Lombok Market
+Hook: "The Indonesian government put over $3 billion into Lombok's Mandalika region."
+Impressions: 4000 | Reactions: 42 | Comments: — | Reposts: —
+
+## 2026-06-23 (Monday)
+Pillar: The Human
+Theme: Industry Behavior
+Hook: "Another agent blocked me from entering a property viewing last week."
+Impressions: 1000 | Reactions: 30 | Comments: — | Reposts: —
+
 ## 2026-06-19 (Thursday)
 Pillar: The Perspective
 Theme: Bali Market
