@@ -382,3 +382,30 @@ Best case: life changes. Worst case: you did something, learned, got closer. No 
 | Vision selling | Tactic 6 — sell destination not deliverables | Identity change close / new identity new priorities |
 
 Both frameworks confirm: **pull over push, cost of inaction, and vision over deliverables.** These are multi-source confirmed principles — highest confidence.
+
+---
+
+### Cross-Reference with Russell Brunson (Expert Secrets) — CONFIRMED PATTERN
+
+Hormozi's 3 layers (why people don't buy) and Brunson's 3 false belief types are the same framework expressed from two different angles. One is used live on a sales call; the other is used inside a presentation or VSL.
+
+| Hormozi layer | Brunson false belief type | What it sounds like |
+|---|---|---|
+| **Circumstances** (time/money) | **External** — "outside forces will stop me" | "I can't afford it / I don't have time / the market is against me" |
+| **Other people** (authority/approval) | **External** (sub-type) — "someone else controls this" | "I need to talk to my spouse / my partner won't support it" |
+| **Self** (fear of mistake) | **Internal** — "I can't do it / I'll fail" | "I'm not sure it's for me / I've tried before and failed" |
+
+**Where Brunson adds a layer Hormozi doesn't cover in the close:**
+Brunson has a **Vehicle** false belief — "this method/category doesn't work" — that sits above the other three. Hormozi handles this as a pre-close issue (build belief through proof and testimonials before asking for the sale), not in the closing framework itself. This maps to destroying opticals before the offer.
+
+**The sequencing implication (confirmed by both):**
+Brunson's presentation sequence is: Vehicle → Internal → External.
+Hormozi's objection onion goes: Circumstances/External → Other People → Self/Internal.
+Both say the same thing in different orders: you must build Vehicle/product belief before the close. Then you handle External circumstances. Then Internal self-doubt. They meet at the same place.
+
+**Practical synthesis for OLC and Nirvana:**
+- **In presentations and VSLs (Brunson):** Break false beliefs in this order — Vehicle (does this work?) → Internal (can I do this?) → External (will my situation allow it?)
+- **In live sales calls (Hormozi):** Handle objections in the order they arise, knowing they layer: Circumstances first, then Authority/Other People, then Self
+- **The same stories break the same objections in both contexts.** Build your story inventory once (Brunson's 12-slot grid), then deploy the same stories on calls (Hormozi's framework) and in ads/VSLs (Brunson's presentation)
+
+This is a **Stage 2 cross-confirmed principle** — two independent sources, same underlying structure. High confidence.
