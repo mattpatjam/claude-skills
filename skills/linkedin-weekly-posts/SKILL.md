@@ -119,11 +119,46 @@ If Scrapling fails on LinkedIn (auth wall): note it and proceed with what was re
 
 ---
 
-## Step 4: Generate Posts
+## Step 4: Select Themes and Subjects (Required — Get Approval Before Writing)
+
+Read `.claude/skills/linkedin-weekly-posts/prompt.md` for the pillar and theme definitions.
+Read `.claude/skills/linkedin-weekly-posts/posts_published.md` to check what has been covered in the last 60 days.
+Read `/tmp/linkedin_recent_past.txt` for this week's personal input.
+
+Using the research from Step 3 and the recent past input, propose the three themes and specific post angles for the week:
+
+```
+TUESDAY [date]
+Theme: [theme]
+Angle: [one sentence describing the specific take — not the full post]
+Why now: [why this angle is timely or relevant based on research]
+
+WEDNESDAY [date]
+Theme: [theme]
+Angle: [one sentence]
+Why now: [why timely]
+
+THURSDAY [date]
+Theme: [theme]
+Angle: [one sentence]
+Why now: [why timely]
+```
+
+Rules:
+- No two days can share the same theme
+- No theme or angle covered in the last 60 days (check `posts_published.md`)
+- Weave in the recent past input where it fits the angle naturally
+- Thursday should get the strongest hook opportunity — save the best angle for Thursday
+
+Ask: "Does this direction work, or do you want to swap any theme or angle?"
+
+**Wait for Matthieu to approve before writing any full posts.** If he swaps something, update and confirm again before proceeding.
+
+---
+
+## Step 5: Generate Posts
 
 Read `.claude/skills/linkedin-weekly-posts/prompt.md` in full — this contains all writing rules, pillars, themes, format specs, and quality checklist.
-
-Read `/tmp/linkedin_recent_past.txt` for this week's personal context from Matthieu.
 
 Then generate 6 post options following the prompt exactly:
 - 2 options for **Tuesday** (same theme, two different pillars)
