@@ -167,7 +167,9 @@ Then generate 6 post options following the prompt exactly:
 
 Weave the recent past input naturally into the posts where relevant (personal story, client observation, market insight). Do not force it — only use it if it genuinely strengthens the post.
 
-Run the full quality checklist from `prompt.md` before outputting anything. If any item fails — rewrite before showing Matthieu.
+Before writing a single word of any post, internalize this non-negotiable formatting rule from CLAUDE.md: **no em dashes, no dashes of any kind as separators or connectors.** Replace every instance with a comma, period, or parentheses. This applies during drafting — not as a post-processing step. If you catch a dash while writing, fix it before moving on.
+
+Run the full quality checklist from `prompt.md` before outputting anything. If any item fails — rewrite before showing Matthieu. Also scan every post for dashes (—, –, or - used as separators) before displaying. Any post containing one must be rewritten.
 
 ---
 
