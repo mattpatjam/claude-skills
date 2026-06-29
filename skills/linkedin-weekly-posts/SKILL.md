@@ -212,4 +212,4 @@ This log is what Step 3 uses in future sessions to avoid repeating themes and pi
 - Step 1 is always first. Never jump to generation without the 3 questions.
 - Do not send email. Session display is the delivery.
 - Character count target is 1,200–1,600 chars. LinkedIn's hard limit is 3,000 — the target is a readability guideline, not a hard stop.
-- If Matthieu says "humanize it" after seeing a post, invoke the `humanizer` skill.
+- Humanizer runs on every chosen post automatically (Step 5). Never wait to be asked.
