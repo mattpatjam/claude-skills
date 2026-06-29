@@ -468,6 +468,18 @@ A fully built story inventory means no objection surprises you. Every objection 
 
 The better you are at telling the stories, the more effective you become at persuasion — and the less you need to rely on logic, pressure, or discounts.
 
+### Cross-Reference: Hormozi Confirms This Framework
+
+Alex Hormozi's closing framework (see `advertising/sales-closing.md`) maps to the same three axes independently:
+
+| Brunson false belief | Hormozi layer | How it shows up on a sales call |
+|---|---|---|
+| **External** | Circumstances + Other people | "I can't afford it / no time / I need to ask my spouse" |
+| **Internal** | Self | "I'm afraid to make a mistake / not sure it's for me" |
+| **Vehicle** | Pre-close / proof phase (opticals) | "I don't know if this works / I've been burned before" |
+
+**Key synthesis:** Brunson's story inventory and Hormozi's call framework are the same tool for two contexts. Build the stories once (Brunson's 12-slot grid). Deploy them in presentations and VSLs (Brunson's sequence: Vehicle → Internal → External) AND in live sales calls (Hormozi's onion: destroy Vehicle belief pre-offer, then handle Circumstances, then Authority, then Self on the call).
+
 ---
 
 ## 9. Plugging In Your Offer and Stories — The One-to-Many Presentation Framework
