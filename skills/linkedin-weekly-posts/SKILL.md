@@ -214,7 +214,7 @@ After displaying: ask "Which ones are you going with? I can humanize any of them
 
 ---
 
-## Step 5: Humanize the Chosen Posts (Required — No Exceptions)
+## Step 7: Humanize the Chosen Posts (Required — No Exceptions)
 
 Once Matthieu confirms which options he's going with, invoke the `humanizer` skill on **each chosen post** before logging or delivering. No exceptions — every post that gets selected must pass through the humanizer before it is considered done.
 
