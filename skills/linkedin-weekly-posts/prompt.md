@@ -327,6 +327,16 @@ Never go below 1,000 characters.
 - No "I am thrilled", no "exciting news", no throat-clearing
 - Must feel consistent with how Matthieu naturally opens his posts
 
+**Headline components — use one or more to make the hook land:**
+A meta-analysis of what drives the most attention identified seven components. The best hooks combine two or three:
+1. **Recency** — as recent as possible ("this week", "last month", "just changed")
+2. **Relevancy** — personally meaningful to the reader's situation
+3. **Celebrity** — references a known person, entity, or event
+4. **Proximity** — close to home geographically or professionally
+5. **Conflict** — opposing ideas, opposing people, tension between two forces
+6. **Unusual** — odd, rare, counterintuitive, or surprising
+7. **Ongoing** — a story still in progress, with a plot twist possible
+
 Strong hook examples:
 "Most foreign buyers in Bali lose money before they even sign anything."
 "A leasehold villa is not an investment. Here is what it actually is."
