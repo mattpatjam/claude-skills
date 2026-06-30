@@ -461,3 +461,82 @@ Before choosing a channel, answer:
 - [ ] Do I have a lead magnet that delivers real value?
 - [ ] Do I have a follow-up sequence after the lead comes in?
 - [ ] Am I tracking CPL and conversion from lead to sale?
+
+---
+
+## Application to Matt's Businesses
+
+### OLC Method (Nirvana, future clients)
+
+**Right now: warm outreach is the only channel that matters.**
+
+OLC has no case study yet. No ads can run without proof. Warm outreach is the only method that works at zero social proof — because you're not asking people to buy, you're asking if they know anyone.
+
+**The value formula for OLC:**
+"I help real estate developers get [X reservation deposits] in [90 days] without [hiring a full-time sales team], even if [they've tried agencies before and been burned]."
+
+Fill [X] with Nirvana's real result after Session 5. That becomes the single proof point for all future warm outreach.
+
+**Warm outreach targets (in order):**
+1. Matthieu's existing developer contacts from Bali Exception (already know him, already trust him)
+2. Developers met at viewings, events, or co-broker deals in the last 2 years
+3. LinkedIn connections in Indonesian real estate (warm if they've engaged with posts)
+
+**The ask:** "I'm working with a developer right now on a performance-only sales model — no retainer, we only make money when they do. Do you know any developers who might want something like this?"
+
+**NOT:** "Want to hire OLC?" — that's a pitch, not a referral ask.
+
+**After Nirvana closes (target ~July 28):**
+- Ask Toby: "Who else do you know with a project that needs buyers?" — use exact ACA framework
+- Toby's referral = highest-quality warm lead possible
+- Raise the performance % by 2 points with the second client (price increase every 5 clients rule)
+
+---
+
+### Bali Exception (personal commissions)
+
+**Warm outreach to past leads and buyers = biggest untapped lever.**
+
+Most salespeople stop following up after deal falls through. 100 reachouts to cold-ish past leads at 1:5 reply rate = 20 conversations. At 1:5 conversion on those = 4 active buyers reignited.
+
+**The 9-word probe:** "Are you still looking for a property in Bali?" — send to any past lead that went quiet. The reply rate from genuinely interested people will surprise you.
+
+**Hidden cost audit:** When leads go quiet after viewings, it's never "the market." Use the ACA + hidden cost question to surface the real blocker. "What would have to change for you to feel comfortable moving forward?" — that answer tells you exactly what objection to address.
+
+**Referral timing (underused):** Right after a buyer signs, not months later. "You just locked in [property]. Do you know anyone else who's been looking? I'd love an intro — I'll take good care of them."
+
+---
+
+### ScaleRise
+
+**Warm outreach is the right starting channel — ads are premature.**
+
+No case study beyond STCC yet. Until ScaleRise has 2–3 documented results, the value formula and warm outreach is the fastest path to the next client.
+
+**Value formula for ScaleRise:**
+"I help [real estate agencies / B2B companies] get [X hours/week back + Y leads] by automating their [content / follow-up / reporting] — in 30 days — without hiring anyone."
+
+**Warm targets:**
+1. Every Swiss/European real estate contact in Matthieu's network (Julianne's network is the highest leverage)
+2. LinkedIn connections in Swiss B2B (STCC is a warm reference; "I work with the Swiss Tech Convention Center" opens doors)
+3. Other scale-rise.com visitors who've never been followed up with
+
+**The ask is not "do you want AI automation"** — it's "Do you know anyone running a real estate company in Europe who hates losing track of leads and doing manual follow-up?"
+
+---
+
+### Lombok Land Development
+
+**Warm outreach is the only viable lead gen for this investor pitch.**
+
+The funding gap is $150–250K. The buyers are individuals, not funds. Warm network is where HNW investors live.
+
+**Value formula for the Lombok pitch:**
+"I help [Swiss/European investors] get [12–20% annual yield] from Bali-region land development in [2–3 years] without [being on the ground, managing builders, or navigating Indonesian law themselves]."
+
+**Warm targets in order:**
+1. Swiss network (EHL alumni, Geneva contacts, Matthieu's family and social circle)
+2. Past real estate investors who've bought in Bali/Lombok through Bali Exception
+3. Julianne Jammers's network at STCC (tech entrepreneurs with capital, looking for alternatives)
+
+The investor pitch deck (still needed) becomes the lead magnet. The ask isn't "invest" — it's "do you know anyone who diversifies into Asia?"
