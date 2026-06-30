@@ -136,6 +136,101 @@ Every offer (lead magnet or core) is evaluated by the same 4 levers:
 - Pick ONE platform and go deep before adding more
 - Types: educational, opinion, behind-the-scenes, case studies, mistakes
 
+---
+
+### Free Content — Audience Building (Full Framework)
+
+**The core insight:** The content isn't the compounding asset. The audience is.
+Content disappears. The audience keeps growing. Warm reach-outs reach 10 people with 10 messages. One post reaches all 10. The sharing mechanism is infinite — if someone finds it valuable, they share it, and those people join your warm audience too.
+
+**Why it matters for lead gen:** Free content makes all other advertising more effective.
+If someone gets a DM from you and finds no content on your profile, they're less likely to respond. If they find a library of valuable content, they're primed. Content warms the list you're reaching out to.
+
+**Trade-offs of posting content:**
+1. Harder to personalize your message
+2. You compete with everyone else posting — standing out is harder
+3. If you do stand out, people will copy you — you must keep innovating
+
+**The math:** When volume of content is 10x'd, audience grows 10x as fast. Volume works.
+
+---
+
+### The Content Unit
+
+The smallest amount of material that hooks, retains, and rewards attention. Can be an image, a sentence, a clip — as long as it does all three.
+
+**1. Hook — get their attention**
+
+Goal: give them a reason to redirect attention toward you. Effectiveness = % of people who start consuming.
+
+**Topics** — what to make your content about. Use personal experience first. No one has lived your life. Five categories:
+
+| Category | What it is | Why it works |
+|---|---|---|
+| Far Past | Important life lessons. Connect wisdom to your product/service. Give them the story without the scar. | Relatable, differentiating — only you can tell your story |
+| Recent Past | What happened in the last week. Meetings, conversations, deals, observations. Look at your calendar — there's gold there. | Fresh, real, easy to produce |
+| Present | Ideas that come to you right now. Always have a way to capture them. Turn ideas into reality. | Timely, authentic |
+| Trending | What's being talked about right now. Apply your expertise to the trend. | Broadest reach — attracts new eyes |
+| Manufactured | Pick a topic, learn about it, make it or do it, show the world. Highest effort, highest payout. Top content on any platform is manufactured. | Highest ceiling for audience growth and monetization |
+
+Action: Life happens. Profit by sharing yours.
+
+**Headlines** — the short phrase that gives them a reason to consume. They weigh the likelihood of reward vs. every other option they have.
+
+Seven components that drive click-through (use one or more):
+1. **Recency** — as recent as possible
+2. **Relevancy** — personally meaningful to the reader
+3. **Celebrity** — includes prominent people
+4. **Proximity** — close to home geographically
+5. **Conflict** — opposing ideas, opposing people, nature
+6. **Unusual** — odd, unique, rare, bizarre
+7. **Ongoing** — story still in progress, plot twist possible
+
+**Format** — match the best content on the platform. People consume what looks like what's rewarded them before. No matter how good the content is, better-looking content will hook them before yours has a chance.
+
+Action: Format for the platform first. Use top-performing content in your market as your guide.
+
+---
+
+**2. Retain — keep their attention**
+
+The favorite driver: **curiosity**. Unresolved questions keep people reading. Can be explicit (ask the question) or implicit (imply it).
+
+Three retention tools:
+
+| Tool | What it is | Distinction |
+|---|---|---|
+| **Lists** | Things, facts, tips, opinions, ideas — one after another under a theme | Flexible order. Less explicit reward. More versatile. |
+| **Steps** | Actions in a specific sequence that accomplish a goal | Must be done in order. More explicit reward. Less flexible. |
+| **Stories** | Events (real or imagined) with a lesson. People want to know what happens next. | Highest emotional pull. Works across all platforms. |
+
+Mix and layer them. Stories that reinforce a step. Lists of stories. Steps inside a story. The more you layer, the more curious people stay.
+
+Action: Use Lists, Steps, and Stories to keep questions unresolved until you're ready to close the loop.
+
+---
+
+**3. Reward — satisfy the reason they clicked**
+
+Good content = content that makes people want to share it. It satisfies the hook. It delivers what the headline promised.
+
+How to increase reward probability:
+1. Hook the right audience (proper topic, headline, format)
+2. Retain them (lists, steps, stories — keep questions open)
+3. Clearly satisfy the reason the hook created
+
+The audience decides if content is good. Rewarding them = matching or exceeding expectations.
+
+**How you know it worked:** Your audience grows.
+
+Action: Provide more value than anyone else. Make good on the promise. Completely answer the unresolved question.
+
+---
+
+**Shorter vs. longer content:** Shorter hooks and rewards fewer times. Longer does it more. More cycles = more skill required. String good content units in a row.
+
+**The stranger test:** If you make it for strangers, strangers will like it and share it — and your audience grows faster. Consider the alternative.
+
 ### 4. Paid Ads (Fast, costs money, requires offer clarity first)
 - Only run ads once you have a proven offer
 - Ads amplify what's already working — they don't fix a broken offer
