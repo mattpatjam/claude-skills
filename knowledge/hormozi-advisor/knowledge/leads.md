@@ -36,6 +36,90 @@ Everything before a sale is about getting attention and converting it to engagem
 - Script: "Hey [name], I'm working on [thing]. Do you know anyone who might want [result]?" — NOT "do you want to buy"
 - Use network to get referrals, not direct sales
 
+**The math (benchmark):**
+- 100 warm reachouts → ~20 replies (1 in 5)
+- 20 replies → ~4 take free offer (1 in 5)
+- 4 free → ~1 paying customer
+- 1 customer per 100 warm reachouts is the floor
+
+---
+
+### Warm Outreach — 10-Step Process
+
+1. **Get your list** — every contact across every platform
+2. **Pick a platform** — the one with the most contacts, start there
+3. **Personalize your message** — use something real about them as the opener (2–3 sentences)
+4. **Reach out** — 100 attempts per day
+5. **Warm them up** — use the ACA framework (see below); don't pitch, ask questions
+6. **Invite their friends** — "Do you know anyone who...?" not "Do you want to...?"
+7. **Make it easy** — your offer should be the easiest thing in the world to say yes to (first five free)
+8. **Start at the top** — best contacts first
+9. **Start charging** — raise price 20% every 5 clients once you're getting referrals
+10. **Keep your list warm** — regular value via email/content; then send the 9-word probe
+
+**Follow-up rule:** Reach out up to 3 times (once per day) until they respond. Don't stop until you hit 3 attempts or a reply.
+
+**9-word probe email:** "Are you still looking to [result]?" — sends to your warm list to surface who's ready now. The replies = your warm outreach priority list.
+
+---
+
+### The ACA Framework (Acknowledge, Compliment, Ask)
+
+Use this to navigate every reply toward your offer — without ever feeling pushy.
+
+1. **Acknowledge** — restate what they said in your own words (active listening signal)
+2. **Compliment** — tie it to a positive character trait if possible
+3. **Ask** — ask another question; guide the conversation toward the offer
+
+People love talking about themselves and love being complimented. ACA builds trust fast and gives you full control of where the conversation goes.
+
+---
+
+### The Value Formula
+
+Every offer (lead magnet or core) is evaluated by the same 4 levers:
+
+| Lever | What it means | Goal |
+|---|---|---|
+| Dream Outcome | What they want, the way they want it | Maximize |
+| Perceived Likelihood of Achievement | How likely they think they are to get it | Maximize |
+| Time Delay | How long before they get results | Minimize |
+| Effort and Sacrifice | What they'll have to do or give up | Minimize |
+
+**The perfect offer pitch:** "I help [ideal customer] get [dream outcome] in [time period] without [effort/sacrifice]" — then add proof to increase perceived likelihood.
+
+**Ways to increase perceived likelihood:**
+- Your own transformation story
+- Proof from people just like them (same situation, same fear)
+- Volume of happy outcomes (reviews, numbers, testimonials)
+- Certifications, credentials, third-party validation
+- Stats and research supporting the outcome
+- Expert endorsements
+- Guarantees or live demonstrations
+
+**Hidden costs** — when someone says no, the real blocker is usually a hidden cost (time, effort, risk — not money). Ask: "What would I have to do to make it worth it for you to continue?" Their answer shows you exactly what to solve. Solve it → they buy. Don't solve it → use the answer to get the next person.
+
+---
+
+### Warm Outreach Daily Checklist
+
+| Element | Detail |
+|---|---|
+| Who does it | You — no outsourcing yet |
+| What you offer | First five free |
+| Where | Phone / email / DM / WhatsApp / physical mail |
+| To whom | Your contacts (start with the platform with most contacts) |
+| When | First 4 hours of the day |
+| Why | Get customers or intros |
+| How | Personalized message + ACA |
+| Volume | 100 attempts per day |
+| Follow-up | 2 more times after first, once per day |
+| How long | Until you get customers |
+
+**Time commitment when starting out:** 4+ hours per day. First thing you do. Don't stop until you hit your daily goal.
+
+**After exhausting one platform:** Move to the next one. Continue until all platforms are exhausted, then cycle back with fresh value (content + probe email).
+
 ### 2. Cold Outreach (Scalable, lower conversion)
 - Contact strangers who match your avatar
 - Email, LinkedIn, DMs
