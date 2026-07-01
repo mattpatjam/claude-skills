@@ -30,6 +30,8 @@ Ask these 3 questions one at a time in natural conversation. Wait for each answe
 
 **Q4:** "What's something you're working through or learning right now as a professional — a deal dynamic, a market shift, a skill you're developing? Doesn't need to be resolved."
 
+**Q5:** "Is there a lesson from earlier in your career — a mistake, a deal gone wrong, a moment that changed how you work — that you've never posted about? Something you lived through that would be useful for someone earlier in the journey to hear."
+
 After all four answers, build this block:
 
 ```
