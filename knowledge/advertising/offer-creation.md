@@ -106,6 +106,74 @@ The front-end offer (aggressive price / loss leader) is the bait. The money is i
 
 ---
 
+## Application: OLC Method — Godfather Offer (Session 3 Ready)
+
+*Built for Nirvana Session 3 (~July 7). Performance-based outsourced sales model for Bali/Lombok developers.*
+
+**1. Rationale**
+"We only make money when you do. No retainer. No upfront risk. We built this model because the standard agency model is broken — most sales agencies get paid every month whether they close deals or not. That's not aligned with your interests. Our incentives are completely aligned: if you don't close, we don't get paid."
+
+**2. Value Stack (anchor before revealing the model)**
+Before mentioning the performance %, show what alternatives cost:
+- In-house sales director: $5,000–8,000/month salary + benefits + management time + 3–6 month ramp
+- Sales agency retainer: $3,000–5,000/month + success fee on top
+- Doing it yourself: your time at senior-manager hourly rate × hours spent = real cost
+- OLC: 0 upfront. % of closed deals only. You pay from money you've already received.
+
+**3. Aggressive Price**
+Performance-only IS the most aggressive price possible — zero until results. Define: % of gross revenue per closed deal (or per reservation deposit received). The ask is not "pay us" — it's "let us prove it first."
+
+**4. Payment / Invoicing Terms**
+No payment plans needed (no upfront). Define: invoiced monthly on confirmed closed deals. Payment due within 14 days of invoice. Triggers: signed SPA or reservation deposit cleared — not verbal commitment.
+
+**5. Premiums (Bonuses — each named and valued)**
+- Grand Slam Offer design session (normally a standalone $2,000 engagement)
+- Sales system build: scripts, objection handlers, follow-up sequence (normally $1,500)
+- Weekly performance report: pipeline, conversion rate, deal stage breakdown
+- Access to buyer co-broker network (Matthieu's existing RE contacts = warm buyer pipeline)
+
+**6. Power Guarantee**
+The model IS the guarantee. "If we don't close, you owe us nothing." But add a secondary commitment: "If we don't book your first qualified buyer appointment within 14 days of launch, we'll give you a written breakdown of exactly what's not working and what to fix — at no charge."
+
+**7. Scarcity**
+"We take a maximum of 3 developer clients at a time. This is a real constraint — we're closing deals personally, not delegating to a junior team. Right now we have [X] slot available." Must be true. Do not fabricate.
+
+---
+
+## Application: ScaleRise — Godfather Offer (Post-STCC)
+
+*To be applied after STCC case study is documented. Currently premature.*
+
+**1. Rationale**
+"We built this system for ourselves first — to run Scalrize's own content and lead follow-up without a full team. Once it worked, we productized it. You're getting something that's been running in production, not a prototype."
+
+**2. Value Stack**
+- Content manager: CHF 4,000–6,000/month
+- Marketing automation setup: CHF 2,000–5,000 one-time
+- Ongoing ops + reporting overhead: 5–10 hours/week of senior time
+- ScaleRise: CHF 495/month, 3 workflows running in 30 days
+
+**3. Aggressive Price**
+CHF 495/month is already low. Front-end: consider "first workflow free" to demonstrate output quality before commitment. Backend: upsell to additional workflows, annual plan, or dedicated account management.
+
+**4. Payment Plans**
+- Monthly: CHF 495/month
+- Annual: CHF 4,950 (2 months free) — higher LTV, lower churn, easier to manage
+
+**5. Premiums**
+- White-label interface at scalrize.com/app
+- Onboarding SOP (set up in 5 days or less)
+- 30-day support window post-launch
+- First month performance report showing time saved and output volume
+
+**6. Power Guarantee**
+"If the first workflow doesn't save you at least 5 hours in the first 30 days, we'll refund your first month. No questions." Track the hours from day 1. Document it. Make refund threshold real and measurable.
+
+**7. Scarcity**
+"We onboard a maximum of 2 new clients per month to maintain quality. After that, you're on a waitlist." Must be enforced.
+
+---
+
 ## Quick Reference: Godfather Offer Checklist
 
 Before going to market with any offer:
