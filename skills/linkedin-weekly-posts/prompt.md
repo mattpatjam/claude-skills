@@ -361,6 +361,13 @@ Weak hook examples (never do these):
 - Reference Matthieu's professional experience or perspective naturally
   where it adds credibility — never force it
 
+**Retention mechanics — keep curiosity unresolved until you're ready to close:**
+The body works by keeping an unresolved question in the reader's mind. Three tools to do this, each with a different strength:
+- **Lists** — things, facts, tips, opinions presented one after another under a theme. Flexible order. Works for almost any pillar. Best for Educator and Perspective posts.
+- **Steps** — actions in a specific sequence that accomplish a goal. More explicit reward ("I need to know all the steps"). Best for Educator posts with a process.
+- **Stories** — events (real or anonymized) with a lesson. Highest emotional pull. Reader wants to know what happens next. Best for Human and Journey posts.
+Mix them: stories that reinforce a step, lists with a story anchor, steps inside a narrative. More layers = more curiosity held.
+
 **Story arc (applies to all pillars):**
 The body must move the reader through three beats: open with a tension or gap (something they believe that's wrong, a situation they recognize, a cost they didn't know they were paying), move through the insight or turning point (what's actually true, what changed, what Matthieu learned), and close on a resolution or lesson (what to do with this now). The resolution feeds directly into the CTA. For Educator posts structured as lists, anchor the list inside a story — open with the problem that makes the list necessary, then deliver the list, then close with the lesson. Never lead with the list itself.
 
