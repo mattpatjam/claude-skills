@@ -151,6 +151,9 @@ The voice is:
 - Active voice always — passive voice is forbidden
 - Consistent with the tone and style found in Matthieu's existing LinkedIn posts
 
+**"How I" beats "How to":**
+Frame posts from Matthieu's personal experience, not generic advice. "How I approach offers below asking price" not "How to handle low-ball offers." "My three questions before recommending a plot" not "Three questions to ask before buying land." Personal framing is unchallengeable — no reader can argue with what Matthieu actually did. Generic framing invites comparison and skepticism. This applies even to Educator posts: anchor the checklist or framework in something he lived through.
+
 Avoid these words and phrases entirely:
 "Exciting news", "Thrilled to announce", "Game-changer", "Synergy",
 "In today's fast-paced world", "I am pleased to share", "Leverage",
