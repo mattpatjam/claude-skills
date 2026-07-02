@@ -111,6 +111,9 @@ Every post must serve at least ONE of these three purposes:
 Posts show the insight and the outcome. They never walk through the complete tactical process.
 The insight is the hook. The process is what people pay for.
 
+**Give-ask ratio:**
+This account is in pure-give mode. Every post is a deposit — no sales asks, no "DM me to work together", no "check out my services." CTAs are conversation invitations only: genuine questions, requests for opinions, peer-to-peer dialogue. An ask post is always premature on a growing account. If it feels like a soft pitch, rewrite it.
+
 "What makes a buyer ready to sign" is a post. "Here are the 7 steps to qualify a buyer" is a manual.
 "Why I never send a price before asking two questions" is a post. The two questions stay private.
 "This type of buyer closes in under 3 weeks — here's how I spot them early" is a post.
