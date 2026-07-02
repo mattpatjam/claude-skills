@@ -127,21 +127,30 @@ Read `.claude/skills/linkedin-weekly-posts/prompt.md` for the pillar and theme d
 Read `.claude/skills/linkedin-weekly-posts/posts_published.md` to check what has been covered in the last 60 days.
 Read `/tmp/linkedin_recent_past.txt` for this week's personal input.
 
-Using the research from Step 3 and the recent past input, propose the three themes and specific post angles for the week:
+Using the research from Step 3 and the recent past input, propose the three themes and specific post angles for the week. For each angle, identify which of the five topic types it draws from — this sharpens the angle and prevents repetitive content:
+
+- **Far Past** — a defining moment, early career lesson, or old deal that shaped how Matthieu works
+- **Recent Past** — something from the last 7 days: a viewing, client conversation, market observation, or thing he said that landed
+- **Present** — a thought forming right now, an open question he's working through, a real-time observation
+- **Trending** — something being discussed in the market, industry, or news that Matthieu can add a qualified perspective to
+- **Manufactured** — engineer the experience to write about it (rare, highest effort, highest payout — use sparingly)
 
 ```
 TUESDAY [date]
 Theme: [theme]
+Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
 Angle: [one sentence describing the specific take — not the full post]
 Why now: [why this angle is timely or relevant based on research]
 
 WEDNESDAY [date]
 Theme: [theme]
+Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
 Angle: [one sentence]
 Why now: [why timely]
 
 THURSDAY [date]
 Theme: [theme]
+Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
 Angle: [one sentence]
 Why now: [why timely]
 ```
