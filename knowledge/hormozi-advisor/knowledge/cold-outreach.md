@@ -93,6 +93,11 @@ Interest groups = warmest cold audience. Members are already problem-aware. They
 - 10% close rate = 4 customers/day
 - At $20K LTV: ~$80K revenue per day from cold email alone
 
+**ROI benchmark:**
+- Target ≥3:1 — make at least 3x the lifetime gross profit of a customer vs. what it cost to acquire them
+- To get the real cost, add up every labor + software expense across all three steps (list building, personalization/scripting, volume/automation) — cold outreach is labor-intensive and easy to underprice if you only count software spend
+- Most people underestimate both the volume and the time it takes to see this ratio pay off, then quit early and call the method broken (same failure mode as the rep-management note above: benchmark against someone who's already made it work, not against your first week's numbers)
+
 ---
 
 ## Voicemail Script That Gets Callbacks
