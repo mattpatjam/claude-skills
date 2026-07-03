@@ -157,3 +157,38 @@ Volume negates luck. Enough reps makes skill learnable twice as fast.
 - [ ] Set daily volume target (minimum 100 outreach attempts/day)
 - [ ] Build follow-up sequence: 2-3x day 1, 1x/day days 2-7
 - [ ] After full sequence: wait 3-6 months, recycle list
+
+---
+
+## Application to Matt's Businesses
+
+### ScaleRise — best fit
+
+The only business where the target audience is genuinely cold (other real estate agencies, not Matthieu's personal network).
+
+- **List:** Sales Navigator or RE agency directories/brokers, filtered to agencies still running manual follow-up and content
+- **Big fast value:** swap a generic "strategy call" for a free 30-day automation pilot — same lever that 3x'd take rates in the Gym Launch case study (`leads.md`): give away something competitors charge for, don't tickle interest
+- **When:** viable now, in parallel with the STCC warm-referral path — cold needs its own list and script, not a fallback for warm running dry
+
+### Bali Exception — true cold, distinct from CRM reactivation
+
+CRM re-activation of past/gone-quiet leads is warm-recycle (already covered in `leads.md`) — this is the actual stranger-cold play.
+
+- **List:** Bali property-buyer interest groups (Facebook/Telegram) — the "warmest cold audience," members already problem-aware
+- **Personalization:** reference their specific post/comment before pitching anything
+- **Big fast value:** free listing-fit consult (does this property/budget make sense for what you're describing)
+
+### Lombok Land Development / Bali Real Estate Fund — cold investor list-building
+
+Closes the $150-250K funding gap with Swiss/EU HNW individuals outside the personal network.
+
+- **List:** investor interest groups/forums, or list brokers specializing in accredited/HNW investors
+- **Big fast value:** the investor pitch deck itself is the lead magnet — send a short personalized teaser first, full deck on response
+- **Note:** same list-building effort doubles for the early-stage Bali Real Estate Fund raise — investor audience overlaps, no need to build two lists
+
+### OLC Method — not ready yet
+
+Cold outreach's "big fast value" requirement is weak without proof to point to, and OLC has no case study yet.
+
+- **Recommendation:** stay warm-only (see `leads.md`) until Nirvana closes
+- **Revisit when:** there's a real result to lead with — then cold list = scraped Bali/Lombok/Indonesia developers, lead magnet = free funnel audit built on that proof point
