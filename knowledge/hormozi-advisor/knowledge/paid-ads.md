@@ -182,9 +182,17 @@ LTGP ÷ CAC ≥ 3 = scalable
 LTGP ÷ CAC ≥ 10 = home run (Hormozi's internal target)
 ```
 
-Common mistake: tracking LTV instead of LTGP. A competitor with $500 LTV at 10% margin makes $50 in gross profit. If CAC is $100, they're losing money — even though the revenue "looks good."
+Common mistake: tracking LTV instead of LTGP. A competitor with $500 LTV at 10% margin makes $50 in gross profit. If CAC is $100, they're losing money — even though the revenue "looks good." Gross profit is the number that matters because it's the actual money you have to acquire customers, pay rent, cover payroll, and run the business — revenue isn't.
 
 **The real differentiator:** Within any industry, CAC only varies 1-3x between competitors. But LTGP can vary 10-50x. The winner isn't the best advertiser — it's the best business model. Fix the business model first.
+
+**Two levers, and which one to pull:**
+- Lower CAC — cheaper customers, more efficient ads
+- Raise LTGP — make more per customer, via a better business model
+For maximum money, work both. To know which one needs the work right now: research your industry's average CAC.
+- Your CAC is below 3x the industry average → focus on the business model (LTGP side)
+- Your CAC is above 3x the industry average → focus on advertising (CAC side)
+Rule of thumb: lowering CAC by $100 eventually takes more work than making an extra $100 off the same customer. Once CAC is low enough, the business model is where the remaining money is.
 
 ---
 
