@@ -26,10 +26,22 @@ Build playbooks only when you have enough sources to confirm what's real.
 | File | Topic | Sources |
 |---|---|---|
 | [facebook-ads.md](facebook-ads.md) | Facebook/Meta Ads — psychology, creative, copy, formats, scaling tactics | Sabri Suby (x4) |
-| [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO, CAC/LTV/Payback | Sabri Suby (x3) |
-| [offer-creation.md](offer-creation.md) | Godfather Offer (7 parts), value ladder, loss leader, guarantee | Sabri Suby |
-| [copywriting.md](copywriting.md) | NEUE Wave formula, 9 questions every sales message must answer, long-form copy, LIVO | Sabri Suby |
+| [paid-ads.md](paid-ads.md) | Platform-agnostic ad creation: platform selection, targeting, ad anatomy (call-out/value/CTA), money metrics (LTGP:CAC, CFA) | Alex Hormozi |
+| [landing-pages.md](landing-pages.md) | Landing page layouts, message-match rules | Alex Hormozi, Sabri Suby (confirmed — both sources agree) |
+| [marketing-strategy.md](marketing-strategy.md) | Market research, market pyramid, three oceans, dream buyer, LIVO, CAC/LTV/Payback | Sabri Suby (x3), + Hormozi LTGP correction |
+| [offer-creation.md](offer-creation.md) | Godfather Offer (7 parts), value ladder, loss leader, guarantee | Sabri Suby (⚠️ pricing philosophy tension vs. Hormozi — flagged, not resolved) |
+| [copywriting.md](copywriting.md) | NEUE Wave formula, 9 questions every sales message must answer, long-form copy, LIVO | Sabri Suby, + Hormozi What-Who-When cross-reference |
 | [sales-closing.md](sales-closing.md) | Closing philosophy, objection handling by type, power framework, past/present/future, directional decision, mirror close | Sabri Suby, Alex Hormozi |
+
+---
+
+## Playbooks (Stage 2)
+
+Once a topic has enough sources cross-referenced, the distilled result goes in `playbooks/` — confirmed-by-multiple-sources content kept as truth, contradictions flagged rather than silently resolved, single-source items marked as such. This is the layer a tool/skill should actually read from, not the raw files above.
+
+| File | Covers | Status |
+|---|---|---|
+| [playbooks/paid-ads-playbook.md](playbooks/paid-ads-playbook.md) | Platform & targeting, ad creative, landing pages, economics — synthesized from `paid-ads.md`, `facebook-ads.md`, `landing-pages.md`, `marketing-strategy.md`, `offer-creation.md` | First playbook built (2026-07-04) |
 
 ---
 
