@@ -53,6 +53,8 @@ Why this works:
 
 The goal of the front-end offer is to bring people into your world. Profit comes from the lifetime relationship.
 
+⚠️ **Tension — unresolved, flag for testing:** Hormozi (`hormozi-advisor/knowledge/offers.md` § "Charge What It's Worth") argues the opposite: price to the value delivered, not the cheapest entry point, because low price anchors low perceived quality. Neither source wins by default — Sabri's loss-leader model assumes strong backend upsell mechanics to recover margin; Hormozi's premium model assumes the offer stack alone justifies the price. Test both against the specific business's margin structure and backend before picking one. Don't silently default to either.
+
 ### Part 4: Payment Plans
 Always offer payment plans. Split the total price into monthly terms (30 / 60 / 90 days or 12 months).
 
