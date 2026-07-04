@@ -138,15 +138,9 @@ Two types of messages that run after someone enters your world.
 
 ### 8a. Soap Opera Sequence (SOAP)
 
-A 5-email sequence for new subscribers. The goal is to build a bond before pitching anything. Each email ends on a hook that makes them want the next one.
+**Superseded — see `expert-secrets-reference.md` § SOAP Opera Email Sequences for the current 9-email version** (emotion → logic → fear arc, emails 1-5/6-7/8-9). This project's current-priorities.md confirms the 9-email version is the intended one to use.
 
-| # | Name | Purpose |
-|---|---|---|
-| 1 | Set the stage | Open with drama, hint at a revelation coming |
-| 2 | High drama | The backstory — the struggle, the low point |
-| 3 | Epiphany | The turning point — when everything changed |
-| 4 | Hidden benefits | What the transformation unlocked that they didn't expect |
-| 5 | Urgency + CTA | Present the offer with a reason to act now |
+Historical note, kept for reference only: this original 5-email version framed the turning point as a single "Epiphany" beat rather than splitting it into separate emotion/logic/fear stages. The goal (build a bond before pitching, each email hooking the next) still holds — just use the more granular 9-email structure to execute it.
 
 ### 8b. Daily Sign-in Emails (Seinfeld Emails)
 
