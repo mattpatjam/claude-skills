@@ -261,6 +261,8 @@ Run broad audiences (no demographic restrictions, no interest stacking) but make
 
 Counterintuitive result: broad targeting + specific creative often outperforms narrow targeting + generic creative.
 
+*Core insight generalized in `paid-ads.md` § Problem 2 (Targeting) — this hack is the Meta-specific mechanism behind it.*
+
 ---
 
 ### Hack 6: Message Match — Mirror Ad Headlines on Landing Pages
