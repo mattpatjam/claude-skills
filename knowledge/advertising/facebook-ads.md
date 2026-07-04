@@ -265,17 +265,7 @@ Counterintuitive result: broad targeting + specific creative often outperforms n
 
 ### Hack 6: Message Match — Mirror Ad Headlines on Landing Pages
 
-Most advertisers spend 80% of effort on ads and 10% on landing pages. If the ad and landing page feel disconnected, people bounce instantly.
-
-**The rule:** Your winning ad headline should be mirrored on the landing page headline. Same language, same promise, same tone.
-
-**Why Meta is the best split-testing tool for landing pages:**
-- Your ad headline gets seen by thousands of people
-- Only a fraction click
-- You already know which headline won (it's the one getting clicks)
-- Mirror that exact headline on the landing page — conversion rate will jump
-
-Apply the same mirroring to sub-headlines and lead-in copy. Always run a minimum of 3 landing page variations.
+Full framework moved to `landing-pages.md` (merged with Hormozi's landing page rules — same core insight from two sources). Summary: mirror your winning ad headline on the landing page headline, word for word. Meta is the best split-testing tool for landing pages because you already know which headline won before you build the page.
 
 ---
 
