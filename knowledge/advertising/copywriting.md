@@ -117,3 +117,11 @@ If the free content is better than what competitors charge for, the prospect is 
 - Sell the click / the consumption — not the product
 - Don't make ads look like ads
 - Add personality and specificity — generic = doubt
+
+---
+
+## Source: Alex Hormozi ($100M Leads) — Value Content Cross-Reference
+
+Complementary angle on the same problem NEUE Wave and the 9 Questions solve: making the value in a message land. Hormozi's version is the **What-Who-When framework** — 8 value drivers (dream outcome, likelihood, speed, ease + their opposites) × who gives/takes the prospect's status (spouse, kids, rivals) × when they feel it (past/present/future). Full framework: `paid-ads.md` § Problem 3, Part B.
+
+No merge needed — NEUE Wave/9 Questions diagnose whether a message is compelling; What-Who-When generates new angles to write from. Use both.
