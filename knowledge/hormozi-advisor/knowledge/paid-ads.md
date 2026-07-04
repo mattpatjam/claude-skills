@@ -1,13 +1,17 @@
 # Paid Ads Playbook
-## Source: acquisition.com Leads Course — Paid Ads Module (Parts 1 & 2)
+## Source: acquisition.com Leads Course — Paid Ads Module (Parts 1 & 2) + $100M Leads book, Part 4 — "Making an Ad: How to Publicly Advertise to Strangers"
 
 ---
 
 ## What It Is
 
+> "Advertising is the only casino where, with enough skill, you become the house."
+
 Paid ads = one-to-many communication to cold audiences. You pay a platform to put your offer in front of their audience. You rent eyeballs. Reach is guaranteed — unlike content, you pay for it upfront.
 
 This is the 4th and final of the Core Four. Do warm outreach, content, and cold outreach first — each builds the data and cash flow you need to run ads efficiently.
+
+The reach is guaranteed, getting your money back isn't — so it's a game of efficiency, not reach. If an ad is unprofitable, it's almost always because the right people never saw it. Fix who sees it before you fix the ad.
 
 ---
 
