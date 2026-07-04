@@ -92,7 +92,9 @@ Visual call-outs (beyond words):
 - **Scene** — visually show the problem (person tossing in bed = sleep issues, room full of clutter = organizational problem)
 
 **Production system that scales:**
-Record 10 pieces of value content (the "meat"). Record 30 different hooks. Combine = 300 ad variations to test. Find the best hook first, then find which value content converts best off that hook.
+Record 10 pieces of value content (the "meat"). Record 30 different hooks (5-second call-out clips). Combine = 300 ad variations to test in a matter of hours. Find the best hook first, then find which value content converts best off that hook.
+
+**Action:** Stop skipping ads. Watch them for the call-out. Become a student of the game — the goal is that for the rest of your life, when you see an ad, you turn the volume up instead of scrolling past.
 
 #### Part B: The Value Content (retain)
 
