@@ -17,7 +17,7 @@ Cross-reference all sources in a topic file:
 - Single-source only → note as unconfirmed
 
 Output goes to `playbooks/` — distilled principles organized by how you use them (Leads, Offer, Close).
-Build playbooks only when you have enough sources to confirm what's real.
+Build playbooks only when you have enough sources to confirm what's real. First playbook built 2026-07-04: `playbooks/paid-ads-playbook.md`.
 
 ---
 
