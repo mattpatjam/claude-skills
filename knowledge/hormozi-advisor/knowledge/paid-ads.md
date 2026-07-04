@@ -254,7 +254,14 @@ Work backward through the funnel. Each step breaks in sequence:
 3. **Opt-ins but no shows** → follow-up problem
 4. **Shows but no closes** → sales problem, NOT an ad problem
 
-If the right people are on the phone and not closing, fix your sales. Don't blame the ads.
+If the right people are on the phone and not closing, fix your sales. Don't blame the ads. If engaged leads have the problem you solve and the money to spend, and still aren't buying, that's a sales problem wearing an ad-spend costume — don't confuse the two.
+
+---
+
+### Where to Find Your Next Winning Ad
+
+- **Your best free content makes your best paid ads.** If a piece of organic content already generated sales or performed well, 9 times out of 10 it'll make a killer ad. Test proven organic before writing from scratch.
+- **User-generated content compounds.** If customers create testimonials or reviews of their own accord, post them. If they perform as free content, they usually perform as ads too. Build a system that reliably prompts customers to post — it becomes a steady stream of ad material.
 
 ---
 
