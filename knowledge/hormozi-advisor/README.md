@@ -105,7 +105,7 @@ The knowledge files follow the order of the Hormozi system. Start at the top if 
 |---|---|
 | `cold-outreach.md` | Cold DMs, emails, calls. List building, script structure, volume benchmarks, follow-up cadence. |
 | `Content.method.md` | Organic content. Platform selection, content types, the compounding logic behind why it works long-term. |
-| `paid-ads.md` | Paid traffic. Platform selection, targeting, ad creation, LTGP:CAC ratios, client-financed acquisition model. |
+| `paid-ads.md` | Stub only. Full paid traffic knowledge (platform selection, targeting, ad creation, LTGP:CAC, CFA) now lives in `.claude/knowledge/advertising/paid-ads.md` + `landing-pages.md` + `playbooks/paid-ads-playbook.md`. |
 
 ### Getting others to get leads for you
 | File | What it covers |
