@@ -73,6 +73,10 @@ Every ad has 3 parts: **Call-out → Value → Call to Action** (same as hook �
 #### Part A: The Call-Out (most important)
 Spend 80% of your effort on the first 5 seconds. If you nail the hook, almost every ad works.
 
+The purpose of each second of an ad is to sell the next second. The headline is the first sale — test it the most.
+
+**The cocktail party effect:** even in a room full of noise, one specific thing still cuts through and grabs attention. A call-out harnesses this to cut through the noise of the feed. Call-outs range from hyper-specific (grabs one person) to totally generic (grabs everyone) — pick based on how narrow your audience is.
+
 4 call-out types that work:
 
 | Type | Example |
