@@ -158,6 +158,8 @@ Total revenue ÷ number of customers over a 12-month period = average LTV per cu
 
 At 3:1, you're willing to spend 33% of LTV to acquire a customer. The goal is not the cheapest CAC — it's maximizing LTV so you can outspend every competitor.
 
+⚠️ **Correction (source: Alex Hormozi, `paid-ads.md` § The Money):** LTV overstates the number that matters. Two businesses with identical LTV can have wildly different profit if their margins differ — a $500 LTV at 10% margin is only $50 of actual profit. Hormozi's LTGP (Lifetime Gross Profit, margin-adjusted) is the more accurate version of this same ratio. Use LTV:CAC here as a quick proxy when margin data isn't handy; use LTGP:CAC in `paid-ads.md` when it is.
+
 ### 3. Payback Period
 How long does it take to recover your CAC as cash?
 
