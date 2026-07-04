@@ -20,7 +20,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/Users/matt/Desktop/Claude/.claude/hooks/olc-tracker-reminder.sh"
+            "command": "/Users/matt/Desktop/Claude/.claude/hooks/project-tracker-reminder.sh"
           }
         ]
       }
