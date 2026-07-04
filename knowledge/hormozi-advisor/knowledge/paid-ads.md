@@ -168,6 +168,8 @@ Once they act on the CTA, capture their contact info. The simplest tool for this
 
 ## Part 2: The Money
 
+Efficiency matters more than creativity. All advertising works — the only real difference between ads is how efficiently each one converts spend into return. 4 big questions to answer: how much do I spend, how well am I doing, why aren't my ads profitable, and what do I do about it. The rest of this section answers each.
+
 ### The Metrics That Matter
 
 **LTGP** = Lifetime Gross Profit (not LTV, not revenue — gross profit after cost of goods)
