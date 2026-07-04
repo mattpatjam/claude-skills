@@ -139,14 +139,30 @@ Clear, not clever. They're interested for a short window — tell them exactly w
 - "Reply YES"
 - "Call this number"
 - "Go to [URL]"
+- "Scan this QR code"
 
 Keep CTAs simple: easy numbers, obvious buttons, short memorable URLs.
 (80% of acquisition.com traffic comes from people hand-typing the domain — short domains are underpriced assets.)
 
+Layer urgency, scarcity, and bonuses into the CTA itself to push action now instead of later.
+
+---
+
+### Problem 4: Getting Permission to Contact Them
+
+Once they act on the CTA, capture their contact info. The simplest tool for this is a landing page — don't overthink it. The simpler the page, the easier it is to test. Focus on two things only: the words and the image.
+
+**3 layouts that consistently work:**
+- Headline + subhead + form
+- Same, plus an image
+- Same, plus 3 bullets
+
 **Landing page rules:**
-- 3 layouts that consistently work: headline + sub + form | same + image | same + 3 bullets
-- Match your ad exactly — same colors, same words, same person
-- More steps = fewer but more qualified leads. Fewer steps = more volume. Adjust based on need.
+- Match your ad exactly — same colors, same words, same person, same promise. If the ad promises X, the page has to deliver X. People forget this constantly and waste ad spend because of it.
+- Keep it a continuous experience from click to close — no jarring shift in look or language between ad and page.
+- More form fields = fewer but more qualified leads. Fewer fields = more volume, lower quality. Pick based on what you need right now.
+
+**Action:** Build your first landing page now, matched word-for-word to your best-performing ad.
 
 ---
 
