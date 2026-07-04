@@ -274,8 +274,12 @@ If the right people are on the phone and not closing, fix your sales. Don't blam
 - [ ] Record 10 value content pieces + 30 hooks = 300 ad variations
 - [ ] Build a simple landing page that matches your ad (color, words, person)
 - [ ] Set up tracking before spending anything
-- [ ] Set a "learning budget" — expect to lose it before you find the winner
-- [ ] Calculate your LTGP (gross profit, not revenue)
+- [ ] Set an acceptable monthly loss budget — expect to lose it, you're learning not earning yet
+- [ ] Calculate your LTGP (gross profit, not revenue) and your 30-day gross profit per customer
+- [ ] Cap each new ad's test spend at 2x that 30-day gross profit figure
+- [ ] Check your CAC against the industry average (3x rule) to know whether to fix ads or fix the business model
 - [ ] Set a target: LTGP:CAC ≥ 3:1 to start, 10:1 to scale
 - [ ] Design a day-1 upsell to achieve client-financed acquisition
-- [ ] When you find a winner: scale it hard, don't stop
+- [ ] Pull your best-performing organic content and customer UGC as ad candidates
+- [ ] When you find a winner: scale it hard, reverse-budget from your customer goal, don't stop
+- [ ] If you haven't run a single ad yet: place one for $100 this week. Don't chicken out at the last step.
