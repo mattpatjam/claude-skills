@@ -204,8 +204,12 @@ Set up tracking before spending a dollar. Without tracking, you can't see what's
 **Phase 2: Lose money**
 You will lose more times than you win. That's the game. Of 300 ads tested, maybe 5 are ROI-positive and 1 is a home run. The home run pays for everything. Stop stopping when you find a winner — that's where you double down.
 
+**Test-spend budget rule:** cap each new ad's test spend at 2x the gross profit one customer generates in their first 30 days. Example: if a customer nets $100 in the first 30 days, let an ad run up to $200 in spend as long as it's still producing leads. If it hasn't produced a single lead before hitting that ceiling, shut it off.
+
 **Phase 3: Print money**
-Once LTGP > CAC, spend as much as you possibly can. If a machine gives you $10 for every $1 you put in, your budget is every dollar you can find.
+Once LTGP > CAC, spend as much as you possibly can. If a machine gives you $10 for every $1 you put in, your budget is every dollar you can find. Stop asking "how much should I spend" — ask "how many customers do I want, or can I handle."
+
+**Reverse-budgeting from the goal:** budget = customers wanted × CAC, padded ~20% since ads get less efficient as they scale. Example: want 100 customers next month, CAC is $100 → $10,000 base, padded to $12,000 over 30 days = $400/day. Set the daily budget from the goal, then commit to it — if the number feels scary, that's a sign you're doing it right.
 
 ---
 
