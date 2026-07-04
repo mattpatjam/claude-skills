@@ -75,7 +75,7 @@ hormozi-advisor/
 │   ├── leads.md                 ← Lead gen overview, Core Four intro ($100M Leads)
 │   ├── cold-outreach.md         ← List building, scripting, volume benchmarks
 │   ├── Content.method.md        ← Content strategy, platforms, compounding logic
-│   ├── paid-ads.md              ← Platform selection, targeting, LTGP:CAC metrics
+│   ├── paid-ads.md              ← Stub — full content moved to .claude/knowledge/advertising/ (see paid-ads.md, landing-pages.md, playbooks/paid-ads-playbook.md)
 │   ├── more-better-new.md       ← Rule of 100, funnel constraint testing, expansion order
 │   ├── referrals.md             ← Referral math, 7 ask methods, gift card play
 │   ├── execution.md             ← Learning budget, Open to Goal, daily schedule
