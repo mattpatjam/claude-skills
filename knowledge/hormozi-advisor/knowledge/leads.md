@@ -128,15 +128,7 @@ Every offer (lead magnet or core) is evaluated by the same 4 levers:
 
 **After exhausting one platform:** Move to the next one. Continue until all platforms are exhausted, then cycle back with fresh value (content + probe email).
 
-### 2. Cold Outreach (Scalable, lower conversion)
-- Contact strangers who match your avatar
-- Email, LinkedIn, DMs
-- Volume game — expect low % response
-- Key: personalization + clear value prop + low-friction CTA
-- CTA should be a question, not a pitch: "Would this be useful to you?"
-- Follow-up is everything — most replies come on message 3-5
-
-### 3. Content (Compound, slow to build, high leverage)
+### 2. Content (Compound, slow to build, high leverage)
 - Post regularly on one platform where your buyer lives
 - Content formula: Problem → Insight → Solution → CTA
 - Goal: make people feel you understand their problem better than they do
