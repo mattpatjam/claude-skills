@@ -41,6 +41,8 @@ If you're not getting enough leads, you're not doing enough of the Core Four. It
 
 ## Better — Optimize the Funnel
 
+**Why "better" comes after "more":** you crank volume until it breaks — usually your CAC creeps past what the business can sustain. That break is the signal, not a failure. It tells you exactly where to test and fix. Fix it, then go back to cranking more.
+
 Once volume is real, small percentage improvements compound fast. Getting better means more leads from the same effort — that's leverage.
 
 **You only get better by testing.** One test per week, per platform. Four reasons to do it this way:
