@@ -80,18 +80,17 @@ The top 0.1% of Facebook advertisers test 11x more creative than everyone else. 
 
 "New" is the last resort, not the first move. Most businesses jump here too early.
 
-**The market saturation myth:** You haven't saturated your market. You've saturated one method on one platform reaching one audience type. If any competitor can still get customers in your space, there's more attention available — you just haven't reached it yet.
+**The Size of the Pie Fallacy ($100M Leads):** small businesses use one method, on one platform, in one specific way, targeting one narrow audience. Inside that thin slice there are only a handful of competitors, so it looks like the whole market is small and mostly taken. That's an illusion — the business hasn't saturated the market, it's saturated one narrow lane inside it. If any competitor can still get customers, there's more attention sitting just outside that lane. This fallacy is why most businesses stay small: they mistake the size of their slice for the size of the pie.
 
 **When to go new:** When incremental returns from more or better are lower than the effort of starting something new. Not before.
 
-**Order of expansion — easiest to hardest:**
+**Order of expansion (confirmed 3-step order, $100M Leads):**
 
 | Step | What It Means | Example |
 |---|---|---|
 | 1. New placement | Same platform, different spot | Running Instagram feed ads → add Stories |
-| 2. New platform (same method) | Different platform, same media format | Short-form on TikTok → same content on Reels |
-| 3. New platform (different method) | Different format and platform | YouTube long-form → Twitter text ads |
-| 4. New core four method | Completely different acquisition type | Paid ads → building an outbound cold call team |
+| 2. New platform | A different platform entirely | TikTok → YouTube, or Instagram → LinkedIn |
+| 3. New Core Four method | A completely different acquisition type | Paid ads → building an outbound cold call team |
 
 Each step up is higher risk, higher effort, longer ramp. Start with step 1. Extract everything. Then move to step 2.
 
