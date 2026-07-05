@@ -6,7 +6,7 @@ argument-hint: [client name]
 
 ## What This Skill Does
 
-Guides a conversational paid-ads session and produces a complete campaign document — platform pick, targeting, 3 ad variations, landing page copy, and budget plan — for a specific client or project.
+Guides a conversational paid-ads session and produces a complete campaign document — platform pick, targeting, 3 ad variations, landing page copy, and budget plan — for a specific client or project. Also handles the reverse case: if a campaign is already running and underperforming, diagnoses which part of the funnel is actually broken before rebuilding anything (Phase 0).
 
 Knowledge source: `.claude/knowledge/advertising/playbooks/paid-ads-playbook.md` (synthesized from Hormozi, Sabri Suby, and Russell Brunson). Read it at the start of the session — don't rely on memory of its contents, it gets resynced as new source material lands.
 
