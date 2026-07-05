@@ -71,7 +71,7 @@ Present the list. Ask Matthieu to pick 3 hooks to fully develop (or pick for him
 
 **Step B: Full variations.** For each of the 3 chosen hooks, draft the complete ad:
 
-1. **Call-out** (the hook/first 5 seconds) — using the client's actual avatar language from Phase 1, not generic phrasing.
+1. **Call-out** — the chosen hook from Step A, refined if needed now that it's being built out fully.
 2. **Value content** — apply the What-Who-When framework: pick 1-2 of the 8 value drivers (dream outcome, likelihood, speed, ease + opposites), 1-2 status perspectives (self, spouse, colleague, kids), and a timeframe (past/present/future) to frame it in.
 3. **CTA** — clear, not clever. Match to platform: "Learn more" style if Meta, direct ("Reply YES", "Call now") if off-platform.
 
