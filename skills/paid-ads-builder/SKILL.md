@@ -169,6 +169,7 @@ Once all phases are confirmed, run `humanizer` on the ad copy and landing page s
 
 ## 5. Budget & Economics
 - LTGP:CAC: [ratio] — [scalable / needs work]
+- Which lever to pull: [business model / advertising] — CAC is [X]x the industry average of $[Y]
 - Pricing philosophy used: [loss-leader / premium] — reason: [...]
 - Test-spend cap: $[X] (2x 30-day gross profit of $[Y])
 - Day-1 upsell / CFA: [...] (or: "Gap — no fast-follow offer identified yet")
@@ -178,6 +179,8 @@ Once all phases are confirmed, run `humanizer` on the ad copy and landing page s
 - [ ] Build landing page at [layout]
 - [ ] Set up tracking before spending anything
 - [ ] Review results against LTGP:CAC target after test-spend cap is hit
+- [ ] Once a winner emerges: generate more AI variations from it (`facebook-ads.md` Hack 3 — AI Variation Scaling)
+- [ ] Set up a retargeting sequence with a different offer for non-converters (`facebook-ads.md` Hack 7)
 ```
 
 ---
