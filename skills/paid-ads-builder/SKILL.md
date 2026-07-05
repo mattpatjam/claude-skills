@@ -82,6 +82,10 @@ Then ask: "Where do competitors in this niche advertise?" — that's the tie-bre
 
 ## Phase 3: Ad Creative — 3 Variations
 
+**Step 0: Source before writing from scratch.**
+- Ask: "Does this client have any proven organic content, or any customer testimonials/UGC that already got real engagement?" If yes, those are hook candidates before writing anything new — both the playbook's confirmed advice ("your best free content makes your best paid ads") say to test proven material first.
+- Offer a quick competitor scan: "Want me to pull a few running ads from competitors in this niche/platform first, for reference?" If yes, use web search (or the ad platform's public ad library if reachable) to find 3-5 currently-running competitor ads, note their call-out type and angle. Keep this fast — a reference pass, not the full 50-ad study from the playbook (that's Matthieu's own ongoing homework, not something to do inline every session).
+
 **Step A: Hook list.** Before drafting full variations, generate a working list of 10-15 hooks/headlines spread across the 4 call-out types (Labels, Yes questions, If-then statements, Ridiculous results) plus the High-Value Dobie formula, all grounded in the client's real avatar language from Phase 1 — not generic. This is a scaled-down version of the playbook's production system (10 value pieces × 30 hooks = 300 variations): that volume is built for bulk algorithmic testing on-platform, not manual review, so this list stays small enough for Matthieu to read in one pass while still covering multiple angles.
 
 Present the list. Ask Matthieu to pick 3 hooks to fully develop (or pick for him if he says so, favoring maximum angle diversity — don't pick 3 hooks of the same type).
