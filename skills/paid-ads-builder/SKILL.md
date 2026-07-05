@@ -65,9 +65,11 @@ Then ask: "Where do competitors in this niche advertise?" — that's the tie-bre
 
 ## Phase 3: Ad Creative — 3 Variations
 
-Generate 3 ad variations, each anchored to a **different call-out angle** from the playbook's 4 types (Labels, Yes questions, If-then statements, Ridiculous results) or the High-Value Dobie formula — don't make all 3 variants of the same angle.
+**Step A: Hook list.** Before drafting full variations, generate a working list of 10-15 hooks/headlines spread across the 4 call-out types (Labels, Yes questions, If-then statements, Ridiculous results) plus the High-Value Dobie formula, all grounded in the client's real avatar language from Phase 1 — not generic. This is a scaled-down version of the playbook's production system (10 value pieces × 30 hooks = 300 variations): that volume is built for bulk algorithmic testing on-platform, not manual review, so this list stays small enough for Matthieu to read in one pass while still covering multiple angles.
 
-For each variation, draft:
+Present the list. Ask Matthieu to pick 3 hooks to fully develop (or pick for him if he says so, favoring maximum angle diversity — don't pick 3 hooks of the same type).
+
+**Step B: Full variations.** For each of the 3 chosen hooks, draft the complete ad:
 
 1. **Call-out** (the hook/first 5 seconds) — using the client's actual avatar language from Phase 1, not generic phrasing.
 2. **Value content** — apply the What-Who-When framework: pick 1-2 of the 8 value drivers (dream outcome, likelihood, speed, ease + opposites), 1-2 status perspectives (self, spouse, colleague, kids), and a timeframe (past/present/future) to frame it in.
