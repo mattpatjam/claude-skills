@@ -28,6 +28,23 @@ Stops at the document. This skill never calls an ad platform's API, spends money
 
 ---
 
+## Phase 0: New or Existing Campaign?
+
+Ask: "Is this a brand new campaign, or is there an ad already running for this client that isn't converting?"
+
+**If new:** proceed to Phase 1.
+
+**If existing and underperforming:** run the diagnostic before touching anything — don't rebuild blind. Work backward through the funnel, in order, and stop at the first broken step:
+
+1. **No clicks** → ad problem (call-out or targeting). Skip to Phase 2/3 to rebuild those.
+2. **Clicks but no opt-ins** → landing page problem (message mismatch with the ad, or too many form fields). Skip to Phase 4.
+3. **Opt-ins but no shows** → follow-up problem. This skill doesn't cover follow-up sequencing — point to a follow-up/CRM workflow instead.
+4. **Shows but no closes** → sales problem, NOT an ad problem. Say so plainly and stop here — don't let Matthieu rebuild ads to fix a closing issue. Point to sales training / `offer-builder`'s guarantee-and-objection framing instead.
+
+Only rebuild the phases that are actually broken. If steps 1-3 are all fine and it's a step-4 sales problem, this skill has nothing left to do for this client right now.
+
+---
+
 ## Phase 1: Context
 
 Check for `Projects/olc-method/clients/$1/offer.md` (or `Projects/Sales-Training/clients/$1/offer.md`).
