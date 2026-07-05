@@ -1,6 +1,6 @@
 ---
 name: paid-ads-builder
-description: Use when someone asks to build a paid ad campaign for a client, create ads for OLC Method or sales training work, design paid traffic targeting and creative, or apply the paid-ads playbook to a specific business or project.
+description: Use when someone asks to build a paid ad campaign for a client, create ads for OLC Method or sales training work, design paid traffic targeting and creative, diagnose why a client's paid ads aren't converting, or apply the paid-ads playbook to a specific business or project.
 argument-hint: [client name]
 ---
 
