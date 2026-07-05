@@ -1,5 +1,6 @@
 # More, Better, New — Putting It All Together
-## Source: acquisition.com Leads Course — Putting It All Together Module
+## a.k.a. "Core Four on Steroids"
+## Source: acquisition.com Leads Course + $100M Leads — Putting It All Together
 
 ---
 
