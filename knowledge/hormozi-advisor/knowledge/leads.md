@@ -29,6 +29,14 @@ Everything before a sale is about getting attention and converting it to engagem
 
 ## The Core Four Traffic Channels
 
+**What defines the Core Four (from the book):** every way to advertise trades either time or money. You reach people who know you (warm) or strangers (cold). You do it publicly (content, ads) or privately (outreach). Four combinations, four methods — nothing else is available to a single person.
+
+**The confirmed order to bring them online:**
+1. Warm Outreach — start day one, zero cost, fastest proof
+2. Content — start in parallel from day one, slow to pay off so the cost of delay is permanent
+3. Cold Outreach — add once warm outreach is proven
+4. Paid Ads — add last, only once the offer and message are proven
+
 ### 1. Warm Outreach (Best ROI, hardest to scale)
 - Contact people you already know
 - The fastest path to first revenue
