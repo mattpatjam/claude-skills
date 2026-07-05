@@ -115,7 +115,7 @@ The full model:
 ```
 1. MORE — Crank what works. Ask: what stops 10x? Attack the answer.
 2. BETTER — Test one thing/week. Fix the constraint. Prioritize front-to-back.
-3. NEW — Only when more/better returns diminish. Expand in order: placement → platform → method → core four.
+3. NEW — Only when more/better returns diminish. Expand in order: placement → platform → new Core Four method.
 ```
 
 Advertising is making known. The Core Four is how you do it alone. More/Better/New is how you scale it.
