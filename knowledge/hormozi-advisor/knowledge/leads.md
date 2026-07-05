@@ -344,6 +344,16 @@ You can only control inputs. Measuring outputs only tells you something if your 
 
 ---
 
+### 3. Cold Outreach (Scalable, lower conversion)
+- Contact strangers who match your avatar
+- Email, LinkedIn, DMs
+- Volume game — expect low % response
+- Key: personalization + clear value prop + low-friction CTA
+- CTA should be a question, not a pitch: "Would this be useful to you?"
+- Follow-up is everything — most replies come on message 3-5
+
+---
+
 ### 4. Paid Ads (Fast, costs money, requires offer clarity first)
 - Only run ads once you have a proven offer
 - Ads amplify what's already working — they don't fix a broken offer
