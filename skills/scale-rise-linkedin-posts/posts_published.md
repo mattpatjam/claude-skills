@@ -9,3 +9,9 @@ time this skill runs, during the analytics check (Step 2), matched by hook text 
 this post from real estate posts in the same 7-day scrape window.
 
 ---
+
+## 2026-07-06
+Pillar: Proof / Case Studies
+Theme: Client Work & Results
+Hook: "This week, our newest client wasn't a real estate agency."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
