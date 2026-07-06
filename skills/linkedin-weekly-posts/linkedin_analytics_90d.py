@@ -45,7 +45,19 @@ def _extract(page):
     try:
         # Open the time-range dropdown (defaults to "7 days") and switch to 90 days.
         page.get_by_text("7 days", exact=True).first.click(timeout=10000)
-        page.wait_for_timeout(800)
+        page.wait_for_timeout(1200)
+
+        # Debug: dump whatever menu/listbox appeared so we can see the real option text.
+        menu_dump = page.evaluate("""() => {
+            const candidates = Array.from(document.querySelectorAll(
+                '[role="listbox"], [role="menu"], ul, [class*="dropdown"], [class*="menu"]'
+            ));
+            return candidates
+                .filter(el => el.innerText && el.innerText.trim().length > 0 && el.innerText.length < 500)
+                .map(el => el.innerText.trim())
+                .slice(0, 15);
+        }""")
+        _data["menu_dump"] = menu_dump
 
         # LinkedIn's menu options are usually phrased "Past 90 days".
         clicked = False
@@ -57,6 +69,7 @@ def _extract(page):
             except Exception:
                 continue
 
+        _data["clicked_90d_option"] = clicked
         if not clicked:
             _data["error"] = "Could not find a 90-day option in the dropdown menu"
             return
