@@ -166,4 +166,6 @@ if section:
 print(json.dumps({
     "window": r.get("rangeLabel", "90 days (unconfirmed)"),
     "posts": posts,
+    "menu_dump": _data.get("menu_dump"),
+    "clicked_90d_option": _data.get("clicked_90d_option"),
 }, indent=2))
