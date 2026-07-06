@@ -1,0 +1,11 @@
+# Scale-Rise LinkedIn Posts Published
+
+Log of all Scale-Rise posts chosen and published from Matthieu's personal LinkedIn account.
+Used by the skill to avoid repeating themes and pillars from the last 60 days. Kept fully
+separate from the real estate skill's tracking files — do not merge.
+
+Engagement data (`Impressions`, `Reactions`, `Comments`, `Reposts`) is filled in the following
+time this skill runs, during the analytics check (Step 2), matched by hook text to isolate
+this post from real estate posts in the same 7-day scrape window.
+
+---
