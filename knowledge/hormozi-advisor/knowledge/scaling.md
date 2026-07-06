@@ -81,6 +81,26 @@ Ask these in order until you find the bottleneck:
 
 ---
 
+## Employee Training Framework (Document → Duplicate → Certify)
+
+*Source: Hormozi — $100M Leads, employees chapter.*
+
+Three steps, in order. Don't skip to step 2 without step 1 done properly.
+
+**Step 1: Document.** You already know how to do the thing, so write the checklist down exactly as you do it, step by step. Have a trusted observer watch you work and take notes if that's easier than writing it cold. Then sit the new hire down and walk them through the checklist yourself, demonstrating each step in front of them, the same way a parent shows a kid how to tie their shoes. If they stop you to ask questions or slow you down anywhere, that's a gap in the checklist, not a gap in them. Fix the checklist on the spot. What comes out the other end is draft two, ready for someone else to run.
+
+**Step 2: Duplicate.** Now they do it while you watch. Same checklist, roles reversed: they execute, you observe. The goal is exact duplication, not improvisation. If the checklist is right, they get the same outcome you got. If it's off, you'll find out immediately, because they'll stall or fail at the exact step the checklist got wrong. Fix the checklist, have them run it again, repeat until they get it right.
+
+**Step 3: Certify.** Once they can run the checklist correctly on their own, they're a legitimate producer, not a trainee.
+
+**Operating rules:**
+- Most entry-level roles aren't complex. They take grit, not skill. If someone is trained properly and still underperforming after three weeks, cut them. Don't keep coaching past that point.
+- Grade people on whether they followed directions, not on whether they got the result. This is the whole point: if they follow the checklist and the result is wrong, the checklist is broken, not the person. Fix the system, not the individual. If you grade on results instead, you can't tell whether a bad outcome means "didn't follow directions" or "checklist was wrong" — and you'll misdiagnose which one it is.
+
+**How to apply for Matt:** any repeatable task Matt currently does himself (new listing intake with Ervien, CRM data entry, viewing coordination, follow-up cadence) should get a written checklist before it gets handed to anyone else — VA, junior agent, or future SC hire. Ties into the Hiring Sequence above: the checklist is what makes a hire at any revenue stage actually transferable.
+
+---
+
 ## The Acquisition.com Growth Levers
 In order of ease and ROI:
 1. **Raise prices** — easiest lever, immediate impact, underused by 90% of businesses
