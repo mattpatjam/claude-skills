@@ -5,6 +5,18 @@ Engagement data (`Impressions`, `Reactions`, `Comments`, `Reposts`) is filled in
 
 ---
 
+## 2026-07-03 (Thursday)
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "Developers in Bali are building for daily rental. The people who actually live here can barely find a house."
+Impressions: 2000 | Reactions: 25 | Comments: — | Reposts: —
+
+## 2026-07-01 (Tuesday)
+Pillar: The Educator
+Theme: Sales Techniques
+Hook: "What is value in Real Estate ?"
+Impressions: 571 | Reactions: 14 | Comments: — | Reposts: —
+
 ## 2026-06-26 (Thursday)
 Pillar: The Perspective
 Theme: Bali Market
