@@ -61,8 +61,11 @@ def _extract(page):
             _data["error"] = "Could not find a 90-day option in the dropdown menu"
             return
 
-        page.wait_for_timeout(3000)
-        page.wait_for_load_state("networkidle", timeout=15000)
+        page.wait_for_timeout(4000)
+        try:
+            page.wait_for_load_state("networkidle", timeout=6000)
+        except Exception:
+            pass
 
         result = page.evaluate("""() => {
             const loginBtn = document.querySelector('a[href*="/login"], button[data-tracking-control-name*="login"]');
