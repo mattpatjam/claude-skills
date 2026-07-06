@@ -167,7 +167,7 @@ Visual: [image description]
 Recommendation: [Option 1 or 2 — one sentence why]
 ```
 
-After displaying: ask "Which one are you going with? I can humanize it before you post. Also confirm what day you want to actually post it."
+After displaying: ask "Which one are you going with? I can humanize it before you post." Standard posting day is Friday, after that week's Tue/Wed/Thu real estate posts — no need to reconfirm the day each time unless Matthieu says he wants to deviate.
 
 ---
 
