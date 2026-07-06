@@ -114,7 +114,11 @@ DynamicFetcher.fetch(
 )
 
 if "error" in _data:
-    print(json.dumps({"error": _data["error"]}))
+    print(json.dumps({
+        "error": _data["error"],
+        "menu_dump": _data.get("menu_dump"),
+        "clicked_90d_option": _data.get("clicked_90d_option"),
+    }))
     sys.exit(1)
 
 r = _data.get("result", {})
