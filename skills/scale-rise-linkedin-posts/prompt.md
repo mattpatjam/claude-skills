@@ -219,8 +219,9 @@ If any item fails — rewrite before outputting. No exceptions.
 
 ## SCHEDULING
 
-GENERATION: Once a week, only when Matthieu explicitly asks — typically Monday.
-POSTING: Matthieu confirms the actual post day when he picks an option (Step 6 of SKILL.md).
+GENERATION: Once a week, only when Matthieu explicitly asks — Monday.
+POSTING: Friday, after that week's Tue/Wed/Thu real estate posts. Fixed standard — don't
+reconfirm each time unless Matthieu says he wants a different day for that week.
 No email delivery — session display only.
 
 ---
