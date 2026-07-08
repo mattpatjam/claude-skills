@@ -332,6 +332,8 @@ Every entry always produces exactly 2 versions per occurrence — this is a fixe
 
 - This is chat-driven, not scheduled. There's no cron trigger anywhere in this spec — everything fires when a business opens the tool.
 - The setup interview only runs once per business; check for an existing config before showing it again.
-- The per-generation interview (3 questions) runs every single time, with no exception for a business's first-ever session right after setup.
-- Claude's generation response must be parsed for two clearly delimited options plus the metadata line needed for the Sheets append. Design the prompt so options come back in clearly separated sections (e.g. `===OPTION 1===` / `===OPTION 2===`).
-- The humanizer pass is a second, separate Claude call per option — don't fold it into the generation call's instructions, since the rule set is long enough that combining both in one call degrades both.
+- The per-session interview (3 questions) runs once per session, every single time, with no exception for a business's first-ever session right after setup — but it does not repeat per content type within a session. Get this distinction right: 3 questions total for a session covering 3 deliverables, not 9.
+- The generate → humanize loop (Nodes 5-8) runs once per content type due that session. A session with only one content type due just runs the loop once — the loop structure doesn't add overhead for the common single-content-type case, it only matters when more than one type lines up on the same session.
+- Claude's generation response must be parsed for two clearly delimited versions plus the metadata line needed for the Sheets append, once per content type. Design the prompt so versions come back in clearly separated sections (e.g. `===VERSION 1===` / `===VERSION 2===`).
+- The humanizer pass is a second, separate Claude call per version — don't fold it into the generation call's instructions, since the rule set is long enough that combining both in one call degrades both. That's 2 humanizer calls per content type, so a 3-content-type session makes 6 humanizer calls total.
+- Post-log reads and writes are always scoped to one content type at a time — never let a newsletter's rotation check see social post history or vice versa, even though they live in the same sheet.
