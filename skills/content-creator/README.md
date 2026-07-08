@@ -1,6 +1,6 @@
 # Content Creator — System Summary
 
-A generic, interactive content-creation tool. Works for any business or client — not built around one specific account. First use for a new business runs a one-time setup interview; every use after that (including the first) runs a short per-generation interview, then researches, writes, humanizes, and logs two post options.
+A generic, interactive content-creation tool. Works for any business or client — not built around one specific account. First use for a new business runs a one-time setup interview; every session after that (including the first) runs a short per-session interview, then researches, writes, humanizes, and logs two versions of every content type due that session — a social post gets 2 options, a newsletter issue gets 2 draft versions, and so on. A business can run more than one content type on more than one cadence (e.g. 2 social posts + 1 newsletter a week) without repeating setup or the per-session interview for each one.
 
 Built as a Claude Code skill (`.claude/skills/content-creator/`) for local design and testing, following the same pattern already proven by `linkedin-weekly-posts/`. **The real deployment target is Renner** — see `RENNER-SPEC.md` for the actual engineering handoff. The Claude Code version here is the reference implementation the Renner build gets translated from, not itself the production system.
 
