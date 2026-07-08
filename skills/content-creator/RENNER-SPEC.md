@@ -129,46 +129,60 @@ date | content_type | pillar | target_reader | hook_summary
 
 ---
 
-## Node Flow — Per-Generation (Every Single Time, Including the First)
+## Node Flow — Per Session (Every Single Time, Including the First)
+
+A session can cover one content type or several, depending on how the business's content calendar lines up (e.g. a Tuesday-only session for that week's social post, vs. a Friday session covering both the week's second social post and the newsletter). Nodes 1-4 run **once per session**; nodes 5-9 **loop once per content type due**.
 
 ```
 [BUSINESS OPENS TOOL — CONFIG ALREADY EXISTS]
        |
        v
-[NODE 1] Chat interview — 3 questions
+[NODE 1] Determine which content type(s) are due this session
+  - From {{CLIENT_CONTENT_CALENDAR}} — could be one type or several
+       |
+       v
+[NODE 2] Chat interview — 3 questions (once for the whole session)
   - Anything specific to write about this time?
   - Anything from last week worth referencing?
   - Anything upcoming worth previewing?
   - Blank/"nothing" answers recorded as "Nothing to report," never re-prompted
        |
        v
-[NODE 2] Read post log — Google Sheets API
-  - GET last 12 rows from {{CLIENT_POST_LOG_SHEET_ID}}
-       |
-       v
 [NODE 3] Read platform post history — browser connection (if available)
-  - Last 10-15 posts on the business's configured platform(s)
+  - Last 10-15 posts on the business's configured platform(s), once for the session
   - If unavailable: skip, note the gap, proceed without it
        |
        v
 [NODE 4] Industry research — Firecrawl search (loop, 3-5 queries)
-  - Seeded from CLIENT_TRUSTED_SOURCES + industry
+  - Seeded from CLIENT_TRUSTED_SOURCES + industry, once for the session
        |
        v
-[NODE 5] Assemble prompt (see Prompt Assembly below)
+  ===== LOOP: repeat NODES 5-9 once per content type due this session =====
        |
        v
-[NODE 6] Claude API — generate 2 options
+[NODE 5] Read post log — Google Sheets API
+  - GET last 12 rows from {{CLIENT_POST_LOG_SHEET_ID}}, filtered to this content type
        |
        v
-[NODE 7] Claude API — humanizer pass on each option (2 separate calls)
+[NODE 6] Assemble prompt for this content type (see Prompt Assembly below)
+  - Reuses the shared session interview + research from Nodes 2-4
+  - Applies this content type's own format target from the benchmark table
        |
        v
-[NODE 8] Display both humanized options in chat — business picks one
+[NODE 7] Claude API — generate 2 versions for this content type
+       |
+       v
+[NODE 8] Claude API — humanizer pass on each version (2 separate calls)
        |
        v
 [NODE 9] Append to post log — Google Sheets API
-  - date / pillar / target_reader / hook_summary, extracted from the chosen option's metadata
+  - date / content_type / pillar / target_reader / hook_summary, extracted from the chosen version's metadata
+       |
+       v
+  ===== END LOOP =====
+       |
+       v
+[NODE 10] Display all content types' humanized versions together in chat — business picks one version per content type
 ```
 
 ---
