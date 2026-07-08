@@ -151,7 +151,18 @@ If the business's configured purpose is pure brand-awareness/thought-leadership,
 
 ## TWO-OPTIONS RULE
 
-Every generation produces **exactly two post options**, each using a different content pillar or a meaningfully different angle — never two versions of the same idea with different wording. This is a hard output-format rule, not a suggestion. If two drafted options are too similar, regenerate the weaker one before showing them.
+Every content type produces **exactly two versions per occurrence** — not just social posts. A LinkedIn post gets 2 options. A newsletter issue gets 2 draft versions. Any other content type a business's config defines gets 2 versions too. Each version uses a different content pillar or a meaningfully different angle — never two versions of the same idea with different wording. This is a hard output-format rule, not a suggestion, and it does not vary by content type. If two drafted versions are too similar, regenerate the weaker one before showing them.
+
+---
+
+## CONTENT CALENDAR / BATCH GENERATION
+
+A business's config can define more than one content type on more than one cadence (see `config-template.md` section 9) — e.g. two LinkedIn posts a week and one weekly newsletter. When more than one content type is due in the same session:
+
+- The per-generation interview (the 3 session questions) is asked **once per session, not once per content type.** The same answers feed every deliverable due that session.
+- Research (Step 3 in `SKILL.md`) also runs once per session and gets reused across all deliverables, rather than re-researched per content type.
+- Generation still runs separately per content type, since each one has its own format rules from the platform benchmark table — but all deliverables in a session draw from the same session input and research.
+- Each deliverable still gets its own two versions, checked against its own pillar rotation and its own post-log history (a newsletter shouldn't repeat a newsletter angle from last month; a LinkedIn post checks against LinkedIn post history — they don't cross-contaminate each other's rotation).
 
 ---
 
