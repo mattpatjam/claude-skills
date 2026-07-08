@@ -204,11 +204,11 @@ The full contents of `engine.md` in this folder — philosophy, hook framework, 
 ```
 The full contents of this business's config file — identity, purpose, platforms, tone, audience, pillars, banned topics, cadence, trusted sources.
 
-**Block 3 — Post log (injected per generation)**
+**Block 3 — Post log, filtered to the content type currently being generated**
 ```
-## TOPICS ALREADY COVERED — DO NOT REPEAT THESE ANGLES
+## TOPICS ALREADY COVERED IN {{CONTENT_TYPE}} — DO NOT REPEAT THESE ANGLES
 
-{{POST_LOG_LAST_12}}
+{{POST_LOG_LAST_12_FOR_THIS_CONTENT_TYPE}}
 
 If your planned angle, hook, or target reader closely resembles any entry above, find a meaningfully different angle before proceeding.
 ```
