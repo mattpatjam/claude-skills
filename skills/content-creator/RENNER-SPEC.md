@@ -296,10 +296,10 @@ Every entry always produces exactly 2 versions per occurrence — this is a fixe
 
 ## Adding a New Business
 
-1. Business opens the tool for the first time — the setup interview (Node 1-4 of the Setup flow above) runs automatically. No manual config file needed beforehand.
-2. Verify the confirmed identity block and pillars look right before the first real generation run.
-3. Run one generation manually to verify end-to-end: interview → research → generate → humanize → log.
-4. From that point on, the business just opens the tool whenever they want content — no schedule to activate, this is on-demand, not cron.
+1. Business opens the tool for the first time — the setup interview (Node 1-4 of the Setup flow above) runs automatically, including the content calendar question (Q8). No manual config file needed beforehand.
+2. Verify the confirmed identity block, pillars, and content calendar look right before the first real session — especially the calendar, since a wrong frequency or day there is what the whole batch loop keys off of.
+3. Run one full session manually to verify end-to-end, ideally on a week where more than one content type is due, so the Node 5-8 loop (one pass per content type) gets exercised, not just the single-content-type path.
+4. From that point on, the business just opens the tool whenever they want content — no schedule to activate, this is on-demand, not cron. Whether they run one session per content type or one combined session per cadence cycle is up to how they want to work; the config doesn't force either.
 
 ---
 
