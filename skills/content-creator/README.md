@@ -84,4 +84,6 @@ Nice to have but not blocking: a list of trusted sources (publications, associat
 
 ## Onboarding a New Client Later
 
-This build is deliberately generic — no client is configured yet. When a business is ready to use this (on Renner or elsewhere), run the setup interview from `SKILL.md` Step 1 to produce their config, rather than hand-writing one. If a business already has answers gathered elsewhere (an existing discovery questionnaire, prior prompt draft, etc.), those answers can be fed directly into the 9 setup questions instead of re-asking from scratch — the interview format doesn't require starting blank.
+This build is deliberately generic — no client is configured yet. Once the Renner build (per `RENNER-SPEC.md`) is live, a business gets onboarded just by opening the tool for the first time — the setup interview runs automatically, no manual config file needed. If a business already has answers gathered elsewhere (an existing discovery questionnaire, prior prompt draft, etc.), those answers can be fed directly into the 9 setup questions instead of re-asking from scratch — the interview format doesn't require starting blank.
+
+For local testing in Claude Code before the Renner build exists, run the setup interview from `SKILL.md` Step 1 directly.
