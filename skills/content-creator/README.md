@@ -21,17 +21,17 @@ Built as a Claude Code skill (`.claude/skills/content-creator/`) for local desig
 
 ## Workflow, Step by Step
 
-1. **Setup interview** (once per business, only on first use) — 9 questions covering who the business is, why they're posting, where, what kind of content, tone, audience, banned topics, cadence, and trusted sources. Produces a config file plus a proposed set of content pillars, confirmed with the person setting it up before being finalized.
+1. **Setup interview** (once per business, only on first use) — 9 questions covering who the business is, why they're posting, where, what kind of content, tone, audience, banned topics, a **content calendar** (every recurring content type and its own cadence — e.g. "2 social posts/week on Tue+Thu, 1 newsletter/week on Fri"), and trusted sources. Produces a config file plus a proposed set of content pillars, confirmed with the person setting it up before being finalized.
 
-2. **Per-generation interview** (every single time content is requested, no exceptions) — 3 short questions: anything specific to write about, anything from the last week worth referencing, anything upcoming worth previewing. This is what keeps output feeling current instead of generic, even with the same fixed engine underneath.
+2. **Per-session interview** (once per session, every single session, no exceptions) — 3 short questions: anything specific to write about, anything from the last week worth referencing, anything upcoming worth previewing. Asked **once**, even if the session covers several content types at once — the same answers feed all of that session's deliverables.
 
-3. **Research** — the business's own recent post history (if any), an industry/trend scan prioritizing their configured trusted sources, and a check against the post log so nothing gets repeated.
+3. **Research** — also runs once per session and gets reused across all deliverables: the business's own recent post history (if any), an industry/trend scan prioritizing their configured trusted sources.
 
-4. **Generation** — always exactly two post options, each on a different angle or pillar, built from the engine rules + the business's config + this session's input + the research.
+4. **Generation, once per content type due this session** — always exactly two versions per content type, each on a different angle or pillar, built from the engine rules + the business's config + the shared session input + the shared research + that content type's own post-log history (a newsletter never checks against social-post history or vice versa).
 
-5. **Humanizer pass** — mandatory, runs automatically on both options before anyone sees them.
+5. **Humanizer pass** — mandatory, runs automatically on every version of every content type before anyone sees any of it.
 
-6. **Display and log** — both options shown for a pick; the chosen one gets logged so future sessions know what's already been covered.
+6. **Display and log** — every content type's two versions shown together, grouped by type, for a pick; the chosen version per content type gets logged so future sessions know what's already been covered. A session covering 3 content types logs 3 entries, not 1.
 
 ---
 
