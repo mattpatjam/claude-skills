@@ -226,6 +226,8 @@ If any item fails, rewrite before outputting. No exceptions.
 
 Before any post is shown to the business for approval, run it through the `humanizer` skill. This is not optional and never needs to be asked for — it runs automatically on every chosen or drafted post, every time. Matches the standing rule that humanizer runs on all client-facing content in this workspace.
 
+**Portability note:** "run it through the humanizer skill" only means something inside Claude Code, where skills are a native concept. Anywhere else this system runs (Renner or otherwise), the actual rule set at `.claude/skills/humanizer/SKILL.md` — the full pattern list plus its before/after examples — must be pulled in and embedded directly as its own pass (a separate system prompt on a second generation call, not folded into the main one). See `RENNER-SPEC.md` in this folder for exactly how that's structured for Renner specifically.
+
 ---
 
 ## ROTATION / NO-REPEAT LOGGING
