@@ -47,6 +47,8 @@ Before running the setup interview for a new business, have on hand:
 
 Nice to have but not blocking: a list of trusted sources (publications, associations, competitor accounts) — the tool works without it, just falls back to general web search with lower confidence on facts.
 
+**On Renner specifically** (see `RENNER-SPEC.md` for full detail): a Google Sheets service account with real read/append access (not a generic file-storage integration — that can't reliably persist an append-only log), and a browser connection per business per platform. Both are one-time infrastructure setup, not per-business work.
+
 ---
 
 ## What's Fixed vs. What's Configurable
