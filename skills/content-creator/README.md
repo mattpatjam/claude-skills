@@ -72,7 +72,7 @@ Nice to have but not blocking: a list of trusted sources (publications, associat
 - Target audience
 - Content pillars (derived from setup answers, confirmed before finalizing)
 - Banned topics/words
-- Posting cadence
+- Content calendar (every recurring content type and its own cadence)
 - Trusted sources
 
 ---
