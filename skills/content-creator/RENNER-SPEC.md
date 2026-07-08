@@ -233,14 +233,17 @@ Q2 — Recent past (last week): {{SESSION_Q2}}
 Q3 — Upcoming (next few weeks): {{SESSION_Q3}}
 ```
 
-**Block 6 — Task instructions**
+**Block 6 — Task instructions (this content type's slot in the loop)**
 ```
 ## TASK
 
-Generate exactly two post options, each using a different pillar or a meaningfully different angle.
+Content type for this generation: {{CONTENT_TYPE}} (e.g. "LinkedIn post" or "Newsletter")
+Format target for this content type: {{FORMAT_TARGET}} (from engine.md's benchmark table)
 
-After each option, output a metadata line:
-METADATA: date={{TODAY}} | pillar={{PILLAR}} | reader={{TARGET_READER}} | hook={{ONE_LINE_HOOK_SUMMARY}}
+Generate exactly two versions of this content type, each using a different pillar or a meaningfully different angle. This applies identically whether the content type is a social post or a newsletter — two versions, always, no exceptions.
+
+After each version, output a metadata line:
+METADATA: date={{TODAY}} | content_type={{CONTENT_TYPE}} | pillar={{PILLAR}} | reader={{TARGET_READER}} | hook={{ONE_LINE_HOOK_SUMMARY}}
 ```
 
 ---
