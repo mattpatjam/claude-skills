@@ -31,15 +31,11 @@ Post log for this business lives at `clients/[business-name]-post-log.md`.
 
 [Which platform(s). If more than one, note whether this business wants Depth-then-Width sequencing (default, per `engine.md`) or explicit parallel rollout.]
 
-**Length/format defaults applied (from `engine.md`'s benchmark table, based on platform + content goal below):**
-- [Platform 1]: [length target, hook cutoff, hashtag count]
-- [Platform 2, if any]: [length target, hook cutoff, hashtag count]
-
 ---
 
-## 4. Content Goal Per Post
+## 4. Content Goal
 
-[Teach / inform / promote an event / mixed rotation. Note how this interacts with length — e.g. a promotional post on the same platform as an informational one may target a different length per the benchmark table in `engine.md`.]
+[Overall goal across all content types — teach / inform / promote events / mixed. The Content Calendar below (section 9) can override this per content type — e.g. social posts stay mixed while the newsletter is always informational.]
 
 ---
 
