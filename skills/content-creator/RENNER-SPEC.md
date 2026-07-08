@@ -265,11 +265,32 @@ Store these in Renner's per-client config store, one set per business. Fields ma
 | `CLIENT_AUDIENCE` | text | Setup Q6 |
 | `CLIENT_PILLARS` | array | Derived at setup Node 3, confirmed by business |
 | `CLIENT_BANNED_TOPICS` | array | Setup Q7 |
-| `CLIENT_CADENCE` | string | Setup Q8 |
+| `CLIENT_CONTENT_CALENDAR` | array of objects | Setup Q8 — see schema below |
 | `CLIENT_TRUSTED_SOURCES` | array | Setup Q9 |
 | `CLIENT_GOOGLE_ACCOUNT` | string | Asked explicitly at setup — no default assumed |
 | `CLIENT_POST_LOG_SHEET_ID` | string | Created at setup Node 4 |
 | `CLIENT_PLATFORM_BROWSER_SESSION` | credential (one per platform in `CLIENT_PLATFORMS`) | Connected at setup Node 4 |
+
+**`CLIENT_CONTENT_CALENDAR` schema** — one object per recurring content type, e.g. for a business running 2 social posts + 1 newsletter a week:
+```json
+[
+  {
+    "content_type": "Social post",
+    "platform": "LinkedIn",
+    "frequency": "2x/week",
+    "days": ["Tuesday", "Thursday"],
+    "content_goal_override": null
+  },
+  {
+    "content_type": "Newsletter",
+    "platform": "Email",
+    "frequency": "1x/week",
+    "days": ["Friday"],
+    "content_goal_override": "Informational"
+  }
+]
+```
+Every entry always produces exactly 2 versions per occurrence — this is a fixed rule from `engine.md`, not a per-entry setting, so it's not a field in this schema.
 
 ---
 
