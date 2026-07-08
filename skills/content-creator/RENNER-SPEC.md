@@ -188,9 +188,9 @@ A session can cover one content type or several, depending on how the business's
 
 ---
 
-## Prompt Assembly (Generation Call)
+## Prompt Assembly (Generation Call — Run Once Per Content Type in the Loop)
 
-Built from 6 blocks, concatenated in order:
+Built from 6 blocks, concatenated in order. Blocks 1, 2, 4, and 5 are identical across every content type in this session's loop. Blocks 3 and 6 change per content type — block 3 pulls that specific content type's own post-log history, and block 6 states which content type is being generated and its format target.
 
 **Block 1 — Engine rules (fixed, identical for every business)**
 ```
