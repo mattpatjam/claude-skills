@@ -79,6 +79,6 @@ Nice to have but not blocking: a list of trusted sources (publications, associat
 - **`linkedin-weekly-posts`** — Matthieu's own personal Bali real estate LinkedIn skill. Proven, already working, untouched by this build. Not merged into this engine — kept separate.
 - **`humanizer`** — invoked automatically by this skill's Step 5, every time, no exceptions.
 
-## Onboarding a New Client Later (e.g. STCC)
+## Onboarding a New Client Later
 
 This build is deliberately generic — no client is configured yet. When a business is ready to use this (on Renner or elsewhere), run the setup interview from `SKILL.md` Step 1 to produce their config, rather than hand-writing one. If a business already has answers gathered elsewhere (an existing discovery questionnaire, prior prompt draft, etc.), those answers can be fed directly into the 9 setup questions instead of re-asking from scratch — the interview format doesn't require starting blank.
