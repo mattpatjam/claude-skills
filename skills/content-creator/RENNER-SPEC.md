@@ -157,7 +157,7 @@ A session can cover one content type or several, depending on how the business's
   - Seeded from CLIENT_TRUSTED_SOURCES + industry, once for the session
        |
        v
-  ===== LOOP: repeat NODES 5-9 once per content type due this session =====
+  ===== LOOP: repeat NODES 5-8 once per content type due this session =====
        |
        v
 [NODE 5] Read post log — Google Sheets API
@@ -175,14 +175,15 @@ A session can cover one content type or several, depending on how the business's
 [NODE 8] Claude API — humanizer pass on each version (2 separate calls)
        |
        v
-[NODE 9] Append to post log — Google Sheets API
-  - date / content_type / pillar / target_reader / hook_summary, extracted from the chosen version's metadata
+  ===== END LOOP — all content types now have 2 humanized versions each =====
        |
        v
-  ===== END LOOP =====
+[NODE 9] Display every content type's two versions together in chat, grouped by type — business picks one version per content type
        |
        v
-[NODE 10] Display all content types' humanized versions together in chat — business picks one version per content type
+[NODE 10] Append to post log — Google Sheets API, once per content type
+  - date / content_type / pillar / target_reader / hook_summary, extracted from each chosen version's metadata
+  - A session with 2 social posts + 1 newsletter appends 3 rows here, not 1
 ```
 
 ---
