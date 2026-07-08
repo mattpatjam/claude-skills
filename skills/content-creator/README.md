@@ -60,7 +60,7 @@ Nice to have but not blocking: a list of trusted sources (publications, associat
 - The platform benchmark table (length/format targets)
 - The verify-every-fact rule
 - CTA/close rules, the Give:Ask ratio, PS-statement tactic
-- The two-options-per-generation rule
+- The two-versions-per-content-type rule (applies identically to social posts and newsletters)
 - The quality checklist
 - The mandatory humanizer pass
 - The no-repeat/rotation logging mechanism
