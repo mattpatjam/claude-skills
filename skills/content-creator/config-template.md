@@ -64,7 +64,7 @@ Based on the answers above, propose 3–5 content pillars. Each pillar needs a n
 2. **[Pillar name]** — [angle] — e.g. "[example post angle]"
 3. **[Pillar name]** — [angle] — e.g. "[example post angle]"
 
-Rotation rule: never repeat the same pillar on consecutive posts. The two options generated per request must use different pillars.
+Rotation rule: never repeat the same pillar on consecutive occurrences of the same content type. The two versions generated for any single occurrence (a post, a newsletter issue, anything else in the content calendar below) must use different pillars or a meaningfully different angle.
 
 ---
 
