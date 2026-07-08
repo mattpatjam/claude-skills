@@ -243,8 +243,10 @@ Before any post is shown to the business for approval, run it through the `human
 
 ## ROTATION / NO-REPEAT LOGGING
 
-Before generating, read the business's post log (last 12 entries) from `clients/[business-name]-post-log.md`. Each entry: date / pillar / target reader / one-line hook summary.
+Before generating, read the business's post log (last 12 entries **for the content type currently being generated**) from `clients/[business-name]-post-log.md`. Each entry: date / content type / pillar / target reader / one-line hook summary.
 
-Inject the last 12 entries as a "do not repeat these angles" block before generation. If a planned angle, hook, or target reader closely resembles a recent entry, find a meaningfully different one before proceeding.
+Filter to the content type being generated before building the "do not repeat" block — a newsletter's rotation check only looks at past newsletter entries, a LinkedIn post's rotation check only looks at past LinkedIn entries. Different content types don't share a rotation history even if they're for the same business and the same week.
 
-After the business picks which option(s) to use, append a new entry to the post log immediately — this is what keeps future sessions from repeating recent ground.
+Inject the filtered last 12 entries as a "do not repeat these angles" block before generation. If a planned angle, hook, or target reader closely resembles a recent entry, find a meaningfully different one before proceeding.
+
+After the business picks which version(s) to use, append a new entry per chosen piece to the post log immediately — a session covering 2 LinkedIn posts + 1 newsletter appends 3 entries, not 1.
