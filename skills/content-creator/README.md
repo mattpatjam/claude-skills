@@ -10,11 +10,12 @@ Built as a Claude Code skill (`.claude/skills/content-creator/`), following the 
 
 | File | Purpose |
 |---|---|
-| `SKILL.md` | Orchestration — the step-by-step workflow, what to ask and when |
+| `SKILL.md` | Orchestration — the step-by-step workflow, what to ask and when. Written so this can be run and tested locally in Claude Code before handing off. |
 | `engine.md` | Fixed writing rules, identical for every business. Never edited per client. |
 | `config-template.md` | Blank template for a new business's setup answers |
-| `clients/[business-name]-config.md` | One filled-in config per onboarded business |
-| `clients/[business-name]-post-log.md` | One rotation/no-repeat log per onboarded business |
+| `RENNER-SPEC.md` | **The actual engineering handoff document.** Translates `SKILL.md` + `engine.md` into APIs, node flow, config schema, and error handling for whoever builds this on Renner (or any platform other than Claude Code). Give this file to the Renner engineer, not the others. |
+| `clients/[business-name]-config.md` | One filled-in config per onboarded business (local/Claude Code use only — Renner stores config in its own per-client variable store instead, per `RENNER-SPEC.md`) |
+| `clients/[business-name]-post-log.md` | One rotation/no-repeat log per onboarded business (local/Claude Code use only — Renner uses a real Google Sheet per business instead, per `RENNER-SPEC.md`) |
 
 ---
 
