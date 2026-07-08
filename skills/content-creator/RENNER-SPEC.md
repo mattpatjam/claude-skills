@@ -85,13 +85,13 @@ The full writing rules (hooks, story structure, platform length targets, quality
 
 - **Auth:** OAuth 2.0 service account. One shared service account; each business gets its own sheet.
 - **Important:** use the real Sheets API (`spreadsheets.values.get` / `spreadsheets.values.append`), not a generic file-storage layer. A plain "recreate the file each time" approach breaks the persistent link and can't reliably append — this must be true read/append against a single, stable sheet.
-- **Purpose:** the post log — prevents topic/pillar repetition across generations.
+- **Purpose:** the post log — prevents topic/pillar repetition, filtered per content type (a newsletter's rotation check never looks at social post history, and vice versa).
 - **Operations:**
-  - `GET` last 12 rows before every generation
-  - `APPEND` one new row after the business picks an option
+  - `GET` last 12 rows **matching the content type currently being generated** before every generation (filter client-side on the `content_type` column, or maintain separate tabs per content type if that's cleaner in Sheets — either works, the read just needs to stay scoped to one content type)
+  - `APPEND` one new row per chosen piece after the business picks — a session covering 2 social posts + 1 newsletter appends 3 rows, not 1
 - **Row schema:**
 ```
-date | pillar | target_reader | hook_summary
+date | content_type | pillar | target_reader | hook_summary
 ```
 - **Which Google account:** asked explicitly during setup (setup item 10, see config schema below) — no default account assumed, since this tool isn't tied to one business or one Drive account.
 
