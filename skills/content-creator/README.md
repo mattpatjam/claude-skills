@@ -13,8 +13,8 @@ Built as a Claude Code skill (`.claude/skills/content-creator/`), following the 
 | `SKILL.md` | Orchestration — the step-by-step workflow, what to ask and when |
 | `engine.md` | Fixed writing rules, identical for every business. Never edited per client. |
 | `config-template.md` | Blank template for a new business's setup answers |
-| `clients/[business]-config.md` | One filled-in config per onboarded business |
-| `clients/[business]-post-log.md` | One rotation/no-repeat log per onboarded business |
+| `clients/[business-name]-config.md` | One filled-in config per onboarded business |
+| `clients/[business-name]-post-log.md` | One rotation/no-repeat log per onboarded business |
 
 ---
 
@@ -62,7 +62,7 @@ Nice to have but not blocking: a list of trusted sources (publications, associat
 - The mandatory humanizer pass
 - The no-repeat/rotation logging mechanism
 
-**Configurable per business (lives in `clients/[business]-config.md`):**
+**Configurable per business (lives in `clients/[business-name]-config.md`):**
 - Identity, credentials, what to draw from
 - Purpose, platform(s), content goal
 - Tone and voice specifics
