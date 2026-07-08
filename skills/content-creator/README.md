@@ -2,7 +2,7 @@
 
 A generic, interactive content-creation tool. Works for any business or client — not built around one specific account. First use for a new business runs a one-time setup interview; every use after that (including the first) runs a short per-generation interview, then researches, writes, humanizes, and logs two post options.
 
-Built as a Claude Code skill (`.claude/skills/content-creator/`), following the same pattern already proven by `linkedin-weekly-posts/`. Portable to Renner or any other AI content platform once proven here — the fixed rules in `engine.md` are the spec.
+Built as a Claude Code skill (`.claude/skills/content-creator/`) for local design and testing, following the same pattern already proven by `linkedin-weekly-posts/`. **The real deployment target is Renner** — see `RENNER-SPEC.md` for the actual engineering handoff. The Claude Code version here is the reference implementation the Renner build gets translated from, not itself the production system.
 
 ---
 
