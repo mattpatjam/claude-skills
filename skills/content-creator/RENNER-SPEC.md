@@ -6,9 +6,11 @@
 
 ## Overview
 
-An interactive, chat-driven content workflow, not a scheduled batch job. A business sets up once (identity, purpose, platforms, tone, audience, pillars, banned topics, cadence, trusted sources), then every time they open the tool to write content, it asks 3 quick questions, researches, drafts two post options, humanizes them, and logs whichever one gets picked. This mirrors the same "interactive content creator" pattern already used for Workflow 3's chatbot-style UX — user-initiated, not cron-triggered.
+An interactive, chat-driven content workflow, not a scheduled batch job. A business sets up once (identity, purpose, platforms, tone, audience, pillars, banned topics, a content calendar, trusted sources), then every time they open the tool for a session, it asks 3 quick questions once, researches once, and drafts **two versions of every content type due that session** — humanizes all of them, and logs whichever version gets picked per piece. This mirrors the same "interactive content creator" pattern already used for Workflow 3's chatbot-style UX — user-initiated, not cron-triggered.
 
-The full writing rules (hooks, story structure, platform length targets, quality checklist) are fixed and identical for every business — see `engine.md` in this same folder for the complete rule set. This spec only covers the parts that are Renner's job: API integrations, node flow, config storage, and error handling.
+**A business can run more than one content type on more than one cadence.** A typical example: 2 social posts a week plus 1 newsletter a week. That's not three separate setups or three separate sessions — it's one config with a content calendar listing both, and (depending on how the business wants to work) either one weekly session that produces all 3 deliverables together, or separate sessions per content type if they'd rather do it that way. Either way, the 9-question setup interview never repeats, and every deliverable — social post or newsletter alike — always gets exactly two versions, never one.
+
+The full writing rules (hooks, story structure, platform length targets, quality checklist, the two-versions rule) are fixed and identical for every business — see `engine.md` in this same folder for the complete rule set. This spec only covers the parts that are Renner's job: API integrations, node flow, config storage, and error handling.
 
 ---
 
