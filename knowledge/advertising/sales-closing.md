@@ -1,6 +1,6 @@
 # Sales & Closing Techniques
 
-*Sources: Sabri Suby, Alex Hormozi*
+*Sources: Sabri Suby, Alex Hormozi, cold outreach sales training reel (FRAME framework)*
 
 ---
 
@@ -11,6 +11,22 @@ Sales is not about convincing or pushing. It is about pulling. The prospect shou
 The higher the ticket price, the more you pull. The lower the ticket, the more push is required. High-value sales calls are about earning trust, uncovering the real problem, and making inaction feel more dangerous than the investment.
 
 **Warning:** These tactics are powerful and can be misused. Only apply them when you genuinely believe the product or service will transform the prospect's life. Never use them to sell something that doesn't deliver.
+
+---
+
+## FRAME — Call Opening & Discovery Structure
+
+*Source: cold outreach sales training reel.*
+
+A 5-step structure for how to open and run a call, before any of the closing tactics below come into play. Where the rest of this file covers what to do once you're deep in the conversation, FRAME covers how to start it and get to the real problem fast.
+
+- **F — Frame.** Set the expectations for the call up front: what it's for, how long it'll take, what happens at the end. Removes ambiguity that otherwise creates defensiveness.
+- **R — Read.** Assume, don't ask. Come in having done your homework on their situation and state it back to them, rather than opening with generic discovery questions. Reading the situation confidently builds authority faster than interrogating for it.
+- **A — Admit.** Lay out the problem as you see it, and get them to say it out loud themselves. This is the same mechanism as Hormozi's "admission" below (see Pull, Don't Push and the Power Framework) — once they state the problem in their own words, they own it.
+- **M — Match.** Match your solution directly to the problem they just admitted to. Not a generic pitch, the specific fix for the specific thing they said.
+- **E — Engage.** Ask if they'd do it, if it adds up for them. A soft, logical close, not a hard ask, just testing whether the match they just heard makes sense to them.
+
+**Where this fits with the rest of this file:** FRAME is the opening shell, Admit maps onto the "admission" concept in Hormozi's framework and Pull Don't Push in Sabri Suby's, and Engage is a lightweight version of the Directional Decision Frame. Use FRAME to structure the call, then drop into the specific tactics below once objections surface.
 
 ---
 
