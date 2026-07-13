@@ -7,16 +7,10 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
-## 2026-07-17 (Thursday)
+## 2026-07-16 (Wednesday) — moved up from originally planned Thursday slot
 Pillar: The Perspective
 Theme: Bali Market
 Hook: "This tax free zone was never built for you. That might still be the best news Bali real estate has had all year."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
-
-## 2026-07-16 (Wednesday)
-Pillar: The Perspective
-Theme: Bali Market
-Hook: "No skyscrapers. No trading floor. Indonesia still wants to turn a Bali island into a Dubai style financial hub."
 Impressions: — | Reactions: — | Comments: — | Reposts: —
 
 ## 2026-07-15 (Tuesday)
