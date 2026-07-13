@@ -3,7 +3,7 @@
   "pillars_used": {
     "The Educator": 3,
     "The Perspective": 6,
-    "The Human": 5,
+    "The Human": 6,
     "The Proof": 1
   },
   "themes_used": {
@@ -12,7 +12,8 @@
     "Legal Framework": 0,
     "Construction Due Diligence": 1,
     "Lombok Market": 1,
-    "Industry Behavior": 2
+    "Industry Behavior": 2,
+    "Island Diversity": 1
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": 1696, "avg_reactions": 24, "post_count": 3 },
