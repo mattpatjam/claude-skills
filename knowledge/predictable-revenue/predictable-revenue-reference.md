@@ -321,3 +321,42 @@ Customize the labels to your own language, but keep the stages distinct and cons
 - Sit with a veteran SDR daily.
 - Draft a personal dashboard.
 - Cover a new section of training material with the team each day.
+
+---
+
+## 22. Structuring the SDR's day
+
+Design the day on purpose, don't let it default to whatever's loudest.
+
+- **Morning:** respond to new and past leads.
+- **Afternoon:** calls, and prep for what's next.
+- Before either: prioritize the day's key goals first, three goals, set deliberately, not reactive.
+- Take a break every 90 minutes with coworkers. Sustains energy and focus over the full day, not just the first two hours.
+
+---
+
+## 23. Six prospecting mistakes reps make
+
+1. Expecting instant results. A new qualified opportunity can take 2-4+ weeks to develop.
+2. Writing long emails.
+3. Going wide instead of deep (spreading thin across too many accounts instead of working good-fit ones properly).
+4. Giving up too quickly on ideal targets.
+5. Not giving up quickly enough on non-ideal targets.
+6. Depending on activity metrics instead of a proven process.
+
+---
+
+## 24. Best questions and quick prospecting tricks
+
+**Opening/discovery questions:**
+- "Did I catch you at a bad time? May I ask how your sales team, marketing organization, and research efforts are set up?"
+- "If you were me, how would you approach your organization?"
+- "Do you have your calendar handy?"
+
+**Tricks:**
+- **Call low, email high.** Call a lower-level contact to learn about the org, or email a high-level contact to get referred down to the right person. Don't go straight at the target.
+- **Attitude:** position yourself as a non-threatening researcher, not a pushy salesperson.
+- **Bite-sized emails:** short and sweet, one question per email, never more.
+- **If they're not interested, find out why.** The reason is more valuable than the no.
+- **Don't give up easily.** Persist until you get a clear, explicit no.
+- **Always leave with a next step set.**
