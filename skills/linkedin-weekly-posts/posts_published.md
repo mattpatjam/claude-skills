@@ -7,6 +7,24 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-07-09 (Thursday, approx.) — from analytics check
+Pillar: The Human
+Theme: Industry Behavior
+Hook: "Being stood up by a client is disrespectful. I'm not going to pretend otherwise."
+Impressions: 964 | Reactions: — | Comments: — | Reposts: — | Engagements: 27
+
+## 2026-07-08 (Wednesday, approx.) — from analytics check
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "Funding project one with the sales from project two?"
+Impressions: 861 | Reactions: — | Comments: — | Reposts: — | Engagements: 12
+
+## 2026-07-07 (Tuesday, approx.) — from analytics check
+Pillar: The Human
+Theme: Construction Due Diligence
+Hook: "Is this normal construction quality?"
+Impressions: 1000 | Reactions: — | Comments: — | Reposts: — | Engagements: 17
+
 ## 2026-07-02 (Thursday)
 Pillar: The Educator
 Theme: Sales Techniques
