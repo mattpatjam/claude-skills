@@ -7,6 +7,15 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## Held for future use (not yet published)
+Drafted 2026-07-13, bumped from the week of 2026-07-13 to make room for the tax free zone post. Ready to slot into a future week's Bali Market theme.
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "No skyscrapers. No trading floor. Indonesia still wants to turn a Bali island into a Dubai style financial hub."
+Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter building height, designated pilot site for Indonesia's first International Financial Center, argument that legal independence (Dubai DIFC model) matters more than skyline.
+
+---
+
 ## 2026-07-16 (Wednesday) — moved up from originally planned Thursday slot
 Pillar: The Perspective
 Theme: Bali Market
