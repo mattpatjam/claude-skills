@@ -360,3 +360,110 @@ Design the day on purpose, don't let it default to whatever's loudest.
 - **If they're not interested, find out why.** The reason is more valuable than the no.
 - **Don't give up easily.** Persist until you get a clear, explicit no.
 - **Always leave with a next step set.**
+
+---
+
+## 25. Selling to success
+
+The core sales philosophy: hire and train salespeople who are genuinely committed to the company's vision and values, then help prospects connect to that vision, whether or not they end up a customer.
+
+- Applies even to prospects who aren't a good long-term fit, tell them straight and point them elsewhere if needed.
+- The rep's job is to connect the prospect's goals to what the company can actually deliver, not to manufacture urgency.
+
+---
+
+## 26. Why closing feels artificial
+
+Closing gets a bad reputation because of how it's typically managed, not because closing itself is wrong.
+
+- Reps get paid to close, so they get pressured, and fear is the default management lever.
+- Pressure tactics generate short-term results at the cost of long-term ones. The math rarely works in the seller's favor once you account for churn, referrals lost, and reputation.
+- Ask directly: is today's pressure-driven win worth what it costs you down the line?
+
+---
+
+## 27. What customers actually care about
+
+Customers care about one of two things: improving their business, or improving themselves. Every pitch, objection-handle, and close should map back to one of these two.
+
+---
+
+## 28. The customer success plan
+
+Sell past the close. Success isn't "service launched," it's "service produced the outcome the customer wanted."
+
+- A success plan pulls the prospect through the buying cycle instead of the rep pushing them through the sales cycle.
+- It ties the customer's own goals to the company's ability to deliver them, so the close becomes a logical next step, not a separate battle.
+- **The trick: don't care too much about the close itself.** Over-caring leaks through as "I care about getting paid," not "I care about your outcome," and prospects feel that. Build the joint vision first, let the close fall out of it naturally.
+
+**Building it in practice:**
+1. Include a simple success plan step before the close: a definition of what success means to the client, a few key milestones, and named responsibilities on both sides. A half-dozen bullet points in an email, mutually agreed, is enough. The clearer the client's own picture of success, the more they pull the deal forward themselves.
+2. Have an explicit answer, before you ever pitch, for "what is our plan for this client's ongoing success after the sale." Happy customers are what keep the business fed.
+
+---
+
+## 29. Nine ways to shorten the sales cycle
+
+1. Wrong prospects, poor messaging. Sharpen the ICP before blaming the pitch.
+2. No sales process. Or a good process that nobody actually follows.
+3. Selling selfishly (pushing your product) instead of solving the prospect's actual problem.
+4. Selling too low in the org.
+5. Not identifying who holds real influence and approval power, early.
+6. Poor understanding of the prospect's internal buying process.
+7. Not genuinely caring about the prospect's outcome.
+8. Telling instead of showing. Give something valuable away for free to demonstrate rather than describe.
+9. Dragging your feet on disqualifying bad fits. Comes back to having (and using) a real ICP.
+
+---
+
+## 30. Mapping the buyer's decision-making process
+
+The decision-making process matters more than the decision-maker. Map it before you push for a meeting with whoever's at the top.
+
+**Questions to ask:**
+- How have you evaluated similar products or services before?
+- What is the decision-making process here?
+- How are you personally involved in it?
+
+**Sequencing the relationship:**
+- Don't avoid the decision-maker, but don't need to reach them on day one either.
+- Build credibility with influencers first. Win them over before you try to sell the actual decision-maker.
+- Goal in early stages: map the internal buying process, get access to decision-makers, and start building a shared vision, in that order.
+
+---
+
+## 31. The three-step qualification sequence
+
+Three steps, ~3 hours 15 minutes of total invested time, to reach mutual clarity on fit and timing:
+
+1. **First contact (~15 min): is this a waste of time?** Set expectations immediately. Lay out your process for the prospect in a way that's framed as a benefit to them, not an interrogation.
+2. **Qualification / discovery: is there a fit?** If yes, build a plan with the prospect to bring in the right people and decision-makers on both sides.
+3. **Should we work together? Build a joint vision together**, the two sides now co-authoring the plan rather than one pitching the other.
+
+---
+
+## 32. Uncovering the real problem
+
+Killer salespeople dig past the requested solution to find the actual problem. Prospects usually arrive already attached to a solution, and often haven't traced their own problem to its root.
+
+- Always ask why. The stated ask is rarely the real issue.
+- Treat the prospect's proposed "solution" as a data point, not the brief.
+
+---
+
+## 33. Earning the right to send a proposal
+
+Don't hand out proposals or pricing on request. There's a real cost to giving one out too early:
+
+- The prospect won't value it, or your time, if it came too easily.
+- You lose the leverage of a next step they'd have to earn it through.
+
+**Instead:** when a prospect casually asks for pricing or a proposal, tell them you'd be glad to, and that doing it right means a scoping call with them and the other key people first, so the proposal is accurate and actually fits. Confirm they want what you have before you produce anything.
+
+---
+
+## 34. Best call-opening question
+
+Start every call with: **"Did I catch you at a bad time?"**
+
+Gives the other person explicit permission to either engage or push back on timing, either way the call starts on honest footing.
