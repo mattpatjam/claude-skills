@@ -7,6 +7,24 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-07-17 (Thursday)
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "This tax free zone was never built for you. That might still be the best news Bali real estate has had all year."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-16 (Wednesday)
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "No skyscrapers. No trading floor. Indonesia still wants to turn a Bali island into a Dubai style financial hub."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-15 (Tuesday)
+Pillar: The Human
+Theme: Sales Techniques
+Hook: "A buyer is granting me power of attorney today to sign for a villa he's never set foot in. Almost $1 million, on trust alone."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
 ## 2026-07-09 (Thursday, approx.) — from analytics check
 Pillar: The Human
 Theme: Industry Behavior
