@@ -16,6 +16,12 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-07-17 (Thursday) — replacement post, personal/photo-led, off standard theme rotation
+Pillar: The Human
+Theme: Island Diversity (off-rotation, personal)
+Hook: "Ask ten tourists where they've been in Bali and you'll get the same three answers back. Canggu, Uluwatu, Ubud."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
 ## 2026-07-16 (Wednesday) — moved up from originally planned Thursday slot
 Pillar: The Perspective
 Theme: Bali Market
