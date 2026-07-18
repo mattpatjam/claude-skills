@@ -149,5 +149,3 @@ How to actually install these behaviors, distilled from the book's overall metho
 - Sequence freely: pick the practice that best fits your team's current business problem. Starting matters more than the starting point.
 - Even leaders who can't remove policies can adopt the communication, honesty, and debate practices inside their own team.
 - Recurring self-checks per area: Do people know the top five priorities? Can they explain the business model unprompted? Is anyone underperforming without having been told directly? Would you fight to keep each person? Is anyone paid below their current market value? What policy or approval could you eliminate next?
-
----
