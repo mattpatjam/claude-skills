@@ -94,12 +94,10 @@ Companies also shouldn't over-define the role with long lists of behavioral comp
 
 Conventional wisdom gets each of the four subtly but significantly wrong ("digging in the wrong place"):
 
-| Activity | Conventional wisdom | Great managers |
-|---|---|---|
-| Select a person | ...for experience, intelligence, determination | **Select for talent** |
-| Set expectations | ...by defining the right steps | **Define the right outcomes** |
-| Motivate the person | ...by fixing weaknesses | **Focus on strengths** |
-| Develop the person | ...toward the next rung on the ladder | **Find the right fit** |
+- Select a person: conventional wisdom says for experience, intelligence, determination → great managers **select for talent**.
+- Set expectations: conventional wisdom says by defining the right steps → great managers **define the right outcomes**.
+- Motivate the person: conventional wisdom says by helping him fix his weaknesses → great managers **focus on strengths**.
+- Develop the person: conventional wisdom says by helping him learn and get promoted → great managers **help him find the right fit**.
 
 These are the Four Keys. They are ways of thinking, not steps — meant to be incorporated into your own style.
 
