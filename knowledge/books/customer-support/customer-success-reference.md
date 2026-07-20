@@ -88,13 +88,11 @@ The book draws sharp boundaries against several adjacent, easily-confused discip
 
 **Customer Success is NOT Customer Support — the defining five-way contrast:**
 
-| Dimension | Customer Success | Customer Support |
-|---|---|---|
-| Financial | Revenue-driver | Cost center |
-| Action | Proactive | Reactive |
-| Metrics | Success-oriented | Efficiency-oriented |
-| Model | Analytics-focused | People-intensive |
-| Goal | Predictive | Responsive |
+- **Financial:** Customer Success is a revenue-driver; Customer Support is a cost center.
+- **Action:** Customer Success is proactive; Customer Support is reactive.
+- **Metrics:** Customer Success is success-oriented; Customer Support is efficiency-oriented.
+- **Model:** Customer Success is analytics-focused; Customer Support is people-intensive.
+- **Goal:** Customer Success is predictive; Customer Support is responsive.
 
 The two are described as "paradoxical in many of the most important ways," not variations on a theme. Support's core identity is "break/fix" — the phone number, chat window, or email you use when something appears broken; it is judged by efficiency metrics like tickets closed per rep per day. A common organizational mistake is standing up customer success *inside* the support org — this typically degrades into a "premium support" tier (better SLAs, extended hours, a named point of contact) rather than a genuinely proactive, analytics-driven, retention-owning function. Both are 100 percent necessary; the prescription is organizational separation (at least initially), with close collaboration once each discipline is properly formed.
 
