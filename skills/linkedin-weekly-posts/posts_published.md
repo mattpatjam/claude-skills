@@ -20,19 +20,19 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 Pillar: The Human
 Theme: Island Diversity (off-rotation, personal)
 Hook: "Ask ten tourists where they've been in Bali and you'll get the same three answers back. Canggu, Uluwatu, Ubud."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 871 | Reactions: — | Comments: — | Reposts: — | Engagements: 9
 
 ## 2026-07-16 (Wednesday) — moved up from originally planned Thursday slot
 Pillar: The Perspective
 Theme: Bali Market
 Hook: "This tax free zone was never built for you. That might still be the best news Bali real estate has had all year."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 3000 | Reactions: — | Comments: — | Reposts: — | Engagements: 13
 
 ## 2026-07-15 (Tuesday)
 Pillar: The Human
 Theme: Sales Techniques
 Hook: "A buyer is granting me power of attorney today to sign for a villa he's never set foot in. Almost $1 million, on trust alone."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 1000 | Reactions: — | Comments: — | Reposts: — | Engagements: 15
 
 ## 2026-07-09 (Thursday, approx.) — from analytics check
 Pillar: The Human
