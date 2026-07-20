@@ -27,7 +27,7 @@ The recommended sequencing for a new business: start Warm Outreach on day one (z
 
 ---
 
-## 2. The Value Equation, Applied to Lead Gen
+## 3. The Value Equation, Applied to Lead Gen
 
 Every offer — including a free lead magnet — is judged by prospects on the same four levers, two to maximize and two to minimize:
 
@@ -42,7 +42,7 @@ When a prospect says no, the real blocker is usually a **hidden cost** — an un
 
 ---
 
-## 3. Warm Outreach — The Ten-Step Process
+## 4. Warm Outreach — The Ten-Step Process
 
 Warm Outreach is contacting people who already know you and asking not "do you want to buy" but whether they know someone who might want the result you offer. The ten-step process:
 
@@ -70,7 +70,7 @@ People enjoy talking about themselves and being complimented; ACA builds trust q
 
 ---
 
-## 4. Content — The Content Unit
+## 5. Content — The Content Unit
 
 Free content works because the audience it builds, not any single piece of content, is the actual compounding asset. Content itself disappears; the audience that discovered you through it keeps growing and keeps being reachable for free, forever, unlike each individual paid or one-to-one outreach attempt.
 
@@ -90,13 +90,13 @@ Two sequencing strategies for scaling across platforms: **Depth then Width** (ma
 
 ---
 
-## 5. Cold Outreach
+## 6. Cold Outreach
 
 Cold Outreach is contacting strangers who match your target avatar, one at a time, without the benefit of an existing relationship. It is inherently a volume game with a lower per-contact response rate than warm outreach, so message volume and disciplined, repeated follow-up (most replies arrive on the third through fifth message, not the first) are the primary levers. The call to action should read as a genuine, low-pressure question rather than a pitch — asking whether something would be useful to the recipient, not asking them to buy.
 
 ---
 
-## 6. Paid Ads
+## 7. Paid Ads
 
 Paid Ads should only be introduced once an offer has already been proven to convert through warm and/or cold outreach — ads amplify an existing message rather than fix a weak one. The recommended sequence within paid advertising itself is to start with retargeting a warm audience before spending on cold traffic, and to spend more testing effort on the creative/hook than on the landing page, since the hook determines how many people ever reach the page at all.
 
@@ -109,7 +109,7 @@ Paid Ads should only be introduced once an offer has already been proven to conv
 
 ---
 
-## 7. Lead Magnets — The Seven-Step Creation Framework
+## 8. Lead Magnets — The Seven-Step Creation Framework
 
 A lead magnet is a complete solution to one narrow problem, offered free or nearly free, whose resolution reveals a further problem that your core paid offer solves — the **Problem-Solution Cycle**. People give time before they give money, so getting someone to spend time on your lead magnet is a genuine, if smaller, commitment that predicts later willingness to pay.
 
@@ -129,60 +129,60 @@ A lead magnet is a complete solution to one narrow problem, offered free or near
 
 ---
 
-## 8. The Engagement-to-Offer Sequence
+## 9. The Engagement-to-Offer Sequence
 
 Once a prospect has engaged with a lead magnet or piece of content, the sequence that carries them toward a purchase: deliver the promised value immediately; follow with one or two further pieces of pure value with no ask attached; introduce the specific problem your paid offer solves, better than any alternative; then make the offer. The book's guidance is that most sequences move to the ask too quickly — nurturing over a longer stretch of days or weeks, not hours, produces better conversion than rushing the ask.
 
 ---
 
-## 9. Content-to-Sales Handoff
+## 10. Content-to-Sales Handoff
 
 High-performing content becomes a reusable sales asset: pieces that get strong engagement are catalogued by the specific objection or problem they address, then sent by salespeople before or after calls to pre-empt objections the prospect hasn't even raised yet. Content also functions as a retention tool after the sale — a paying customer who continues consuming free content develops stronger affinity and stays longer, independent of the paid product's own performance.
 
 ---
 
-## 10. Get Lead Getters — The Internal Core Four (Employees)
+## 11. Get Lead Getters — The Internal Core Four (Employees)
 
 Beyond the four external channels for reaching customers directly, the book extends the same Core Four logic inward: employees, agencies, affiliates, and referrers can each become a source of leads, using the same warm/cold, outreach/content structure applied internally rather than externally. Employees generate leads when they are systematically asked to (e.g., referring candidates, customers, or partners from their own networks), trained on how to do it, and compensated for the leads they produce — treated as a distinct, measurable channel rather than an informal hope.
 
 ---
 
-## 11. Referrals — The One Question
+## 12. Referrals — The One Question
 
 The book frames referral generation around a single governing habit: **always ask.** The recommended timing is to ask immediately after a customer experiences a win or a positive result, when satisfaction is highest — "you just got [result], who else do you know who wants that?" — rather than waiting for a natural mention. Making the ask easy (providing exact language the referrer can forward) and, where appropriate, incentivizing it (commission, credit, or a gift) both raise response rates. Referral leads are framed as effectively free customer acquisition layered on top of whatever paid or organic channels are already running, which mechanically improves overall acquisition-cost ratios without any additional spend.
 
 ---
 
-## 12. Agencies — Buy, Build, or Both
+## 13. Agencies — Buy, Build, or Both
 
 On outsourcing lead generation to an agency, the book frames the decision as a build-versus-buy trade-off rather than a universal recommendation either way: agencies can compress the time to a working channel but require careful vetting, since agencies are themselves marketing their own capability and their claims should be evaluated with the same Value Equation lens (dream outcome, likelihood, time delay, effort) applied to any other offer being purchased.
 
 ---
 
-## 13. Affiliates — The Six-Step Army-Building Process
+## 14. Affiliates — The Six-Step Army-Building Process
 
 Building an affiliate channel (partners who generate leads or sales in exchange for compensation) follows six steps: **find** the right affiliate profile (people already in front of your exact avatar); **make them an offer** that clearly states what's in it for them; **qualify** prospective affiliates before onboarding them, rather than accepting all comers; decide **what they get paid for** (leads, sales, or a hybrid); decide **how much they get paid**, calibrated so the economics work for both sides; and support/equip them on an ongoing basis so their output compounds rather than decaying after the first push. Affiliate arrangements are presented as a scalable way to convert other people's existing warm audiences into a lead source, without directly employing the people doing the outreach.
 
 ---
 
-## 14. More, Better, New — Scaling an Existing Channel
+## 15. More, Better, New — Scaling an Existing Channel
 
 Once a channel is producing any results, the book proposes a fixed order of operations for growing it further, applied to whichever of the Core Four is already working: first get **More** of what's already being done (simply increase volume in the same channel with the same method); then get **Better** at it (improve conversion rates, creative, or targeting within the same volume); only then look for **New** — a genuinely different channel or method. The rationale is that most operators abandon a channel and search for a new one before they've exhausted the compounding returns available from doing more, and doing it better, in the channel they already have.
 
 ---
 
-## 15. The Referral Growth Equation
+## 16. The Referral Growth Equation
 
 The book frames referrals mathematically as a multiplier on existing acquisition spend rather than a separate program: because a referral typically costs nothing or very little to generate compared to a paid or cold-outreach acquisition, even a modest referral rate (e.g., an extra quarter to a third of paying customers on top of whatever a paid channel already produces) meaningfully improves the blended cost-to-acquire across the whole customer base, since the "free" referred customers pull down the average cost per customer earned through all channels combined.
 
 ---
 
-## 16. Ongoing Value and Long-Term List Health
+## 17. Ongoing Value and Long-Term List Health
 
 Beyond any single campaign, the book stresses maintaining "on-going value" with a list or audience over time — continuing to deliver free value to people who have not yet bought, rather than treating anyone who doesn't convert immediately as a dead lead. A previously unresponsive contact re-engaged later, after continued value delivery, converts at meaningfully higher rates than a genuinely cold contact, which is the underlying justification for never fully abandoning a warm list.
 
 ---
 
-## 17. Execution Priorities — What to Do Right Now
+## 18. Execution Priorities — What to Do Right Now
 
 The book's closing operational guidance collapses the whole framework into a decision rule for where to focus at any given moment: work whichever Core Four channel is already showing the best signal, in the sequence Warm Outreach → Content → Cold Outreach → Paid Ads, apply More/Better/New within that channel before switching channels, and only add complexity (a new channel, a new lead-getter type) once the current one is genuinely maximized rather than merely tried.
