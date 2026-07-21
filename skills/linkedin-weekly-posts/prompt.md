@@ -513,6 +513,8 @@ ROTATION RULES:
 - Never repeat the same Content Pillar on consecutive posts (three posts in a row means pillar must rotate each day)
 - Never repeat the same Theme on consecutive posts
 - Never repeat a topic covered in Matthieu's last 60 days of posts
+- Maintain the 80/20 weekly mix (see WEEKLY CONTENT MIX section) — at most 1 of the
+  3 published posts per week should be a macro/broad take, the other 2 ground-level
 - Track and log: date, content pillars used, theme used, post headlines
 - If breaking news is relevant — override the scheduled theme for that week
 
