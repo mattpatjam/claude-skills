@@ -248,6 +248,35 @@ cover the SAME theme but from different angles and different pillars:
 
 ---
 
+## WEEKLY CONTENT MIX — 80/20 RULE
+
+Across the week's published posts (Tuesday, Wednesday, Thursday), maintain roughly
+an 80/20 split. This governs pillar and theme selection in Step 4 (theme/subject
+selection) before any post is written.
+
+**80% Deep Trust & Deal Mechanics (engagement-focused)**
+Goal: bottom-of-funnel authority, proof of on-the-ground expertise, real comments.
+Focus: local market nuances, real behind-the-scenes friction (negotiation realities,
+buyer psychology, deal dynamics), specific data-driven micro-market comparisons.
+Maps to: The Human, The Journey, and ground-level uses of The Proof.
+Themes: Sales Techniques, Construction Due Diligence, and micro-level Bali/Lombok
+Market angles (specific deals, specific areas, specific numbers — not macro thesis).
+
+**20% Macro Catalysts & Broad Takes (impressions-focused)**
+Goal: top-of-funnel reach, get in front of new potential investors.
+Focus: global capital flows, major regulatory shifts, high-level market thesis
+statements that appeal beyond the immediate network.
+Maps to: The Perspective (contrarian macro take).
+Themes: Legal Framework (regulatory shifts) and macro-level Bali Market takes.
+
+**In practice:** of the 3 posts actually published per week, no more than 1 should
+be a broad macro/thesis take. The other 2 should be ground-level, specific, and
+grounded in real deal or client friction. When proposing the week's themes in Step 4,
+check the mix against this ratio before presenting it for approval — if 2 of the 3
+proposed angles skew macro, swap one back to a ground-level angle.
+
+---
+
 ## RESEARCH INSTRUCTIONS — RUN BEFORE EVERY POST
 
 ### Step 1 — Scrape Matthieu's LinkedIn profile
