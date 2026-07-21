@@ -16,6 +16,26 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-07-24 (Thursday)
+Pillar: The Human
+Theme: Construction Due Diligence
+Hook: "Two buyers came to me the same week, both scared of the same thing, and picked completely opposite solutions."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-23 (Wednesday)
+Pillar: The Human
+Theme: Sales Techniques
+Hook: "Most agents treat discovery like a form: three questions, budget, timeline, done. That's not qualification, that's guessing with extra steps."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-22 (Tuesday)
+Pillar: The Perspective
+Theme: Legal Framework
+Hook: "New KBLIs for PT PMAs are coming next month. Last time this happened, nobody warned us before it hurt."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+---
+
 ## 2026-07-17 (Thursday) — replacement post, personal/photo-led, off standard theme rotation
 Pillar: The Human
 Theme: Island Diversity (off-rotation, personal)
