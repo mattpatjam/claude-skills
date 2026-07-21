@@ -191,9 +191,11 @@ Avoid these words/phrases entirely: "Exciting news", "Thrilled to announce", "Ga
 leader", "Best practices", "Disrupt", "AI-powered" (show what it does instead of the buzzword).
 
 ### THE CLOSE & CTA
-- A low-friction, genuine question
+- A low-friction, genuine question, specifically targeted at agency owners/decision-makers, not a generic "thoughts?" anyone could answer
 - Peer-to-peer, never a command
 - No external links in the body — links go in comments only
+
+**Anatomy, named explicitly:** Hook (lines 1-2) → Context/Data (the body's factual core, delivered in short scannable lines) → Pivot/Lesson (the takeaway, what changed or what this means) → the specific CTA above. Same structure the Body/Close sections already describe, just labeled so it's checkable.
 
 ### EMOJIS
 Maximum 3. Never in the first line. Only when they add clarity.
