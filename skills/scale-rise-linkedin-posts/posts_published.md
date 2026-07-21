@@ -10,6 +10,12 @@ this post from real estate posts in the same 7-day scrape window.
 
 ---
 
+## 2026-07-18 — logged retroactively, posted outside this workflow, discovered via real estate profile scrape on 2026-07-21
+Pillar: Industry Perspective
+Theme: AI Automation & Agency Ops
+Hook: "Nobody's checking if the AI tool your agency just plugged in is actually safe."
+Impressions: 210 | Reactions: — | Comments: — | Reposts: —
+
 ## 2026-07-06
 Pillar: Proof / Case Studies
 Theme: Client Work & Results
