@@ -196,7 +196,7 @@ Once you have these numbers, use them as the baseline to forecast future perform
 
 ---
 
-## 16. Running outbound email campaigns
+## 15. Running outbound email campaigns
 
 **The two-step motion:**
 1. Email to generate an internal referral to the right person at the target company.
