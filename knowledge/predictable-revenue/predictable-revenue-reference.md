@@ -411,7 +411,7 @@ Sell past the close. Success isn't "service launched," it's "service produced th
 
 ---
 
-## 30. Mapping the buyer's decision-making process
+## 29. Mapping the buyer's decision-making process
 
 The decision-making process matters more than the decision-maker. Map it before you push for a meeting with whoever's at the top.
 
