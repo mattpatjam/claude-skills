@@ -285,7 +285,7 @@ Customize the labels to your own language, but keep the stages distinct and cons
 
 ---
 
-## 20. SDR compensation
+## 19. SDR compensation
 
 - Base salary + commission.
 - Commission targeted at ~50% of base (roughly one-third of total comp).
