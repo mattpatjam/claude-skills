@@ -367,7 +367,7 @@ The core sales philosophy: hire and train salespeople who are genuinely committe
 
 ---
 
-## 26. Why closing feels artificial
+## 25. Why closing feels artificial
 
 Closing gets a bad reputation because of how it's typically managed, not because closing itself is wrong.
 
