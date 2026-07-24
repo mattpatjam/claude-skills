@@ -383,7 +383,7 @@ Customers care about one of two things: improving their business, or improving t
 
 ---
 
-## 28. The customer success plan
+## 27. The customer success plan
 
 Sell past the close. Success isn't "service launched," it's "service produced the outcome the customer wanted."
 
