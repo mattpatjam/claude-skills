@@ -296,7 +296,7 @@ Customize the labels to your own language, but keep the stages distinct and cons
 
 ---
 
-## 21. SDR training and ramp plan
+## 20. SDR training and ramp plan
 
 **Weeks 1-2:** general company training, product training, services, before any SDR-specific training starts.
 
