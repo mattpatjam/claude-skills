@@ -457,7 +457,7 @@ Don't hand out proposals or pricing on request. There's a real cost to giving on
 
 ---
 
-## 34. Best call-opening question
+## 33. Best call-opening question
 
 Start every call with: **"Did I catch you at a bad time?"**
 
