@@ -437,7 +437,7 @@ Three steps, ~3 hours 15 minutes of total invested time, to reach mutual clarity
 
 ---
 
-## 32. Uncovering the real problem
+## 31. Uncovering the real problem
 
 Killer salespeople dig past the requested solution to find the actual problem. Prospects usually arrive already attached to a solution, and often haven't traced their own problem to its root.
 
