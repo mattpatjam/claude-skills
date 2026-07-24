@@ -24,6 +24,22 @@ Guides a conversational offer-building session and produces a complete Grand Sla
 
 ---
 
+## Phase 0: Repeat Partner Check
+
+Ask first, before Phase 1: "Is this a brand-new partner, or a returning one we've already closed a project with?"
+
+**If new:** proceed to Phase 1 as normal.
+
+**If repeat:** don't rebuild from zero. Pull forward:
+- The prior project's Phase 4 output (Quarterly Performance Review learnings, refined targeting/messaging/ICP)
+- Any Lead Intelligence Report or equivalent buyer-conversation data from the closed engagement
+
+Use these as the starting draft for Avatar, Value Equation, and Problems & Solutions Map instead of re-deriving from scratch, then confirm what's actually different for the new project or inventory tranche (new buyer segment, new price point, new market). Only re-run a phase in full if something genuinely changed. The point of the compounding loop is that a repeat partner reaches a finished offer faster, not that they sit through the same interview twice.
+
+**Pricing note:** never discount a repeat engagement, same rule as a new one. The value-add here is speed and a sharper first draft, not a lower fee.
+
+---
+
 ## Phase 1: Foundation
 
 If `$1` is provided, confirm: "Building a Grand Slam Offer for [client]. Let me confirm what I know — [fill from context]. Anything to correct before we start?"
