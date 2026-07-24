@@ -377,7 +377,7 @@ Closing gets a bad reputation because of how it's typically managed, not because
 
 ---
 
-## 27. What customers actually care about
+## 26. What customers actually care about
 
 Customers care about one of two things: improving their business, or improving themselves. Every pitch, objection-handle, and close should map back to one of these two.
 
