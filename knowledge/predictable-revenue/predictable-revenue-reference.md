@@ -319,7 +319,7 @@ Customize the labels to your own language, but keep the stages distinct and cons
 
 ---
 
-## 22. Structuring the SDR's day
+## 21. Structuring the SDR's day
 
 Design the day on purpose, don't let it default to whatever's loudest.
 
