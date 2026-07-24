@@ -446,7 +446,7 @@ Killer salespeople dig past the requested solution to find the actual problem. P
 
 ---
 
-## 33. Earning the right to send a proposal
+## 32. Earning the right to send a proposal
 
 Don't hand out proposals or pricing on request. There's a real cost to giving one out too early:
 
