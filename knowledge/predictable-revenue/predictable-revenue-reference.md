@@ -341,7 +341,7 @@ Design the day on purpose, don't let it default to whatever's loudest.
 
 ---
 
-## 24. Best questions and quick prospecting tricks
+## 23. Best questions and quick prospecting tricks
 
 **Opening/discovery questions:**
 - "Did I catch you at a bad time? May I ask how your sales team, marketing organization, and research efforts are set up?"
