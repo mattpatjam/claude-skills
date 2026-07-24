@@ -330,7 +330,7 @@ Design the day on purpose, don't let it default to whatever's loudest.
 
 ---
 
-## 23. Six prospecting mistakes reps make
+## 22. Six prospecting mistakes reps make
 
 1. Expecting instant results. A new qualified opportunity can take 2-4+ weeks to develop.
 2. Writing long emails.
