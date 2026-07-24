@@ -231,7 +231,7 @@ Once you have these numbers, use them as the baseline to forecast future perform
 
 ---
 
-## 17. Response handling and qualification
+## 16. Response handling and qualification
 
 - Log every response in the CRM. Nothing falls through the cracks.
 - Don't ignore bounces, clean bad emails out as they surface or they'll fog up the whole database.
