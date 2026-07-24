@@ -427,7 +427,7 @@ The decision-making process matters more than the decision-maker. Map it before 
 
 ---
 
-## 31. The three-step qualification sequence
+## 30. The three-step qualification sequence
 
 Three steps, ~3 hours 15 minutes of total invested time, to reach mutual clarity on fit and timing:
 
