@@ -273,7 +273,7 @@ Before any sales call, define:
 
 ---
 
-## 19. Account/lead status stages
+## 18. Account/lead status stages
 
 - **Cold lead:** no meaningful activity, unresponsive, untouched.
 - **Working lead:** conversations and qualification activity underway.
