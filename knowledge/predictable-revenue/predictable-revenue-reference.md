@@ -253,7 +253,7 @@ Once you have these numbers, use them as the baseline to forecast future perform
 
 ---
 
-## 18. Call effectiveness without scripts
+## 17. Call effectiveness without scripts
 
 Before any sales call, define:
 - What answers do you want to learn?
