@@ -56,12 +56,32 @@ Calls/dials only get tracked during initial training, for coaching purposes, not
 
 ## 5. Ideal Customer Profile (ICP)
 
-Spend real time defining who to target before building the list.
+The single highest-leverage exercise for sales and marketing productivity: getting ICP definition right. It lets you disqualify bad fits fast and find good fits faster.
 
+Spend real time defining who to target before building the list.
 - Study the top 5-10% of existing customers.
 - Define what makes those companies similar (size, industry, use case, etc.).
 - Identify which profile is likely to generate the most revenue.
 - Build a tight, focused target list from that criteria, not a broad net.
+
+**SMART targeting sequence:**
+1. Ideal industry
+2. Ideal company
+3. Research functional teams
+4. Find influencers
+5. Business issues
+6. Fit
+
+**Defining core challenges** — ask these of the prospect (or research to answer them):
+- What are your greatest challenges?
+- What keeps you up at night?
+- What are your main frustrations?
+- What are you afraid of?
+- What do they really want?
+- What's important to them?
+- What do they spend money on?
+
+Cap at 1-5 ICP profiles. More than that means the strategy needs tightening, not broadening.
 
 ---
 
