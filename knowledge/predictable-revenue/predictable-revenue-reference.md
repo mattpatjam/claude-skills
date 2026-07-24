@@ -358,7 +358,7 @@ Design the day on purpose, don't let it default to whatever's loudest.
 
 ---
 
-## 25. Selling to success
+## 24. Selling to success
 
 The core sales philosophy: hire and train salespeople who are genuinely committed to the company's vision and values, then help prospects connect to that vision, whether or not they end up a customer.
 
