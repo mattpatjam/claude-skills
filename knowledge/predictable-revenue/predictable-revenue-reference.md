@@ -188,32 +188,7 @@ Once you have these numbers, use them as the baseline to forecast future perform
 
 ---
 
-## 14. Ideal Customer Profile (ICP) — SMART targeting
-
-The single highest-leverage exercise for sales and marketing productivity: getting ICP definition right. It lets you disqualify bad fits fast and find good fits faster.
-
-**SMART targeting sequence:**
-1. Ideal industry
-2. Ideal company
-3. Research functional teams
-4. Find influencers
-5. Business issues
-6. Fit
-
-**Defining core challenges** — ask these of the prospect (or research to answer them):
-- What are your greatest challenges?
-- What keeps you up at night?
-- What are your main frustrations?
-- What are you afraid of?
-- What do they really want?
-- What's important to them?
-- What do they spend money on?
-
-Cap at 1-5 ICP profiles. More than that means the strategy needs tightening, not broadening.
-
----
-
-## 15. Building the target list
+## 14. Building the target list
 
 - Use existing CRM-integrated data services or research your own sources.
 - List-building tools/data are the fastest-changing part of outbound. Don't assume last year's source is still the best one, check.
