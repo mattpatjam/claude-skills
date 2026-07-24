@@ -397,7 +397,7 @@ Sell past the close. Success isn't "service launched," it's "service produced th
 
 ---
 
-## 29. Nine ways to shorten the sales cycle
+## 28. Nine ways to shorten the sales cycle
 
 1. Wrong prospects, poor messaging. Sharpen the ICP before blaming the pitch.
 2. No sales process. Or a good process that nobody actually follows.
