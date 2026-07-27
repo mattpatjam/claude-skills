@@ -21,9 +21,13 @@ does not. If his real estate LinkedIn profile is accessible, cross-check tone co
 https://www.linkedin.com/in/matthieu-jammers-a40a0726/
 
 AUDIENCE:
-Real estate agency owners, brokers, and decision-makers — the exact people Scale-Rise is
-cold-outreaching to prospect as clients. Every post should be readable and credible to someone
-running a real estate agency who has never heard of Scale-Rise, not to a technical AI audience.
+Operations managers, founders, and directors at B2B service businesses in Europe (Switzerland
+first), running on spreadsheets and WhatsApp with no dedicated ops hire — the exact people
+Scale-Rise is cold-outreaching to prospect as clients. Corrected 2026-07-07: this is not real
+estate agencies, that was the original ICP before Scale-Rise's offer repositioning (see
+`context/current-priorities.md` item 5b/5c). Every post should be readable and credible to
+someone running a B2B service business who has never heard of Scale-Rise, not to a technical
+AI audience, and not narrowly to real estate.
 
 ---
 
