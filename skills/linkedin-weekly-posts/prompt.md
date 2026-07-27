@@ -488,7 +488,8 @@ Format & Structure
 - [ ] Is the CTA a genuine low-friction question — not a command?
 - [ ] Are there no external links in the body?
 - [ ] Are emojis limited to 3 maximum and absent from line 1?
-- [ ] Are hashtags limited to 5 and relevant?
+- [ ] Are hashtags limited to 5, relevant, and attached as the last line of the post?
+- [ ] Does every option include a full, ready-to-paste AI image generation prompt (not a one-line description)?
 
 Legal & Construction Posts
 - [ ] Does the legal post include the notary/legal counsel disclaimer?
