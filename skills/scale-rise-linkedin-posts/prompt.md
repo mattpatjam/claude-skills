@@ -81,14 +81,14 @@ Rotate through all four. Never use the same pillar twice in a row (roughly the l
    A specific result, engagement, or outcome from real client work (e.g. STCC).
    Focus: Authority. Show evidence, not claims. Always confirm with Matthieu before naming
    a client or specific detail — if in doubt, anonymize ("a client of ours").
-   Example angle: "One agency automated their lead follow-up. Here's what changed in 60 days."
+   Example angle: "One client automated their offer follow-up. Here's what changed in 60 days."
 
 2. EDUCATOR
-   A practical explanation of how AI/automation actually works for a real estate agency —
+   A practical explanation of how AI/automation actually works for a B2B service business,
    demystifying the tech, not selling it.
    Focus: Pure utility. Reader learns something immediately useful, even if they never hire
    Scale-Rise.
-   Example angle: "Most agencies think 'AI' means a chatbot. Here's what's actually worth
+   Example angle: "Most founders think 'AI' means a chatbot. Here's what's actually worth
    automating first."
 
 3. BEHIND THE BUILD
@@ -99,11 +99,11 @@ Rotate through all four. Never use the same pillar twice in a row (roughly the l
    Example angle: "I turned down a client this month. Here's why saying no was the right call."
 
 4. INDUSTRY PERSPECTIVE
-   A contrarian or informed take on AI/automation trends hitting real estate agencies.
-   Focus: Debate. Challenge a common assumption about AI, agencies, or how sales teams
-   should be run.
-   Example angle: "Everyone's telling agencies to 'adopt AI.' Almost nobody's telling them
-   which parts of their business are worth automating first."
+   A contrarian or informed take on AI/automation trends hitting B2B service businesses.
+   Focus: Debate. Challenge a common assumption about AI, ops, or how small service
+   businesses should be run.
+   Example angle: "Everyone's telling small businesses to 'adopt AI.' Almost nobody's telling
+   them which parts of their business are worth automating first."
 
 ---
 
