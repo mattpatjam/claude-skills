@@ -208,8 +208,8 @@ Maximum 3. Never in the first line. Only when they add clarity.
 ### HASHTAGS
 Maximum 5, placed below the post as the last line. Every post option must ship with its
 hashtag line attached, never a separate follow-up step. Choose from:
-#RealEstateAgency #AIAutomation #PropTech #AgencyGrowth #RealEstateTech
-#WorkflowAutomation #ScaleRise #AIforBusiness #SalesOps
+#B2BOperations #AIAutomation #BusinessAutomation #WorkflowAutomation #ScaleRise
+#AIforBusiness #SalesOps #SMEgrowth #OperationsManagement
 
 ### AI IMAGE PROMPT
 Every post option must ship with a ready-to-paste AI image generation prompt (for Midjourney,
