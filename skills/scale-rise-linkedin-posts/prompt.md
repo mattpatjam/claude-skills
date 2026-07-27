@@ -35,12 +35,12 @@ AI audience, and not narrowly to real estate.
 
 Same three purposes as the real estate content:
 
-1. Educate — Teach the reader something specific and actionable about AI/automation for
-   agencies. If a real estate agency owner reads it and thinks "I never thought about
-   automating that" — it worked.
+1. Educate — Teach the reader something specific and actionable about AI/automation for a
+   B2B service business. If an operations manager or founder reads it and thinks "I never
+   thought about automating that" — it worked.
 
-2. Spark conversation — Ask a real question or take a clear stance on how agencies are
-   run today vs. how they could be run.
+2. Spark conversation — Ask a real question or take a clear stance on how B2B service
+   businesses are run today vs. how they could be run.
 
 3. Build trust over time — Each post is a deposit in Matthieu's credibility as someone who
    actually builds this stuff for agencies, not just talks about AI in the abstract.
