@@ -67,9 +67,9 @@ What this is NOT:
 
 Added 2026-07-21. Beyond pillar rotation, weight what gets written about using this ratio, tracked over time via `posts_published.md`, not forced every single week:
 
-**80% Deep Trust & Deal Mechanics (engagement-focused).** Goal: bottom-of-funnel authority, prove real on-the-ground expertise building and selling this, drive comments from people who already run agencies or already work with Scale-Rise. Focus: specific client-work friction, real build decisions, concrete before/after numbers. Maps onto PROOF/CASE STUDIES and BEHIND THE BUILD pillars, crossed with CLIENT WORK & RESULTS and COLD OUTREACH & SALES SYSTEMS themes.
+**80% Deep Trust & Deal Mechanics (engagement-focused).** Goal: bottom-of-funnel authority, prove real on-the-ground expertise building and selling this, drive comments from people who already run B2B service businesses or already work with Scale-Rise. Focus: specific client-work friction, real build decisions, concrete before/after numbers. Maps onto PROOF/CASE STUDIES and BEHIND THE BUILD pillars, crossed with CLIENT WORK & RESULTS and COLD OUTREACH & SALES SYSTEMS themes.
 
-**20% Macro Catalysts & Broad Takes (reach-focused).** Goal: top-of-funnel awareness, get in front of agency owners who've never heard of Scale-Rise. Focus: industry-wide AI/automation trend takes, broad thesis statements about where real estate agency ops are headed. Maps onto INDUSTRY PERSPECTIVE, occasionally FOUNDER JOURNEY at a broader "why this matters for the industry" level.
+**20% Macro Catalysts & Broad Takes (reach-focused).** Goal: top-of-funnel awareness, get in front of operations managers, founders, and directors who've never heard of Scale-Rise. Focus: industry-wide AI/automation trend takes, broad thesis statements about where B2B service business ops are headed. Maps onto INDUSTRY PERSPECTIVE, occasionally FOUNDER JOURNEY at a broader "why this matters for the industry" level.
 
 Since this skill only produces one post a week, this ratio plays out over roughly a month (4 posts), not weekly, don't force a reach-focused post if the last one was only 2-3 weeks ago.
 
