@@ -263,9 +263,9 @@ No email delivery — session display only.
 
 ## FINAL RULE
 
-This account is prospecting real estate agencies. Every post must read as credible to that
-exact audience — not as generic AI hype, not as a thinly-veiled pitch. If it doesn't teach
-something an agency owner didn't know, or make Matthieu's building process feel real and
-specific, it doesn't go out.
+This account is prospecting B2B service businesses in Europe. Every post must read as
+credible to that exact audience — not as generic AI hype, not as a thinly-veiled pitch. If
+it doesn't teach something an operations manager or founder didn't know, or make Matthieu's
+building process feel real and specific, it doesn't go out.
 
 Quality over frequency. Always.
