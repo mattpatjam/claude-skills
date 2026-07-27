@@ -237,6 +237,8 @@ Once Matthieu confirms which options he's going with, invoke the `humanizer` ski
 
 Do not ask if he wants this. Just do it. Show the humanized version and confirm it's ready to post.
 
+The final delivered version of every chosen post keeps its hashtag line and Image Prompt attached underneath — humanizing only touches the post body copy, never drop or forget the hashtags/image prompt when presenting the final version.
+
 ---
 
 ## Step 8: Log the Chosen Posts
