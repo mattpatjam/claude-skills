@@ -139,13 +139,13 @@ ground.
 Read `.claude/skills/scale-rise-linkedin-posts/posts_published.md` for themes/pillars/angles
 covered in the last 60 days.
 
-### Step 2 — Real estate / PropTech industry news
-Scan for AI/automation/tech-adoption angles (not general market news) from:
-- The Bali Sun / thebalirealestate.com
-- The Jakarta Post (property section)
-- Bali Discovery
-- Indonesia Expat
-- Nikkei Asia (Indonesia)
+### Step 2 — B2B services / SME automation news
+Corrected 2026-07-07 alongside the ICP fix: the old real estate/PropTech source list (Bali
+Sun, Jakarta Post property, Bali Discovery, Indonesia Expat, Nikkei Asia Indonesia) no longer
+matches the audience and has been removed. No replacement sources configured yet for European
+B2B services / SME automation news. Skip this step until Matthieu provides sources — do not
+fabricate trending data and do not fall back to the Bali real estate sources, they're the
+wrong audience now.
 
 ### Step 3 — Competitor / adjacent accounts (currently empty)
 No specific profiles configured yet. Skip until Matthieu provides names. Do not fabricate.
