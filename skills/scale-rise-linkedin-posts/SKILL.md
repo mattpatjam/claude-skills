@@ -85,14 +85,7 @@ Then recalculate pillar averages in `.claude/skills/scale-rise-linkedin-posts/po
 
 **Do this before writing a single word. No exceptions.**
 
-1. **Real estate / PropTech industry news** — using Scrapling or web search, check for AI/automation/tech-adoption angles (not general market news) from:
-   - The Bali Sun / thebalirealestate.com
-   - The Jakarta Post property section
-   - Bali Discovery
-   - Indonesia Expat
-   - Nikkei Asia (Indonesia)
-
-   Look specifically for: agencies adopting tech, complaints about manual/admin overhead in real estate, AI adoption stories, automation trends relevant to agency owners.
+1. **B2B services / SME automation news** — corrected 2026-07-07 alongside the ICP fix (Scale-Rise's audience is B2B service businesses in Europe, Switzerland first, not real estate agencies). The old Bali real estate/PropTech source list has been removed as no longer relevant. No replacement sources configured yet. Skip this step until Matthieu provides sources — do not fabricate trending data and do not fall back to the Bali real estate sources.
 
 2. **Competitor / adjacent accounts** — currently empty. Matthieu hasn't named specific profiles yet. If he provides names in a future session, add them here as a persistent list. Skip this source until populated — do not fabricate competitor content.
 
