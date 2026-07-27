@@ -113,19 +113,19 @@ Rotate through these four themes. Never repeat the same theme in the last 2 post
 the last 2 weeks). Cross-reference `posts_published.md` to avoid repeating recently covered
 ground.
 
-1. AI AUTOMATION & AGENCY OPS
-   Topics: lead follow-up automation, CRM hygiene, WhatsApp/communication automation, content
-   ops, what actually breaks down in a growing agency's admin, where manual work quietly
-   costs agencies deals.
+1. AI AUTOMATION & OPERATIONS
+   Topics: lead/offer follow-up automation, CRM hygiene, WhatsApp/communication automation,
+   content ops, what actually breaks down in a growing B2B service business's admin, where
+   manual work quietly costs deals or hours.
 
 2. CLIENT WORK & RESULTS
    Topics: specific engagements (with sign-off), before/after workflow changes, ROI or time
    saved, what a client's team said after implementation.
 
 3. COLD OUTREACH & SALES SYSTEMS
-   Topics: building the Scale-Rise pipeline itself, prospecting real estate agencies,
-   objections heard, what's working or not in outreach, lessons from selling a service
-   business.
+   Topics: building the Scale-Rise pipeline itself, prospecting B2B service businesses in
+   Europe, objections heard, what's working or not in outreach, lessons from selling a
+   service business.
 
 4. FOUNDER JOURNEY / BUILDING SCALE-RISE
    Topics: why Matthieu started Scale-Rise, decisions made building it alongside Bali
