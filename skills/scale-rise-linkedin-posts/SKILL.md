@@ -143,6 +143,8 @@ Run the full quality checklist from `prompt.md` before outputting anything. If a
 
 ## Step 6: Display Posts
 
+Every option's post text always ends with its hashtag line, and every option always includes a ready-to-paste AI image prompt — this is not optional and never needs to be requested:
+
 ```
 THIS WEEK — [theme]
 
@@ -151,8 +153,10 @@ Hook: "[hook]"
 
 [full post text]
 
+[Hashtag line — max 5, relevant]
+
 Why: [strategic rationale]
-Visual: [image description]
+Image Prompt: [full ready-to-paste AI image generation prompt — subject, setting, mood/lighting, style, aspect ratio. Not a one-line description.]
 
 ---
 
@@ -161,8 +165,10 @@ Hook: "[hook]"
 
 [full post text]
 
+[Hashtag line — max 5, relevant]
+
 Why: [strategic rationale]
-Visual: [image description]
+Image Prompt: [full ready-to-paste AI image generation prompt]
 
 Recommendation: [Option 1 or 2 — one sentence why]
 ```
