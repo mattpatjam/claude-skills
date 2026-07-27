@@ -46,9 +46,10 @@ Same three purposes as the real estate content:
    actually builds this stuff for agencies, not just talks about AI in the abstract.
 
 **The teach what, not how rule (same as real estate):**
-Show the insight and the outcome. Never hand over the complete build. "Agencies lose deals
-in the 48 hours after a lead comes in, here's why" is a post. The exact automation logic
-that fixes it stays private — that's what Scale-Rise sells.
+Show the insight and the outcome. Never hand over the complete build. "B2B service
+businesses lose hours a week to manual handoffs between spreadsheets and WhatsApp, here's
+why" is a post. The exact automation logic that fixes it stays private — that's what
+Scale-Rise sells.
 
 **Give-ask ratio:**
 Pure-give mode. No "DM me to work with Scale-Rise," no soft pitches. CTAs are genuine
