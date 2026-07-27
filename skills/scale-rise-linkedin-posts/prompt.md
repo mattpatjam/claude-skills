@@ -232,7 +232,7 @@ Label this line "Image Prompt:" directly under the "Why:" line for that option.
 - [ ] Has `posts_published.md` been checked for repeated themes/pillars/angles in the last 60 days?
 - [ ] Does the post sound like Matthieu, not generic AI-marketing copy?
 - [ ] Does it educate, spark genuine conversation, or build trust — at least one?
-- [ ] Would a real estate agency owner (not a technical audience) understand and care?
+- [ ] Would an operations manager or founder at a B2B service business (not a technical audience) understand and care?
 - [ ] Is there at least one specific, concrete example or number — and is it confirmed/verifiable?
 - [ ] Does it teach what, not how? Could a reader replicate Scale-Rise's actual build from this
       post? If yes — rewrite. The how is what clients pay for.
