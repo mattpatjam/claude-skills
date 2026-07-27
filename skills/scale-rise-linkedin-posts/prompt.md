@@ -173,8 +173,8 @@ Target: 1,200 to 1,600 characters. Never exceed 1,600. Never go below 1,000.
 - No emojis in the first line, no "excited to announce," no throat-clearing
 
 Strong hook examples:
-"Most real estate agencies lose leads in the first 48 hours, not from bad marketing."
-"An agency doesn't need more leads. It needs to stop losing the ones it already has."
+"Most B2B service businesses lose leads in the first 48 hours, not from bad marketing."
+"A service business doesn't need more leads. It needs to stop losing the ones it already has."
 "I turned down a client this month. Here's why."
 
 Weak hook examples (never do these):
