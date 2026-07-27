@@ -239,6 +239,9 @@ Label this line "Image Prompt:" directly under the "Why:" line for that option.
 - [ ] If naming a specific client (e.g. STCC) — has Matthieu confirmed it's OK to reference
       this detail publicly?
 - [ ] Do both options use different pillars but the same theme?
+- [ ] Are hashtags limited to 5, relevant, and attached as the last line of the post?
+- [ ] Does every option include a full, ready-to-paste AI image generation prompt (not a
+      one-line description)?
 
 If any item fails — rewrite before outputting. No exceptions.
 
