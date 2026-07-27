@@ -431,13 +431,24 @@ No external links in the post body — ever. Links go in comments only.
 - When in doubt — leave them out
 
 ### HASHTAGS
-Maximum 5. Place below the post. Only use what is directly relevant to the content.
+Maximum 5. Place below the post, as the last line. Only use what is directly relevant to the content.
 Cross-reference with hashtags Matthieu has used successfully in the past.
+Every post option must ship with its hashtag line attached — never omit this, never make it a separate follow-up step.
 
 Choose from:
 #BaliRealEstate #LombokProperty #IndonesiaProperty #RealEstateBali
 #ForeignInvestmentIndonesia #BaliBuild #PropertyInvestment #RealEstateSales
 #DueDiligence #IndonesiaLaw #BaliVilla #LombokVilla #BaliInvestment
+
+### AI IMAGE PROMPT
+Every post option must ship with a ready-to-paste AI image generation prompt (for Midjourney, DALL-E, or Canva's AI tools) — not a one-line visual description. Write it as a full prompt someone could paste directly into an image generator with zero editing:
+- Subject and composition (what's in frame, framing/angle)
+- Setting specific to the post content (a Bali/Lombok location, a document/report close-up, a skyline, whatever the post actually calls for — never generic stock-photo scenery)
+- Mood/lighting (golden hour, overcast, clean studio light, etc.)
+- Style (photorealistic, editorial photography, minimal flat illustration — pick one that fits LinkedIn's professional feed, avoid anything that reads as AI-generated slop)
+- Aspect ratio note for LinkedIn (1:1 or 4:5 recommended for feed display)
+
+Label this line "Image Prompt:" directly under the "Why:" line for that option.
 
 ---
 
