@@ -16,6 +16,26 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-07-30 (Thursday)
+Pillar: The Human
+Theme: Sales Techniques
+Hook: "I used to think I was doing a good job because I cleared everything on my to do list."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-29 (Wednesday)
+Pillar: The Proof
+Theme: Bali Market
+Hook: "A friend bought land in Lombok eight months ago. This week someone offered him three times what he paid."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-07-28 (Tuesday)
+Pillar: The Perspective
+Theme: Legal Framework
+Hook: "Bali just closed foreign investors out of 18 business sectors overnight, real estate and hotels included, and most people haven't noticed yet."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+---
+
 ## 2026-07-24 (Thursday)
 Pillar: The Human
 Theme: Construction Due Diligence
