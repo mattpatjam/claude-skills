@@ -196,7 +196,7 @@ Avoid these words/phrases entirely: "Exciting news", "Thrilled to announce", "Ga
 leader", "Best practices", "Disrupt", "AI-powered" (show what it does instead of the buzzword).
 
 ### THE CLOSE & CTA
-- A low-friction, genuine question, specifically targeted at agency owners/decision-makers, not a generic "thoughts?" anyone could answer
+- A low-friction, genuine question, specifically targeted at operations managers/founders/decision-makers at B2B service businesses, not a generic "thoughts?" anyone could answer
 - Peer-to-peer, never a command
 - No external links in the body — links go in comments only
 
