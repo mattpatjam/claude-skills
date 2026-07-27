@@ -201,9 +201,24 @@ leader", "Best practices", "Disrupt", "AI-powered" (show what it does instead of
 Maximum 3. Never in the first line. Only when they add clarity.
 
 ### HASHTAGS
-Maximum 5, placed below the post. Choose from:
+Maximum 5, placed below the post as the last line. Every post option must ship with its
+hashtag line attached, never a separate follow-up step. Choose from:
 #RealEstateAgency #AIAutomation #PropTech #AgencyGrowth #RealEstateTech
 #WorkflowAutomation #ScaleRise #AIforBusiness #SalesOps
+
+### AI IMAGE PROMPT
+Every post option must ship with a ready-to-paste AI image generation prompt (for Midjourney,
+DALL-E, or Canva's AI tools), not a one-line description. Write it as a full prompt someone
+could paste directly into an image generator with zero editing:
+- Subject and composition (what's in frame, framing/angle)
+- Setting specific to the post content (an agency office, a dashboard/workflow screen, a
+  founder-at-work scene, whatever the post actually calls for, never generic stock scenery)
+- Mood/lighting
+- Style (photorealistic, editorial photography, clean minimal illustration, whatever fits a
+  professional B2B LinkedIn feed, avoid anything that reads as AI-generated slop)
+- Aspect ratio note for LinkedIn (1:1 or 4:5 recommended)
+
+Label this line "Image Prompt:" directly under the "Why:" line for that option.
 
 ---
 
