@@ -17,8 +17,8 @@
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": 1696, "avg_reactions": 24, "post_count": 3 },
-    "The Perspective": { "avg_impressions": 6401, "avg_reactions": 170, "post_count": 7, "note": "skewed by one outlier post (34,009 impressions), median performance closer to 900-2000. Reaction avg (170) based on the 3 posts with reaction breakdown (25, 27, 458); the 07-16 and 07-22 posts have combined engagements only (13, 16), not reaction breakdown." },
+    "The Perspective": { "avg_impressions": 6849, "avg_reactions": 170, "post_count": 7, "note": "skewed by one outlier post (34,009 impressions), median performance closer to 900-2000. Reaction avg (170) based on the 3 posts with reaction breakdown (25, 27, 458); the 07-16, 07-22, and 07-28 posts have combined engagements only (13, 16, 60), not reaction breakdown. 07-28 (Legal Framework, KBLI sector restrictions) was the strongest of the three at 4000 impressions / 60 engagements, confirms this theme has legs." },
     "The Human": { "avg_impressions": 1188, "avg_reactions": 31, "post_count": 8, "note": "reaction avg (31) based on the 2 posts with reaction breakdown (30, 31); the 6 latest posts (07-07, 07-09, 07-15, 07-17, 07-23, 07-24) have combined engagements only (17, 27, 15, 9, 8, 0), not reaction breakdown. 07-24 (construction due diligence, branded residence angle) underperformed sharply, 380 impressions and zero engagement, weakest Human post on record." },
-    "The Proof": { "avg_impressions": 392, "avg_reactions": null, "post_count": 1 }
+    "The Proof": { "avg_impressions": 414, "avg_reactions": null, "post_count": 2, "note": "no reaction breakdowns available; 07-29 (Bali Market, Lombok land resale) had combined engagements of 11 on 436 impressions." }
   }
 }
