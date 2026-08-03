@@ -26,13 +26,13 @@ Impressions: — | Reactions: — | Comments: — | Reposts: —
 Pillar: The Proof
 Theme: Bali Market
 Hook: "A friend bought land in Lombok eight months ago. This week someone offered him three times what he paid."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 436 | Reactions: — | Comments: — | Reposts: — | Engagements: 11
 
 ## 2026-07-28 (Tuesday)
 Pillar: The Perspective
 Theme: Legal Framework
 Hook: "Bali just closed foreign investors out of 18 business sectors overnight, real estate and hotels included, and most people haven't noticed yet."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 4000 | Reactions: — | Comments: — | Reposts: — | Engagements: 60
 
 ---
 
