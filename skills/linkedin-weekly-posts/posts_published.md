@@ -32,6 +32,7 @@ Impressions: — | Reactions: — | Comments: — | Reposts: —
 Pillar: The Human
 Theme: Sales Techniques
 Hook: "A couple from Dubai landed in Bali last week to buy a villa. Two days later they signed for one that wasn't even on their shortlist."
+Note: revised to add a beat on experience-built instinct (5 years, pattern recognition) before final post.
 Impressions: — | Reactions: — | Comments: — | Reposts: —
 
 ---
