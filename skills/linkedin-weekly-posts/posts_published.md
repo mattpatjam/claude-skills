@@ -26,6 +26,7 @@ Impressions: — | Reactions: — | Comments: — | Reposts: —
 Pillar: The Perspective
 Theme: Legal Framework
 Hook: "Bali didn't close the door on foreign investment this year. It just started asking who's serious enough to walk through it."
+Note: revised to add Matthieu's take that the crackdown targets small operators who used PT PMA tax incentives to skim/underpay tax on one small shop, not genuine serious investment.
 Impressions: — | Reactions: — | Comments: — | Reposts: —
 
 ## 2026-08-04 (Tuesday)
