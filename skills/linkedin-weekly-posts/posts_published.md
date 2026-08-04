@@ -16,6 +16,26 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-08-06 (Thursday)
+Pillar: The Journey
+Theme: Bali Lifestyle (off-rotation, personal)
+Hook: "Video calling my brother in NYC while riding the boat back from Nusa Lembongan, and for five minutes I genuinely questioned everything."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-08-05 (Wednesday)
+Pillar: The Perspective
+Theme: Legal Framework
+Hook: "Bali didn't close the door on foreign investment this year. It just started asking who's serious enough to walk through it."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-08-04 (Tuesday)
+Pillar: The Human
+Theme: Sales Techniques
+Hook: "A couple from Dubai landed in Bali last week to buy a villa. Two days later they signed for one that wasn't even on their shortlist."
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+---
+
 ## 2026-07-30 (Thursday)
 Pillar: The Human
 Theme: Sales Techniques
