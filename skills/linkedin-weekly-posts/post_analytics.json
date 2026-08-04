@@ -2,18 +2,20 @@
   "last_updated": "2026-08-04",
   "pillars_used": {
     "The Educator": 3,
-    "The Perspective": 8,
-    "The Human": 9,
-    "The Proof": 2
+    "The Perspective": 9,
+    "The Human": 10,
+    "The Proof": 2,
+    "The Journey": 1
   },
   "themes_used": {
-    "Sales Techniques": 7,
+    "Sales Techniques": 8,
     "Bali Market": 7,
-    "Legal Framework": 2,
+    "Legal Framework": 3,
     "Construction Due Diligence": 2,
     "Lombok Market": 1,
     "Industry Behavior": 2,
-    "Island Diversity": 1
+    "Island Diversity": 1,
+    "Bali Lifestyle": 1
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": 1696, "avg_reactions": 24, "post_count": 3 },
