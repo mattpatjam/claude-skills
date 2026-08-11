@@ -20,21 +20,21 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 Pillar: The Journey
 Theme: Bali Lifestyle (off-rotation, personal)
 Hook: "Video calling my brother in NYC while riding the boat back from Nusa Lembongan, and for five minutes I genuinely questioned everything."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 3000 | Reactions: — | Comments: — | Reposts: — | Engagements: 53
 
 ## 2026-08-05 (Wednesday)
 Pillar: The Perspective
 Theme: Legal Framework
 Hook: "Bali didn't close the door on foreign investment this year. It just started asking who's serious enough to walk through it."
 Note: revised to add Matthieu's take that the crackdown targets small operators who used PT PMA tax incentives to skim/underpay tax on one small shop, not genuine serious investment.
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 8000 | Reactions: — | Comments: — | Reposts: — | Engagements: 65
 
 ## 2026-08-04 (Tuesday)
 Pillar: The Human
 Theme: Sales Techniques
 Hook: "A couple from Dubai landed in Bali last week to buy a villa. Two days later they signed for one that wasn't even on their shortlist."
 Note: revised to add a beat on experience-built instinct (5 years, pattern recognition) before final post.
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 3000 | Reactions: — | Comments: — | Reposts: — | Engagements: 25
 
 ---
 
