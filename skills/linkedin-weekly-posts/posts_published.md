@@ -42,7 +42,7 @@ Impressions: 3978 | Reactions: ~32 | Comments: — | Reposts: — | Engagements:
 Pillar: The Human
 Theme: Sales Techniques
 Hook: "I used to think I was doing a good job because I cleared everything on my to do list."
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 375 | Reactions: ~4 | Comments: — | Reposts: —
 
 ## 2026-07-29 (Wednesday)
 Pillar: The Proof
