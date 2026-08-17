@@ -79,12 +79,16 @@ voice from previous successful posts cached from the last successful scrape.
 
 ---
 
-## LINKEDIN INDUSTRY SCRAPING
+## LINKEDIN INDUSTRY SCRAPING & BUYER PAIN-POINT RESEARCH
 
-In addition to scraping Matthieu's personal profile, use Firecrawl to scrape
-LinkedIn more broadly for relevant industry content before every post.
+In addition to scraping Matthieu's personal profile, use the Scrapling MCP to scrape
+LinkedIn more broadly for relevant industry content before every post, AND scrape the
+places where actual buyers ask questions — not just where agents talk shop. Industry
+scraping tells you what agents are discussing. Buyer-pain-point scraping tells you what
+the target reader in "Who This Is For" is actually confused or worried about. Weight
+the latter more heavily when selecting topics and angles.
 
-WHAT TO SCRAPE:
+WHAT TO SCRAPE (industry / agent-side — context only, not the primary topic source):
 - Public LinkedIn posts from the past 30 days related to:
   * Real estate in Bali, Lombok, and Indonesia
   * Foreign investment in Indonesian property
@@ -99,9 +103,22 @@ WHAT TO SCRAPE:
   * Construction companies operating in Bali
   * Indonesian property news publishers
 
+WHAT TO SCRAPE (buyer-side — primary source for topic selection):
+- **Reddit r/bali** (https://www.reddit.com/r/bali/) — search or browse for threads
+  tagged property, real estate, buying, land, villa, investment, leasehold, expat.
+  Public, no login required.
+- **Quora** — search "Bali property", "buying land Bali", "Bali real estate foreigner"
+  and similar. Public, no login required.
+- **Facebook groups** (e.g. Bali property/expat/investor groups Matthieu is a member
+  of) — requires the c_user/xs session cookie, see "Cookie Authentication" below.
+  Use sparingly given the higher account-flagging risk noted there; if a fetch fails
+  or looks rate-limited, stop and fall back to Reddit/Quora rather than retrying.
+
 WHAT TO EXTRACT:
 - Which topics are generating the most likes, comments, and shares right now
-- What questions are being asked repeatedly in comments — these are content gaps
+- What questions are being asked repeatedly, on either side — these are content gaps
+- On the buyer-side sources specifically: what's confusing people, what they're
+  scared of getting wrong, what they wish someone had told them before they started
 - What angles and formats are performing best (lists, stories, data, questions)
 - What conversations are happening that Matthieu could contribute to meaningfully
 - Any breaking news, regulatory changes, or market developments being discussed
