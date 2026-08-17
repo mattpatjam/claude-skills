@@ -323,8 +323,9 @@ Goal: bottom-of-funnel authority, proof of on-the-ground expertise, real comment
 Focus: local market nuances, real behind-the-scenes friction (negotiation realities,
 buyer psychology, deal dynamics), specific data-driven micro-market comparisons.
 Maps to: The Human, The Journey, and ground-level uses of The Proof.
-Themes: Sales Techniques, Construction Due Diligence, and micro-level Bali/Lombok
-Market angles (specific deals, specific areas, specific numbers — not macro thesis).
+Themes: Negotiation & Deal Dynamics, Construction Due Diligence, and micro-level
+Bali/Lombok Market angles (specific deals, specific areas, specific numbers — not
+macro thesis).
 
 **20% Macro Catalysts & Broad Takes (impressions-focused)**
 Goal: top-of-funnel reach, get in front of new potential investors.
