@@ -424,7 +424,7 @@ Construction:
 If a fact cannot be verified from the above — DO NOT include it.
 Flag it as unverifiable and write from insight and experience instead.
 
-### Step 4 — Breaking news override
+### Step 5 — Breaking news override
 If there is a significant breaking development in Bali/Lombok real estate
 (new regulation, infrastructure announcement, major market report) — prioritize it
 over the scheduled theme for that week. Timeliness builds credibility faster
