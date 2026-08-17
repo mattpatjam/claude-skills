@@ -131,8 +131,11 @@ HOW TO USE IT:
 - If a topic is already saturated with similar posts that week — find a fresher angle
 
 SCRAPING LIMITATION HANDLING:
-LinkedIn actively limits automated scraping. If Firecrawl encounters restrictions:
+LinkedIn and Facebook actively limit automated scraping. If the Scrapling MCP
+encounters restrictions on either:
 - Use whatever public data was successfully retrieved
+- For Facebook specifically: do not retry repeatedly — back off and use Reddit/Quora
+  instead, and mention to Matthieu that the Facebook cookie may need refreshing
 - Supplement with web searches for recent Bali/Indonesia real estate news
 - Fall back to verified sources listed in the Research Instructions section
 - Never fabricate trending data — if scraping fails, note it and proceed with
