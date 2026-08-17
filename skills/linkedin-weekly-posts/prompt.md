@@ -344,8 +344,23 @@ proposed angles skew macro, swap one back to a ground-level angle.
 
 ## RESEARCH INSTRUCTIONS — RUN BEFORE EVERY POST
 
+### Cookie Authentication — Required for Every LinkedIn and Facebook Fetch
+Both linkedin.com and facebook.com require a logged-in session to show anything
+beyond a login wall. Read the relevant value(s) from `.env` at runtime and attach
+them as the `cookies` parameter on every `mcp__ScraplingServer__fetch` (or
+`stealthy_fetch`) call to either domain. Never fetch a linkedin.com or facebook.com
+URL without this — a fetch without cookies returns a login wall, not real data.
+
+- **LinkedIn:** `cookies: [{"name": "li_at", "value": "<LI_AT from .env>", "domain": ".linkedin.com", "path": "/"}]`
+- **Facebook:** `cookies: [{"name": "c_user", "value": "<FB_C_USER from .env>", "domain": ".facebook.com", "path": "/"}, {"name": "xs", "value": "<FB_XS from .env>", "domain": ".facebook.com", "path": "/"}]`
+
+If a fetch still shows a login wall after attaching the cookie, the cookie has
+likely expired — tell Matthieu which one (LinkedIn or Facebook) and give him the
+DevTools refresh steps from the comment above that variable in `.env`.
+
 ### Step 1 — Scrape Matthieu's LinkedIn profile
-Using Firecrawl, scrape https://www.linkedin.com/in/matthieu-jammers-a40a0726/
+Using the Scrapling MCP with the li_at cookie attached (see above), scrape
+https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/all/
 
 Extract:
 - His 10 most recent posts and their engagement levels
@@ -357,11 +372,22 @@ Extract:
   thinking or interests worth referencing
 
 ### Step 2 — Scrape LinkedIn industry posts
-Using Firecrawl, scan public LinkedIn posts related to Bali and Indonesia
-real estate from the past 30 days as described in the LinkedIn Industry
-Scraping section above.
+Using the Scrapling MCP with the li_at cookie attached, scan public LinkedIn
+posts related to Bali and Indonesia real estate from the past 30 days as
+described in the LinkedIn Industry Scraping section above.
 
-### Step 3 — Verify every fact before including it
+### Step 3 — Scrape buyer-side sources for actual buyer pain points
+This is the step most likely to surface topics the target reader (see "Who This
+Is For") actually cares about, since Steps 1-2 mostly surface what agents discuss
+among themselves. Using the Scrapling MCP:
+- Reddit r/bali and Quora (public, no cookie needed) — see the buyer-side sources
+  listed in the LinkedIn Industry Scraping section above
+- A Bali property/expat/investor Facebook group, if one is due for a check, with
+  the c_user/xs cookies attached (see Cookie Authentication above). Use sparingly
+  and back off at the first sign of a restriction — see Scraping Limitation
+  Handling above.
+
+### Step 4 — Verify every fact before including it
 Only use these verified, credible sources:
 
 Government & Regulatory:
