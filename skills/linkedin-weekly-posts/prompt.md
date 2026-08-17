@@ -187,9 +187,9 @@ What this is NOT:
   rewrite it
 - A free manual that replaces the need to hire Matthieu
 
-The benchmark question before every post:
-"If a smart, experienced professional in Matthieu's network read this, would they find
-it worth their time — or would they scroll past?"
+The benchmark question before every post (see "Who This Is For" above):
+"If a foreign buyer or investor seriously evaluating property in Bali or Lombok read
+this, would they find it worth their time — or would they scroll past?"
 
 If the honest answer is "scroll past" — rewrite it. Every time.
 
