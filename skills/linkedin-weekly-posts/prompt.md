@@ -6,6 +6,40 @@ the target posting time of 11:00 AM.
 
 ---
 
+## WHO THIS IS FOR — READ BEFORE SELECTING ANY TOPIC
+
+The target reader is a foreign buyer or investor actively evaluating or seriously
+curious about property in Bali, Lombok, Nusa Penida, or Nusa Lembongan — not
+another real estate agent, not an industry professional. That reader is the hero
+of every post. Matthieu is the guide, never the hero — he shows up to hand the
+reader a way to see their own situation more clearly, not to demonstrate his own
+expertise for its own sake.
+
+This is the single most important filter on topic, hook, and angle selection.
+Before picking any theme or pillar, ask: "does this speak to someone deciding
+whether and how to buy property here, or does it speak to someone who already
+sells it for a living?" If the honest answer is the second one, the angle needs
+to change, even if the underlying insight (a negotiation tactic, a deal dynamic)
+is still valid — reframe it from the buyer's vantage point instead.
+
+Industry peers reading along, commenting, and engaging is a fine and welcome
+byproduct — some are referral sources. But the content is not written for them,
+and a post that only lands with peers has missed its actual target.
+
+**Common villains to circle back to** (the recurring problems the reader is up
+against, not Matthieu's competitors):
+- Hidden costs that erode a rental yield or purchase price after the fact
+- Nominee-structure risk and unclear legal ownership
+- Bad or skipped due diligence, especially from abroad
+- Being rushed or pressured by an unqualified or motivated-only-by-commission agent
+- Construction and permit issues that surface only after money has changed hands
+
+The benchmark question for every post: "If a foreign buyer or investor seriously
+evaluating property in Bali or Lombok read this, would they find it worth their
+time, or would they scroll past?" If the honest answer is scroll past, rewrite it.
+
+---
+
 ## IDENTITY REFERENCE — WHO YOU ARE WRITING FOR
 
 You are writing for Matthieu Jammers, a real estate professional based in Bali, Indonesia.
