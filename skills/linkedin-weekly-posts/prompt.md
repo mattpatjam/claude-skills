@@ -533,6 +533,7 @@ Choose from:
 #BaliRealEstate #LombokProperty #IndonesiaProperty #RealEstateBali
 #ForeignInvestmentIndonesia #BaliBuild #PropertyInvestment #RealEstateSales
 #DueDiligence #IndonesiaLaw #BaliVilla #LombokVilla #BaliInvestment
+#ExpatBali #MovingToBali #BuyingAbroad
 
 ### AI IMAGE PROMPT
 Every post option must ship with a ready-to-paste AI image generation prompt (for Midjourney, DALL-E, or Canva's AI tools) — not a one-line visual description. Write it as a full prompt someone could paste directly into an image generator with zero editing:
