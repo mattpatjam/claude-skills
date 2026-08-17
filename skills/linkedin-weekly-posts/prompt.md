@@ -502,10 +502,13 @@ The body must move the reader through three beats: open with a tension or gap (s
 - The question must feel natural, not like a marketing tactic
 - Use peer-to-peer language — curiosity, not command
 
-Strong CTA examples:
-"Have you seen this play out differently? I'd genuinely like to know."
-"What's been your experience navigating this — agree or am I missing something?"
-"Drop a comment or message me if you're working through this right now."
+Strong CTA examples — favor ones that let a buyer/investor self-identify in the
+comments, not just a peer:
+"If you're mid-search right now, what's the part nobody's warned you about?"
+"What's stopping you from pulling the trigger here, price, trust, or something else?"
+"Curious what's confusing you most if you're looking at Bali right now, drop it below."
+"Have you seen this play out differently? I'd genuinely like to know." (works for either
+audience — fine as an occasional variation, not the default)
 
 Weak CTA examples (never do these):
 "Like and share if you found this useful!"
