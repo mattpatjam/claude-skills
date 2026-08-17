@@ -563,7 +563,8 @@ Voice & Identity
 Content & Purpose
 - [ ] Does this post educate, spark genuine conversation, or build long-term trust?
       If none of the three — do not publish, rewrite
-- [ ] Would a smart, experienced professional in Matthieu's network stop scrolling?
+- [ ] Would a foreign buyer or investor seriously evaluating Bali/Lombok property stop scrolling?
+- [ ] Does the angle speak to someone deciding whether/how to buy, not to another agent?
 - [ ] Is there at least one specific, verified fact or concrete example?
 - [ ] Is every fact traceable to a verified source from the approved list?
 - [ ] Does this post teach what, not how? Does it show the insight and outcome without
