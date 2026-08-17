@@ -278,11 +278,16 @@ consecutive posts. Cross-reference with Matthieu's post history to avoid
 repeating recently covered ground. The two options delivered each day must
 cover the SAME theme but from different angles and different pillars:
 
-1. SALES TECHNIQUES
-   B2C and B2B with real estate as the priority lens.
-   Topics: trust-building, objection handling, follow-up cadences, consultative selling,
-   closing techniques specific to high-value property transactions, reading a buyer's
-   real motivation, the difference between a prospect and a time-waster.
+1. NEGOTIATION & DEAL DYNAMICS (buyer's vantage point)
+   The same negotiation and deal-mechanics expertise that used to live under "Sales
+   Techniques," reframed so the buyer is the one learning it, not the agent. Never write
+   this theme as advice to other agents on how to sell — write it as what a buyer should
+   notice, ask, or watch for.
+   Topics: what a seller's hesitation on a specific question actually reveals, how to
+   tell a real stalling tactic from a genuine delay, negotiation leverage a buyer already
+   has and doesn't realize, timing signals that separate a serious deal from one that's
+   quietly dying, how to tell a motivated seller from one testing the market, what a
+   rushed or pressuring agent is usually hiding.
 
 2. BALI, LOMBOK & SURROUNDING ISLANDS REAL ESTATE MARKET
    Topics: price trends, emerging areas (Seseh, Pererenan, Tanjung, Sire, Nyang Nyang),
