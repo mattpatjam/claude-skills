@@ -500,7 +500,8 @@ The body must move the reader through three beats: open with a tension or gap (s
 ### THE CLOSE & CTA
 - End with a low-friction question that invites genuine response
 - The question must feel natural, not like a marketing tactic
-- Use peer-to-peer language — curiosity, not command
+- Use equal-to-equal language — curiosity, not command. Talk with the reader,
+  never down to them, whether they turn out to be a buyer or a peer
 
 Strong CTA examples — favor ones that let a buyer/investor self-identify in the
 comments, not just a peer:
