@@ -16,6 +16,28 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-08-13 (Thursday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+Pillar: The Perspective
+Theme: Lombok Market
+Hook: "Everyone's racing to build villas in Lombok right now. I think most of them are building the wrong thing."
+Impressions: 2000 | Reactions: — | Comments: — | Reposts: — | Engagements: 39
+
+## 2026-08-12 (Wednesday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+Pillar: The Proof
+Theme: Bali Market
+Hook: "For once, the Bali headline isn't another regulation or crackdown."
+Note: Uluwatu Temple cliff seawall construction, infrastructure angle.
+Impressions: 937 | Reactions: — | Comments: — | Reposts: — | Engagements: 9
+
+## 2026-08-11 (Tuesday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+Pillar: The Human
+Theme: Negotiation & Deal Dynamics
+Hook: "Six months ago a buyer walked away from a deal after weeks of negotiation. Yesterday I found out why."
+Note: Australian client + father, Uluwatu plot, negotiation angle. Theme logged under the new "Negotiation & Deal Dynamics" name (renamed from "Sales Techniques" 2026-08-18, see prompt.md).
+Impressions: 2000 | Reactions: — | Comments: — | Reposts: — | Engagements: 41
+
+---
+
 ## 2026-08-06 (Thursday)
 Pillar: The Journey
 Theme: Bali Lifestyle (off-rotation, personal)
