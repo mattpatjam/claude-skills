@@ -1,27 +1,28 @@
 {
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-18",
   "pillars_used": {
     "The Educator": 3,
-    "The Perspective": 9,
-    "The Human": 10,
-    "The Proof": 2,
+    "The Perspective": 10,
+    "The Human": 11,
+    "The Proof": 3,
     "The Journey": 1
   },
   "themes_used": {
     "Sales Techniques": 8,
-    "Bali Market": 7,
+    "Negotiation & Deal Dynamics": 1,
+    "Bali Market": 8,
     "Legal Framework": 3,
     "Construction Due Diligence": 2,
-    "Lombok Market": 1,
+    "Lombok Market": 2,
     "Industry Behavior": 2,
     "Island Diversity": 1,
     "Bali Lifestyle": 1
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": 1696, "avg_reactions": 24, "post_count": 3 },
-    "The Perspective": { "avg_impressions": 6993, "avg_reactions": 170, "post_count": 8, "note": "skewed by one outlier post (34,009 impressions), median performance closer to 900-2000. Reaction avg (170) based on the 3 posts with reaction breakdown (25, 27, 458); several posts (07-16, 07-22, 07-28, 08-05) have combined engagements only, not reaction breakdown. 08-05 (Legal Framework, foreign investment sector restrictions) was the strongest recent post, 8000 impressions / 65 engagements, confirms Legal Framework theme still has legs." },
-    "The Human": { "avg_impressions": 1389, "avg_reactions": 31, "post_count": 9, "note": "reaction avg (31) based on the 2 posts with reaction breakdown (30, 31); most recent posts have combined engagements only, not reaction breakdown. 08-04 (Sales Techniques, Dubai couple instinct/pattern-recognition angle) performed solidly at 3000 impressions / 25 engagements." },
-    "The Proof": { "avg_impressions": 414, "avg_reactions": null, "post_count": 2, "note": "no reaction breakdowns available; 07-29 (Bali Market, Lombok land resale) had combined engagements of 11 on 436 impressions." },
+    "The Perspective": { "avg_impressions": 6438, "avg_reactions": 170, "post_count": 9, "note": "skewed by one outlier post (34,009 impressions), median performance closer to 900-2000. Reaction avg (170) based on the 3 posts with reaction breakdown (25, 27, 458); most other posts have combined engagements only, not reaction breakdown. 08-13 (Lombok Market, villa oversupply contrarian take) added: 2000 impressions / 39 engagements." },
+    "The Human": { "avg_impressions": 1450, "avg_reactions": 31, "post_count": 10, "note": "reaction avg (31) based on the 2 posts with reaction breakdown (30, 31); most recent posts have combined engagements only, not reaction breakdown. 08-11 (Negotiation & Deal Dynamics, renamed from Sales Techniques, walked-away-buyer mystery hook) added: 2000 impressions / 41 engagements, one of the strongest hooks of the window." },
+    "The Proof": { "avg_impressions": 588, "avg_reactions": null, "post_count": 3, "note": "no reaction breakdowns available; 07-29 (Bali Market, Lombok land resale) had combined engagements of 11 on 436 impressions. 08-12 (Bali Market, Uluwatu seawall infrastructure) added: 937 impressions / 9 engagements." },
     "The Journey": { "avg_impressions": 3000, "avg_reactions": null, "post_count": 1, "note": "first data point for this pillar; 08-06 (Bali Lifestyle, personal/family video call comparison) had combined engagements of 53 on 3000 impressions, second-strongest post of the week." }
   }
 }
