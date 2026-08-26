@@ -10,6 +10,15 @@ this post from real estate posts in the same 7-day scrape window.
 
 ---
 
+## 2026-08-21 (Friday, approx.) — logged retroactively, posted outside this workflow, discovered via real estate profile scrape on 2026-08-26
+Pillar: Industry Perspective
+Theme: AI Automation & Agency Ops (Switzerland/SME angle)
+Hook: "My friend asked me why Scale-Rise and why target my home in Switzerland?"
+Note: 8% of European companies with 10+ employees actually use AI, 70.9% of EU companies that evaluated AI and passed cited a skills gap not cost. Argument: automate the specific handoff, not the whole tool stack.
+Impressions: 724 | Reactions: — | Comments: — | Reposts: — | Engagements: 14
+
+---
+
 ## 2026-07-18 — logged retroactively, posted outside this workflow, discovered via real estate profile scrape on 2026-07-21
 Pillar: Industry Perspective
 Theme: AI Automation & Agency Ops
