@@ -16,21 +16,35 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
-## 2026-08-25 (Tuesday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+## 2026-08-22 (Saturday, approx.) — verified against profile activity feed 2026-08-26
 Pillar: The Perspective
 Theme: Bali Market
 Hook: "Is a $200K ocean view villa in Bali a good investment? Wrong question."
-Note: buyer pain-point angle, references a live Reddit thread with no real answer, walks through net yield after real management fees.
-Impressions: 5000 | Reactions: — | Comments: — | Reposts: — | Engagements: 64
+Note: buyer pain-point angle, references a live Reddit r/bali thread with no real answer, six-point checklist (net yield, real occupancy, micro-market timing, exit liquidity, distinctive design, construction quality).
+Impressions: 4602 | Reactions: ~31 | Comments: — | Reposts: — | Engagements: 64
 
-## 2026-08-20 (Thursday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+## 2026-08-20 (Thursday, approx.) — verified against profile activity feed 2026-08-26
 Pillar: The Journey
 Theme: Personal Business Venture (off-rotation, personal — Lembongan project)
 Hook: "Let the games begin...Yesterday I signed a 30 year lease that I think is the start of one of the better stories I'll get to tell for a while."
-Note: 30 year lease on Jungutbatu's main commercial street, Nusa Lembongan, with wife Nathalie and business partner Clement Poulin. Best-performing post of the window (6000 impressions).
-Impressions: 6000 | Reactions: — | Comments: — | Reposts: — | Engagements: 136
+Note: 30 year lease on Jungutbatu's main commercial street, Nusa Lembongan, with wife Nathalie and business partner Clement Poulin. Best-performing post of the window.
+Impressions: 5712 | Reactions: ~80 | Comments: — | Reposts: — | Engagements: 136
 
-Note: a third post this week ("My friend asked me why Scale-Rise and why target my home in Switzerland?", 724 impressions / 14 engagements) is Scale-Rise content, tracked separately under the scale-rise-linkedin-posts skill, not logged here.
+## 2026-08-19 (Wednesday, approx.) — verified against profile activity feed 2026-08-26
+Pillar: The Human
+Theme: Construction Due Diligence (property management angle)
+Hook: "A (soon to be) client messaged me this week. His villa's management company won't show him the numbers."
+Note: Uluwatu villa, rental management company withholding income/expense breakdown, argument to vet management company with same rigor as land before signing.
+Impressions: 1544 | Reactions: — | Comments: — | Reposts: — | Engagements: 6
+
+## 2026-08-18 (Tuesday, approx.) — verified against profile activity feed 2026-08-26
+Pillar: The Perspective
+Theme: Legal Framework (macro/trending)
+Hook: "Everyone doubted Indonesia's Dubai style financial hub plan. On July 21st, it became law anyway."
+Note: follow-up to the 2026-06-06 Kura Kura/Serangan Island post — Indonesia's parliament passed the PFII bill into law July 21, formalizing the International Financial Center framework. Includes notary/legal counsel disclaimer.
+Impressions: 1044 | Reactions: — | Comments: — | Reposts: — | Engagements: 9
+
+Note: a fifth post in this window ("My friend asked me why Scale-Rise and why target my home in Switzerland?", 2026-08-21 approx., 724 impressions / 14 engagements) is Scale-Rise content, tracked separately under the scale-rise-linkedin-posts skill, not logged here.
 
 ---
 
