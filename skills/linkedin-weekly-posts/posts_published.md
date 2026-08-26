@@ -16,6 +16,24 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-08-25 (Tuesday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+Pillar: The Perspective
+Theme: Bali Market
+Hook: "Is a $200K ocean view villa in Bali a good investment? Wrong question."
+Note: buyer pain-point angle, references a live Reddit thread with no real answer, walks through net yield after real management fees.
+Impressions: 5000 | Reactions: — | Comments: — | Reposts: — | Engagements: 64
+
+## 2026-08-20 (Thursday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
+Pillar: The Journey
+Theme: Personal Business Venture (off-rotation, personal — Lembongan project)
+Hook: "Let the games begin...Yesterday I signed a 30 year lease that I think is the start of one of the better stories I'll get to tell for a while."
+Note: 30 year lease on Jungutbatu's main commercial street, Nusa Lembongan, with wife Nathalie and business partner Clement Poulin. Best-performing post of the window (6000 impressions).
+Impressions: 6000 | Reactions: — | Comments: — | Reposts: — | Engagements: 136
+
+Note: a third post this week ("My friend asked me why Scale-Rise and why target my home in Switzerland?", 724 impressions / 14 engagements) is Scale-Rise content, tracked separately under the scale-rise-linkedin-posts skill, not logged here.
+
+---
+
 ## 2026-08-13 (Thursday, approx.) — from analytics check, exact date/pillar/theme inferred from content, not confirmed against profile feed
 Pillar: The Perspective
 Theme: Lombok Market
