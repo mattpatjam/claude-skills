@@ -16,6 +16,13 @@ Full text: 498 hectares on Serangan Island (Kura Kura), capped at 15 meter build
 
 ---
 
+## 2026-08-27 (approx.) — from analytics check 2026-08-31, exact date/theme inferred from content, not confirmed against profile feed
+Pillar: The Proof
+Theme: OLC Method Case Study (off-rotation — sales training result, not buyer-facing content)
+Hook: "Three weeks ago I finished training the Nirvana Life sales team in Bali. They're now 70% sold out of their inventory."
+Note: Nirvana Health Club sales training case study result, kept in touch with reps post-training. Best-performing post of the 08-25 to 08-31 window.
+Impressions: 5000 | Reactions: — | Comments: — | Reposts: — | Engagements: 128
+
 ## 2026-08-22 (Saturday, approx.) — verified against profile activity feed 2026-08-26
 Pillar: The Perspective
 Theme: Bali Market
