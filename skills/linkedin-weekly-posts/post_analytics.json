@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-31",
   "pillars_used": {
     "The Educator": 3,
     "The Perspective": 12,
     "The Human": 12,
-    "The Proof": 3,
+    "The Proof": 4,
     "The Journey": 2
   },
   "themes_used": {
@@ -17,7 +17,8 @@
     "Industry Behavior": 2,
     "Island Diversity": 1,
     "Bali Lifestyle": 1,
-    "Personal Business Venture (off-rotation)": 1
+    "Personal Business Venture (off-rotation)": 1,
+    "OLC Method Case Study (off-rotation)": 1
   },
   "pillar_performance": {
     "The Educator": { "avg_impressions": 1696, "avg_reactions": 24, "post_count": 3 },
