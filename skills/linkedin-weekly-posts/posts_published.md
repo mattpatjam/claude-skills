@@ -7,6 +7,22 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-09 (approx., within last 7 days) — from analytics check 2026-09-23, exact date/theme inferred from content, not confirmed against profile feed. Not logged when originally posted (4 week gap in this skill's use, per Matthieu — off work).
+Pillar: The Perspective
+Theme: Lombok Market
+Hook: "I don't share listings here often. Every now and then, something crosses my desk worth breaking that rule for, this is one of those times."
+Note: Rafa Nadal Tennis Academy broke ground on Lombok's south coast, land prices moved 20-30% since, framed as already-happened not forecast.
+Impressions: 230 | Reactions: — | Comments: — | Reposts: — | Engagements: 3
+
+## 2026-09 (approx., within last 7 days) — from analytics check 2026-09-23, exact date/theme inferred from content, not confirmed against profile feed. Not logged when originally posted.
+Pillar: The Journey
+Theme: Personal Identity (Switzerland/Bali, off-rotation, personal)
+Hook: "I grew up here in Switzerland and I've built part of my life in Bali. Somewhere along the way I stopped being able to pick one."
+Note: written while traveling/visiting family in Switzerland, contrasts a normal family afternoon there with a waiting client message, dual-identity reflection.
+Impressions: 52 | Reactions: — | Comments: — | Reposts: — | Engagements: 1
+
+---
+
 ## Held for future use (not yet published)
 Drafted 2026-07-13, bumped from the week of 2026-07-13 to make room for the tax free zone post. Ready to slot into a future week's Bali Market theme.
 Pillar: The Perspective
