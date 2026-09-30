@@ -193,7 +193,7 @@ After the ask, silence must be managed, because the rush to protect yourself pro
 
 ---
 
-## 11. Telephone Prospecting Excellence and the Voice Mail Framework
+## 10. Telephone Prospecting Excellence and the Voice Mail Framework
 
 The telephone is, has always been, and will continue to be the most powerful sales prospecting tool. No other tool delivers better results, fills the pipe faster, or covers more ground in less time. The myth that nobody answers the phone anymore is contradicted by measured contact rates of 15 to 80 percent depending on industry, product, and contact role level, with business services consistently between 25 and 40 percent, and by a single boot-camp day in which 19 insurance agents made 1,311 outbound dials at a 51 percent contact rate. Data going back to the early 1990s shows contact rates via phone have actually *risen* by about 5 percentage points, with three suspected drivers: phones are anchored to people rather than desks (mobile lines, office lines rolling to mobile); no one is calling, so the salesperson who does call stands out; and prospects are burned out on impersonal, irrelevant, often automated prospecting e-mails and are hungry for a live, authentic human being.
 
