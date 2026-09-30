@@ -257,7 +257,7 @@ Three named hacks for when a lower-level blocker will not give up the decision m
 
 ---
 
-## 13. In-Person, E-Mail, and Text Message Prospecting
+## 12. In-Person, E-Mail, and Text Message Prospecting
 
 **In-person prospecting (IPP)** is the least efficient of all channels, because driving around knocking on doors consumes enormous time, and done randomly it burns a day for very few calls. It therefore supplements and complements other channels rather than replacing them, and except for T-Calls and driving past a genuinely new business, every IPP should be planned in advance. It works best for residential and B2B reps in a local territory selling transactional to semi-complex products to small and medium-sized businesses where walking in is possible without hitting a security wall; at large plants it is useful mainly for information gathering by pumping security guards and gatekeepers about decision makers and competitors. Three bad reasons reps make it their primary channel: a false belief that aimless driving is working, managers who believe the only good salesperson is one they cannot see, and fear or inability to use the phone justified as "I'm just better in person." The disarming comparison: 10 to 20 IPPs on a hot or freezing day versus 25 to 50 teleprospecting calls in one hour off a printed list.
 
