@@ -168,7 +168,7 @@ Social prospecting tools fall into five categories: content curation, content cr
 
 ---
 
-## 10. Message Matters: Bridges, the Because, and the Ask
+## 9. Message Matters: Bridges, the Because, and the Ask
 
 There are no magic words and no perfect pitch. The prospecting message has one purpose: to quickly persuade the prospect to give you their time. Asking for a prospect's time is the most difficult request in the entire sales process, harder than asking for a buying decision. Prospects will not give up time for a features dump, an enthusiastic pitch about being number one, regurgitated generic facts and figures, marketing brochures, or irrelevant information. Prospects meet with you for their reasons, not yours, so the message must articulate the value of the meeting in the context of what matters to them and must demonstrate sincere interest in listening to and solving their unique problems.
 
