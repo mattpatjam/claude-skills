@@ -227,7 +227,7 @@ Bonus rule: keep voice mails to 30 seconds, which forces clarity, succinctness, 
 
 ---
 
-## 12. Turning Around RBOs and Getting Past Gatekeepers
+## 11. Turning Around RBOs and Getting Past Gatekeepers
 
 The feeling of rejection is real and it is personal, and the conventional trainer clichés ("let rejection roll off your back," "they're not rejecting you, just your proposition," "don't take it personal") are rejected as disingenuous platitudes. The brain does not distinguish between rejection of the proposition and rejection of you; the physiological reaction runs through the amygdala's fight-or-flight mechanism, which cannot tell the difference between a bear on the path and a prospect saying no, and the psychological sting comes from an innate need to feel accepted, important, and in control. Per Brene Brown, vulnerability is created in the presence of uncertainty, risk, and emotional exposure, which is exactly the condition of a prospecting call. The goal is not to stop feeling rejection but to build a framework that gains control of the disruptive emotion before the call becomes a train wreck.
 
