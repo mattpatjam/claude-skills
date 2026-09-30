@@ -64,7 +64,7 @@ When you are in second place, attack the leader; when you are in first place, at
 
 ---
 
-## 5. Know Your Numbers: Efficiency, Effectiveness, and the Worth of an Hour
+## 4. Know Your Numbers: Efficiency, Effectiveness, and the Worth of an Hour
 
 Sales is and always has been governed by numbers, because the formula is mathematical: what (quality) you put into the pipe and how much (quantity) determines what comes out. Quantity is the science; the quality dimension (size of prospects, qualification level, depth of penetration with decision makers, influencers, and coaches) is part science, part art. Elite athletes can recite their statistics on demand because knowing the numbers is what allows directional correction. Elite salespeople track everything: calls, contacts, e-mails, responses, appointments, sales, social prospecting touches, text messages sent, and new prospects or new information points added to the database.
 
