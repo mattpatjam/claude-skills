@@ -119,7 +119,7 @@ Prospecting is a contact sport that shuns the nuance, art, and finesse of moving
 
 ---
 
-## 8. The Prospecting Pyramid, Powerful Lists, and Owning the Database
+## 7. The Prospecting Pyramid, Powerful Lists, and Owning the Database
 
 Salespeople who struggle view the prospect database as a **square**, treating every prospect the same and attacking the database randomly with no system and no objective. This is statistically inefficient, because only a small number of prospects are in the buying window at any time, so random dialing has a high probability of reaching poorly qualified prospects. The result is ineffective blocks, far more rejection, low productivity, and damaged confidence and self-esteem.
 
