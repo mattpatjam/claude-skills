@@ -44,6 +44,8 @@ The table above is a rough map. For the current book-by-book contents of each sh
 
 **Questions span shelves.** A hiring-and-culture question touches `hr` and `leadership-and-management`. A "how do I structure this partner deal" question touches `fundraising-equity-and-deal-structuring` and `negotiation-and-closing`. Pick every plausibly relevant shelf, not the single best guess. Two or three shelves is normal; one is fine when the question is clearly single-domain.
 
+**`sales` vs `negotiation-and-closing`.** These two split what used to be one shelf, so check both on almost any deal question. `sales` is the system: how reps get hired, trained, and measured, how pipeline gets built, how a consultative sales call is structured. `negotiation-and-closing` is the encounter: tactics for the conversation where terms get agreed. "How do I build a setter/closer team" is `sales`. "How do I counter this offer" is `negotiation-and-closing`. "Why is my close rate low" is both. Questions about hiring or coaching salespeople also touch `hr` and `coaching-and-training`.
+
 ---
 
 ## Step 3: Read the Books
