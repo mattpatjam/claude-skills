@@ -31,7 +31,7 @@ There is no one-size-fits-all formula. The correct distribution is set by indust
 
 ---
 
-## 3. The Three Laws of Prospecting and the Anatomy of a Sales Slump
+## 2. The Three Laws of Prospecting and the Anatomy of a Sales Slump
 
 Top sales professionals spend as much as 80 percent of their time on prospecting and qualifying activity, to get up to the plate often and string together singles, doubles, triples, and a few home runs. Three core laws govern whether a steady stream of prospects keeps moving into the pipe:
 
