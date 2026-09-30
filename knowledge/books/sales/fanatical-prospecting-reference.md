@@ -96,7 +96,7 @@ Blocks must be treated as sacred appointments with yourself, scheduled on the ca
 
 ---
 
-## 7. The Four Objectives of Prospecting
+## 6. The Four Objectives of Prospecting
 
 Knowing the objective of each prospecting touch makes you efficient, because touches can be grouped into blocks by objective, and effective, because you know exactly what to ask for and how to bridge to the prospect's problems. The objective is the primary outcome expected from the touch. There are four core objectives: **set an appointment**, **gather information and qualify**, **close a sale**, and **build familiarity**. Rules of thumb for assigning them:
 
