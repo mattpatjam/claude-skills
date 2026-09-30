@@ -140,7 +140,7 @@ The CRM is framed as the most important tool in the sales arsenal, because it ma
 
 ---
 
-## 9. The Law of Familiarity and Social Selling
+## 8. The Law of Familiarity and Social Selling
 
 **The Law of Familiarity**: the more familiar a prospect is with you, your brand, or your company, the more likely they are to accept and return calls, open e-mails, accept a social connection request, respond to a text, accept an event or webinar invitation, download from a link, engage in sales conversations, and ultimately buy. Lack of familiarity is why requests for time draw so many objections. Familiarity lubricates prospecting because it makes the decision to give you time feel less risky. Sean Burke's **Familiarity Threshold** is the point at which a prospect will readily communicate and hold a first-name relationship even when not currently interested in buying, and crossing it also earns permission to use social inboxes and text messaging without being considered intrusive. Because crossing it requires significant investment of time, intellect, emotion, energy, and technology, it can only be done with a conquest list and strategic prospecting plans, not with everyone.
 
