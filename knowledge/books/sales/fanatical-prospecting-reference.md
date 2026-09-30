@@ -81,7 +81,7 @@ The corollary discipline is **knowing your worth per hour**: Annual Income Goal 
 
 ---
 
-## 6. Time: Golden Hours, Platinum Hours, and Time Blocking
+## 5. Time: Golden Hours, Platinum Hours, and Time Blocking
 
 Asked their greatest sales challenge more than 10,000 times, 80 percent of sales professionals and leaders name time management. For salespeople, most time-management problems are self-inflicted. Every salesperson has 24 hours, only a handful of which are available for selling.
 
