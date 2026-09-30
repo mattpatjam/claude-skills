@@ -43,7 +43,7 @@ Ninety-nine percent of sales slumps link directly to a failure to prospect. The 
 
 ---
 
-## 4. The Three Ps That Hold You Back, and Mental Toughness
+## 3. The Three Ps That Hold You Back, and Mental Toughness
 
 Three mindsets hold salespeople back from prospecting.
 
