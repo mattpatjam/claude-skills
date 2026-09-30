@@ -5,7 +5,7 @@
 
 ---
 
-## 1. The Case for Prospecting and the Seven Mindsets
+## 1. The Case for Prospecting, the Seven Mindsets, and the Fine Art of Interrupting
 
 The book's central claim is a Paradox of Basics, a truth so obvious it has become invisible: the top 20 percent of salespeople who produce 80 percent of sales are separated from everyone else by one thing, fanatical prospecting. Not talent, not skills, not territory, not product, not presentation ability, not closing technique, not sales managers. The number one reason for failure in sales is an empty pipe, and the root cause of an empty pipeline is the failure to prospect. Blount's working definition of fanatical is taken from the dictionary: "motivated or characterized by an extreme, uncritical enthusiasm." The enduring mantra of the fanatical prospector is *one more call*.
 
