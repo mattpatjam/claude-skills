@@ -8,7 +8,7 @@ argument-hint: [the question]
 
 Answers a business question by reading the actual book-framework files in the knowledge base and synthesizing a recommendation across them, with every point cited to the book it came from. Not a passage dump, not a book report — a direct answer to the question, grounded in what the books actually say.
 
-Knowledge base: `.claude/knowledge/books/<category-slug>/*.md` — one file per book, pure framework reference, 12 category shelves. Shelves fill in over time; only some have content at any given moment. This skill must work correctly no matter how many are built out.
+Knowledge base: `.claude/knowledge/books/<category-slug>/*.md` — one file per book, pure framework reference, 13 category shelves. Shelves fill in over time; only some have content at any given moment. This skill must work correctly no matter how many are built out.
 
 The static dashboard at `Automations/knowledge-dashboard/` is the browse/search tool. This skill is the reasoning layer on top of the same content.
 
@@ -22,7 +22,7 @@ The question is `$1` if passed as an argument, otherwise whatever Matthieu just 
 
 ## Step 2: Pick the Relevant Shelves
 
-The 12 category slugs under `.claude/knowledge/books/`:
+The 13 category slugs under `.claude/knowledge/books/`:
 
 | Slug | Covers |
 |---|---|
@@ -34,7 +34,8 @@ The 12 category slugs under `.claude/knowledge/books/`:
 | `marketing` | Positioning, persuasion, copywriting, offers, lead gen, brand growth |
 | `hr` | Hiring, engagement, culture, motivation, people ops, retention |
 | `coaching-and-training` | Performance coaching, deliberate practice, learning science, sales coaching |
-| `negotiation-and-closing` | Negotiation tactics, consultative selling, B2B sales, pitching, outbound |
+| `negotiation-and-closing` | Negotiation tactics, bargaining strategy, pitching, winning the deal in the room |
+| `sales` | Building and running a sales team, hiring and ramping reps, prospecting and outbound, consultative selling method, pipeline and quota management |
 | `leadership-and-management` | Executive effectiveness, team health, feedback, crisis management, ops style |
 | `systems-and-operations` | Business operating systems, process, working ON vs IN the business |
 | `fundraising-equity-and-deal-structuring` | Term sheets, cap tables, vesting, ESOPs |
