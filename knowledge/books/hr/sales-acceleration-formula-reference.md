@@ -3,7 +3,7 @@
 *Pure framework. No company-specific application. Pull from here when building skills, designing hiring processes, or advising on team-building.*
 *Book: "The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to go from $0 to $100 Million" — Mark Roberge*
 
-*Status: IN PROGRESS. Built from Matthieu's reading notes, section by section, verified against the book as we go. Part One captured. Parts Two onward pending.*
+*Status: IN PROGRESS. Built from Matthieu's reading notes, section by section, verified against the book as we go. Part One: Sales Hiring Formula captured, plus Finding Top-Performing Salespeople. Parts Two onward pending.*
 
 ---
 
