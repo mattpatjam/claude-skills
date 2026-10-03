@@ -102,6 +102,75 @@ Note the absence of what conventional sales hiring screens for: no closing abili
 
 ---
 
+## FINDING TOP-PERFORMING SALESPEOPLE
+
+### 5. Core Premise: Recruiting Must Be Passive
+
+**Great salespeople never need to apply for a job.** They are employed, performing, and being paid well for it. They are not reading job boards.
+
+Everything follows from this. If your pipeline consists of people who applied, you are by definition selecting from the population that needed to apply. A passive recruiting strategy, going out and finding people who are not looking, is therefore not an optional enhancement to inbound applications. It is the only way to reach the target population.
+
+### 6. Who Does the Recruiting
+
+Roberge's position, stated as three rules:
+
+1. **Do not hire a recruiting agency.**
+2. **Do not build a corporate recruiting team.**
+3. **Build a recruiting agency within your corporation.**
+
+The distinction between the second and third is the point. A corporate recruiting function is an HR service centre that processes requisitions. A recruiting agency inside the company does what an external agency does (proactive sourcing, outreach, pipeline building, candidate relationship management) but with the company's own context, incentives, and knowledge of what good looks like, and without the agency's incentive to close any placement rather than the right one.
+
+### 7. The Four-Step Sourcing Process
+
+#### Step 1: Source a candidate list via LinkedIn search
+
+Use LinkedIn's search capability to build a list of qualified candidates. Screening criteria to search on:
+
+- **Location**
+- **Job title**
+- **Schools** (used as a proxy for intelligence)
+- **Company**
+
+#### Step 2: Screen the results using profile detail
+
+Indicators of sales excellence visible on a LinkedIn profile:
+
+| Indicator | What it tells you |
+|---|---|
+| **Rankings within their team** | Direct evidence of prior success. A rep who states "ranked 2 of 47" is giving you the trait you most want to measure. |
+| **Longevity at current or former employers** | Reps who leave constantly are usually leaving for a reason. Tenure suggests both performance and stability. |
+| **Alignment between their current buyer context and yours** | The core premise of the hiring formula applied to screening. A rep succeeding in a context like yours is far more likely to succeed in yours than an equally talented rep from an unlike context. |
+| **Where they went to school** | Intelligence proxy. |
+| **Quality of their LinkedIn profile** | Treated as a work sample. A salesperson's own profile is a piece of positioning and writing, done for themselves. |
+
+#### Step 3: Engage the pre-screened candidates
+
+Mechanics that matter:
+
+- **Prefer a second-degree connection.** Warm beats cold, the same as in sales.
+- **Use their current company or their school as the email subject line.** It is the thing most likely to be recognised and opened.
+- **Keep the email appropriately brief.**
+- **Never ask them directly.** Do not open by asking whether they want a job.
+
+Instead, ask for a referral. The pattern:
+
+> "Our current team can't keep up with the inbound lead flow, so we are expanding the team. Your background is similar to those of our current top performers. Are there any folks in your network who are in the job market and have a background similar to yours?"
+
+Three things this does at once: it pays the recipient a specific compliment (your background matches our top performers), it removes any threat or pressure by not asking anything of them personally, and it opens the network behind the candidate rather than just the candidate.
+
+- **Always ask your own team for referrals too.** Who do they think would fit the team?
+- **Understand the sales talent pool in your area.** Treated as a standing requirement, not a one-off exercise. You cannot source passively from a pool you have not mapped.
+
+#### Step 4: The ideal first sales hire
+
+When facing the first sales hire decision, many founders weight **senior leadership experience** and **industry domain knowledge** most heavily. This is a trap.
+
+**The most critical value from the first sales hire is not the first customers or the revenue she generates. It is her ability to accelerate the company toward product-market fit.**
+
+The first sales hire is in the only seat that hears unfiltered objections, confusions, and desires from the market at volume. That feedback is worth more at that stage than the bookings, and it calls for a different profile than seniority and a rolodex.
+
+---
+
 ## Cross-Book Connections
 
 ### Tension with *Who* (Smart & Street), on the HR shelf
