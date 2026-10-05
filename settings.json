@@ -9,8 +9,8 @@
         "hooks": [
           {
             "type": "command",
-            "command": "cd /Users/matt/Desktop/Claude && git add -A && git commit -m \"Auto-sync $(date '+%Y-%m-%d %H:%M')\" && git push 2>/dev/null || true",
-            "timeout": 30,
+            "command": "/Users/matt/Desktop/Claude/.claude/hooks/git-sync.sh /Users/matt/Desktop/Claude",
+            "timeout": 60,
             "statusMessage": "Syncing to GitHub..."
           }
         ]
