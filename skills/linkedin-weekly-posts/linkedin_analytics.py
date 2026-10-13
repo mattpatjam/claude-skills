@@ -132,27 +132,31 @@ PROFILE_JS = r"""() => {
             else { impressions = Math.round(n); }
         }
 
-        // Counts live in aria-labels ("18 comments", "97 reactions") and only when
-        // non-zero. The Comment/Repost buttons themselves render a zero-width space.
-        const labels = Array.from(container.querySelectorAll('[aria-label]'))
-            .map(el => el.getAttribute('aria-label') || '');
+        // Counts are the VISIBLE TEXT of the action buttons, not their aria-labels.
+        // The aria-label names the control ("Comment", "Repost", "Reaction button
+        // state: no reaction") while innerText carries the number, or a zero-width
+        // space when the count is zero.
+        const buttons = Array.from(container.querySelectorAll('button'));
+        const btnCount = (labelRe) => {
+            const b = buttons.find(x => labelRe.test(x.getAttribute('aria-label') || ''));
+            if (!b) return null;
+            const m = (b.innerText || '').replace(/​/g, '').match(/[\d,]+/);
+            return m ? parseInt(m[0].replace(/,/g, ''), 10) : 0;
+        };
+        // Fallback for layouts that do expose counts in aria-labels instead.
         const fromLabels = (re) => {
-            for (const l of labels) {
-                const m = l.match(re);
+            for (const el of container.querySelectorAll('[aria-label]')) {
+                const m = (el.getAttribute('aria-label') || '').match(re);
                 if (m) return parseInt(m[1].replace(/,/g, ''), 10);
             }
             return null;
         };
-        let reactions = fromLabels(/([\d,]+)\s+reactions?/i);
-        if (reactions === null) {
-            // Reaction count also sits as the visible text of the reaction button.
-            const rb = Array.from(container.querySelectorAll('button'))
-                .find(b => /^Reaction button state/i.test(b.getAttribute('aria-label') || ''));
-            const m = rb && (rb.innerText || '').match(/[\d,]+/);
-            if (m) reactions = parseInt(m[0].replace(/,/g, ''), 10);
-        }
-        const comments = fromLabels(/([\d,]+)\s+comments?/i);
-        const reposts = fromLabels(/([\d,]+)\s+reposts?/i);
+        let reactions = btnCount(/^Reaction button state/i);
+        if (reactions === null) reactions = fromLabels(/([\d,]+)\s+reactions?/i);
+        let comments = btnCount(/^Comment$/i);
+        if (comments === null) comments = fromLabels(/([\d,]+)\s+comments?/i);
+        let reposts = btnCount(/^Repost$/i);
+        if (reposts === null) reposts = fromLabels(/([\d,]+)\s+reposts?/i);
 
         const ageM = ctext.match(/(?:^|\n)\s*(\d+)\s*(mo|yr|m|h|d|w)\b/i);
         const age = ageM ? (ageM[1] + ageM[2].toLowerCase()) : null;
