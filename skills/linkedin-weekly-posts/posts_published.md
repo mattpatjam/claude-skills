@@ -3,7 +3,12 @@
 Log of all posts chosen and published. Used by the skill to avoid repeating themes and pillars from the last 60 days.
 Engagement data (`Impressions`, `Reactions`, `Comments`, `Reposts`) is filled in the following week during the analytics check (Step 2).
 
-Verified against LinkedIn's own analytics dashboard (creator/content top-performing posts + profile activity feed) on 2026-07-06. Several entries below were corrected from earlier estimates that significantly under-reported real performance.
+MEASUREMENT SOURCE (changed 2026-10-13): figures come from the PROFILE ACTIVITY FEED, not the creator-analytics dashboard.
+The dashboard under-reports badly (it gave 2,161 for a post the feed measured at 10,018, a 78% gap) and surfaces only ~3 posts where the feed had 8.
+`linkedin_analytics.py` was rewritten on 2026-10-13 to read the feed per-post; it also had an off-by-one bug that paired each post's metrics with the NEXT post's text.
+Run `--source both` to re-check the two sources against each other. Entries marked "profile feed, verified" were measured with the fixed scraper.
+
+Earlier note: verified against LinkedIn's analytics dashboard on 2026-07-06. Several entries below were corrected from estimates that significantly under-reported real performance.
 
 ---
 
@@ -27,42 +32,42 @@ Pillar: The Human
 Theme: New Role / Observation Period (off-rotation, Far Past + Bali case)
 Hook: "When I became Operations Director of a Swiss coffee group, I started changing things in month one. By month three, half the staff had stopped telling me anything."
 Note: Far Past Swiss coffee group lesson (changed processes before understanding why they existed, lost the team through silence), tied to a Bali buyer who negotiated an Ubud plot directly with no agent, closed, then found a problem when a lawyer reviewed it. Closing line: "An observation period does not buy you information. It buys you the ability to tell a good deal apart from a good feeling." IMPORTANT: this post already covers the new-role / induction / observation-mode angle. Do not repeat it this cycle.
-Impressions: 1545 | Reactions: 11 | Comments: — | Reposts: —
+Impressions: 1555 | Reactions: 11 | Comments: 0 | Reposts: 0 (profile feed, verified)
 
 ## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13, missed by the creator-analytics dashboard
 Pillar: The Educator
 Theme: Branded Residences / Price Premium
 Hook: "Branded residential communities in Bali can sell for close to double the price/m2 of an identical unbranded villa down the road."
 Note: built on BCG global real estate research (branded developments rent 20-30% more, sales premiums up to double), argument that buyers pay for the enforced guarantee behind the brand (quality standards, schedule, management locked in) rather than the name. Shared a BCG link, which likely suppressed reach. Lowest reach of the window.
-Impressions: 473 | Reactions: 6 | Comments: 2 | Reposts: —
+Impressions: 473 | Reactions: 6 | Comments: 2 | Reposts: 0 (profile feed, verified)
 
 ## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13, missed by the creator-analytics dashboard
 Pillar: The Journey
 Theme: Presence / Time (off-rotation, personal)
 Hook: "Unlike Hugh Grant, I did not get four weddings and one funeral this year. I got two of each, and it happened in one month."
 Note: two weeks off LinkedIn for family travel, reflection on treating a day as wasted unless something is produced. Teased the career news at the end. Strong performer on a purely personal angle.
-Impressions: 3852 | Reactions: 24 | Comments: 1 | Reposts: —
+Impressions: 3852 | Reactions: 24 | Comments: 1 | Reposts: 0 (profile feed, verified)
 
 ## 2026-10-08 (approx., 5d before check) — verified against profile activity feed 2026-10-13
 Pillar: The Perspective
 Theme: Bali Market (infrastructure angle)
 Hook: "I waited two hours for my luggage at Bali airport last week. That is not a travel complaint, it is the clearest infrastructure signal I have seen all year."
 Note: airport queue used as an entry point into what Bali is actually building. Highest impressions of the window but weakest engagement rate (0.52%), observational rather than personal-stake.
-Impressions: 2323 | Reactions: — | Comments: — | Reposts: — | Engagements: 12
+Impressions: 2334 | Reactions: 10 | Comments: 2 | Reposts: 0 (profile feed, verified)
 
-## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13
 Pillar: The Journey
 Theme: Career Transition (off-rotation, personal)
 Hook: "Yesterday was my last day at Bali Exception Sales after five years."
-Note: departure post, joined as junior salesperson and left as Senior Sales Manager. Paired with the Bali Superhost announcement below as a two-part sequence. CORRECTED 2026-10-13: the creator-analytics dashboard reported 2208 impressions / 13 engagements for this post, but the profile activity feed shows 9,999 impressions, 97 reactions and 18 comments. The profile feed is the reliable figure. Treat creator-analytics "top performing" numbers as a floor, not a measurement, and cross-check against the profile feed each week.
-Impressions: 9999 | Reactions: 97 | Comments: 18 | Reposts: — (profile feed, verified)
+Note: departure post, joined as junior salesperson and left as Senior Sales Manager. Paired with the Bali Superhost announcement below as a two-part sequence. CORRECTED 2026-10-13: the creator-analytics dashboard reported 2208 impressions / 13 engagements for this post, but the profile activity feed shows 10,018 impressions, 97 reactions and 18 comments. The profile feed is the reliable figure. Treat creator-analytics "top performing" numbers as a floor, not a measurement, and cross-check against the profile feed each week.
+Impressions: 10018 | Reactions: 97 | Comments: 18 | Reposts: 0 (profile feed, verified 2026-10-13)
 
-## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13
 Pillar: The Journey
 Theme: Career Transition (off-rotation, personal)
 Hook: "Five years in the same seat, and yesterday I walked into a company with more than 1,500 employees in Bali. Here is what I am actually doing there, I said I had news coming - this is it:"
-Note: Bali Superhost / Director of Business Development announcement, dual remit (acquire villas/properties + brokerage). Best engagement rate of the window at 1.31%, 2.5x the observational post above despite lower impressions. Signal: personal-stake posts out-engage market commentary on this account right now.
-Impressions: 2137 | Reactions: — | Comments: — | Reposts: — | Engagements: 28
+Note: Bali Superhost / Director of Business Development announcement, dual remit (acquire villas/properties + brokerage). Best engagement rate of the window at 1.9% (86 reactions + 19 comments on 5,566 impressions) against 1.15% for the departure post, which out-reached it. Signal: personal-stake posts out-engage market commentary on this account right now.
+Impressions: 5566 | Reactions: 86 | Comments: 19 | Reposts: 0 (profile feed, verified; creator-analytics dashboard had reported only 2137/28)
 
 ---
 
