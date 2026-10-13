@@ -314,16 +314,16 @@ def main():
 
             diffs, unmatched = [], []
             for ap_ in anal["posts"]:
+                # The dashboard often yields a mid-post fragment, so match it
+                # against each profile post's FULL body, not just its opening.
                 an = norm(ap_.get("text_preview") or ap_.get("hook"))
                 hit = None
-                for pp in prof["posts"]:
-                    pn = norm(pp.get("text_preview") or pp.get("hook"))
-                    if not an or not pn:
-                        continue
-                    probe = an[:60]
-                    if probe and (probe in pn or pn[:60] in an):
-                        hit = pp
-                        break
+                if len(an) >= 25:
+                    for pp in prof["posts"]:
+                        pn = norm(pp.get("full_text") or pp.get("text_preview"))
+                        if pn and an[:80] in pn:
+                            hit = pp
+                            break
                 if not hit:
                     unmatched.append(ap_.get("hook", "")[:60])
                     continue
