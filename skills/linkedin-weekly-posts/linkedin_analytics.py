@@ -308,15 +308,39 @@ def main():
         prof, anal = scrape_profile(days, a.scroll), scrape_analytics()
         res = {"profile_feed": prof, "creator_analytics": anal}
         if "posts" in prof and "posts" in anal:
-            pm = {p["hook"][:40]: p.get("impressions") for p in prof["posts"] if p.get("hook")}
-            diffs = []
+            def norm(s):
+                return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+
+            diffs, unmatched = [], []
             for ap_ in anal["posts"]:
-                k = ap_["hook"][:40]
-                if k in pm and pm[k] and ap_["impressions"]:
-                    if abs(pm[k] - ap_["impressions"]) / max(pm[k], 1) > 0.1:
-                        diffs.append({"hook": k, "profile_feed": pm[k],
-                                      "creator_analytics": ap_["impressions"]})
+                an = norm(ap_.get("text_preview") or ap_.get("hook"))
+                hit = None
+                for pp in prof["posts"]:
+                    pn = norm(pp.get("text_preview") or pp.get("hook"))
+                    if not an or not pn:
+                        continue
+                    probe = an[:60]
+                    if probe and (probe in pn or pn[:60] in an):
+                        hit = pp
+                        break
+                if not hit:
+                    unmatched.append(ap_.get("hook", "")[:60])
+                    continue
+                pv, av = hit.get("impressions"), ap_.get("impressions")
+                if pv and av and abs(pv - av) / max(pv, 1) > 0.1:
+                    diffs.append({
+                        "hook": hit.get("hook", "")[:60],
+                        "profile_feed": pv,
+                        "creator_analytics": av,
+                        "dashboard_under_reports_by": f"{(pv - av) / max(pv, 1) * 100:.0f}%",
+                    })
             res["discrepancies"] = diffs or "none over 10%"
+            if unmatched:
+                res["unmatched_analytics_posts"] = unmatched
+            res["coverage"] = {
+                "profile_feed_posts": len(prof["posts"]),
+                "creator_analytics_posts": len(anal["posts"]),
+            }
 
     print(json.dumps(res, indent=2))
     if isinstance(res, dict) and res.get("error"):
