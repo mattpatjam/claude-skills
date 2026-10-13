@@ -7,6 +7,14 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-10-16 (Thursday) — CHOSEN, pending publication
+Pillar: The Educator
+Theme: Legal Framework (Bingin Beach redevelopment / spatial planning)
+Hook: "Remember the outcry when the government demolished 48 buildings at Bingin Beach. The rebuild plan is public now, and it is a lot smaller than people assumed."
+Note: Only post selected for the week of 2026-10-13 (Matthieu chose Thursday only). 1,575 chars, humanized. Phase one itemised from PUPR head I Nyoman Karyasa's direct quote in NusaBali (18 May 2026, article 220990): beach access plus ~3m cliffside staircase, clean water network, rinse areas (tempat bilas), public toilets, land grading (pematangan lahan) for wooden stalls (kedai-kedai berbahan kayu) and a performance stage (stage pertunjukan). Phase two = 2027, scope never published. Commercial conclusion unique to this post: replacement frontage is government built on state land, allocated by the regency, so Bingin beachfront does not return as private leasable frontage.
+DATE RESOLUTION: the "June or July" construction estimate applies to PHASE ONE physical work in 2026, not phase two in 2027. Honeycombers misattributed it to 2027 (and contradicted itself with mid-2026 in its own FAQ). NusaBali primary source is authoritative. Open item: unverified whether the tender was awarded or works began, flagged to Matthieu to check on the ground.
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
 ## 2026-10-09 (approx., 4d before check) — verified against profile activity feed 2026-10-13, missed entirely by the creator-analytics dashboard
 Pillar: The Human
 Theme: New Role / Observation Period (off-rotation, Far Past + Bali case)
