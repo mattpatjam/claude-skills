@@ -7,6 +7,29 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+Pillar: The Perspective
+Theme: Bali Market (infrastructure angle)
+Hook: "I waited two hours for my luggage at Bali airport last week. That is not a travel complaint, it is the clearest infrastructure signal I have seen all year."
+Note: airport queue used as an entry point into what Bali is actually building. Highest impressions of the window but weakest engagement rate (0.52%), observational rather than personal-stake.
+Impressions: 2323 | Reactions: — | Comments: — | Reposts: — | Engagements: 12
+
+## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+Pillar: The Journey
+Theme: Career Transition (off-rotation, personal)
+Hook: "Yesterday was my last day at Bali Exception Sales after five years."
+Note: departure post, joined as junior salesperson and left as Senior Sales Manager. Paired with the Bali Superhost announcement below as a two-part sequence.
+Impressions: 2208 | Reactions: — | Comments: — | Reposts: — | Engagements: 13
+
+## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+Pillar: The Journey
+Theme: Career Transition (off-rotation, personal)
+Hook: "Five years in the same seat, and yesterday I walked into a company with more than 1,500 employees in Bali. Here is what I am actually doing there, I said I had news coming - this is it:"
+Note: Bali Superhost / Director of Business Development announcement, dual remit (acquire villas/properties + brokerage). Best engagement rate of the window at 1.31%, 2.5x the observational post above despite lower impressions. Signal: personal-stake posts out-engage market commentary on this account right now.
+Impressions: 2137 | Reactions: — | Comments: — | Reposts: — | Engagements: 28
+
+---
+
 ## 2026-09 (approx., within last 7 days) — from analytics check 2026-09-23, exact date/theme inferred from content, not confirmed against profile feed. Not logged when originally posted (4 week gap in this skill's use, per Matthieu — off work).
 Pillar: The Perspective
 Theme: Lombok Market
