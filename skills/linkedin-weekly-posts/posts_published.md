@@ -7,6 +7,13 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-10-13 (Monday) — PUBLISHED by Matthieu during the session
+Pillar: The Perspective
+Theme: Bali Market (management fee economics / labour costs)
+Hook: "A villa management fee at half the market rate is not a discount. Somebody downstream absorbs it, and it is usually the person cleaning your villa."
+Note: Tuesday Option 1 from the week of 2026-10-13, posted Monday instead. Argument: Badung's statutory minimum wage (IDR 3,791,003/month) is a fixed floor, so a halved management fee comes out of hours, headcount, benefits or insurance, which drives turnover and then service quality. Includes the line about being proud to work for a company that pays full salaries, benefits and health insurance, plus the point that owners choose the fee. NOTE: Matthieu's original "$200/month cleaner" figure was corrected to the statutory IDR 3.79M (~$210-230) before drafting, since $200 sits just below the legal minimum.
+Impressions: 89 | Reactions: 1 | Comments: 0 | Reposts: 0 (first hour only, recheck next week)
+
 ## 2026-10-16 (Thursday) — CHOSEN, pending publication
 Pillar: The Educator
 Theme: Legal Framework (Bingin Beach redevelopment / spatial planning)
