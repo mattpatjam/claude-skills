@@ -7,7 +7,7 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
-## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
+## 2026-10-08 (approx., 5d before check) — verified against profile activity feed 2026-10-13
 Pillar: The Perspective
 Theme: Bali Market (infrastructure angle)
 Hook: "I waited two hours for my luggage at Bali airport last week. That is not a travel complaint, it is the clearest infrastructure signal I have seen all year."
