@@ -7,6 +7,27 @@ Verified against LinkedIn's own analytics dashboard (creator/content top-perform
 
 ---
 
+## 2026-10-09 (approx., 4d before check) — verified against profile activity feed 2026-10-13, missed entirely by the creator-analytics dashboard
+Pillar: The Human
+Theme: New Role / Observation Period (off-rotation, Far Past + Bali case)
+Hook: "When I became Operations Director of a Swiss coffee group, I started changing things in month one. By month three, half the staff had stopped telling me anything."
+Note: Far Past Swiss coffee group lesson (changed processes before understanding why they existed, lost the team through silence), tied to a Bali buyer who negotiated an Ubud plot directly with no agent, closed, then found a problem when a lawyer reviewed it. Closing line: "An observation period does not buy you information. It buys you the ability to tell a good deal apart from a good feeling." IMPORTANT: this post already covers the new-role / induction / observation-mode angle. Do not repeat it this cycle.
+Impressions: 1545 | Reactions: 11 | Comments: — | Reposts: —
+
+## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13, missed by the creator-analytics dashboard
+Pillar: The Educator
+Theme: Branded Residences / Price Premium
+Hook: "Branded residential communities in Bali can sell for close to double the price/m2 of an identical unbranded villa down the road."
+Note: built on BCG global real estate research (branded developments rent 20-30% more, sales premiums up to double), argument that buyers pay for the enforced guarantee behind the brand (quality standards, schedule, management locked in) rather than the name. Shared a BCG link, which likely suppressed reach. Lowest reach of the window.
+Impressions: 473 | Reactions: 6 | Comments: 2 | Reposts: —
+
+## 2026-10 (approx., 1w before check) — verified against profile activity feed 2026-10-13, missed by the creator-analytics dashboard
+Pillar: The Journey
+Theme: Presence / Time (off-rotation, personal)
+Hook: "Unlike Hugh Grant, I did not get four weddings and one funeral this year. I got two of each, and it happened in one month."
+Note: two weeks off LinkedIn for family travel, reflection on treating a day as wasted unless something is produced. Teased the career news at the end. Strong performer on a purely personal angle.
+Impressions: 3852 | Reactions: 24 | Comments: 1 | Reposts: —
+
 ## 2026-10-08 (approx., 5d before check) — verified against profile activity feed 2026-10-13
 Pillar: The Perspective
 Theme: Bali Market (infrastructure angle)
