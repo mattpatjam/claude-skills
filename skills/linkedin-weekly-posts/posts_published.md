@@ -18,8 +18,8 @@ Impressions: 2323 | Reactions: — | Comments: — | Reposts: — | Engagements:
 Pillar: The Journey
 Theme: Career Transition (off-rotation, personal)
 Hook: "Yesterday was my last day at Bali Exception Sales after five years."
-Note: departure post, joined as junior salesperson and left as Senior Sales Manager. Paired with the Bali Superhost announcement below as a two-part sequence.
-Impressions: 2208 | Reactions: — | Comments: — | Reposts: — | Engagements: 13
+Note: departure post, joined as junior salesperson and left as Senior Sales Manager. Paired with the Bali Superhost announcement below as a two-part sequence. CORRECTED 2026-10-13: the creator-analytics dashboard reported 2208 impressions / 13 engagements for this post, but the profile activity feed shows 9,999 impressions, 97 reactions and 18 comments. The profile feed is the reliable figure. Treat creator-analytics "top performing" numbers as a floor, not a measurement, and cross-check against the profile feed each week.
+Impressions: 9999 | Reactions: 97 | Comments: 18 | Reposts: — (profile feed, verified)
 
 ## 2026-10 (approx., within last 7 days) — from analytics check 2026-10-13, exact date inferred from content, not confirmed against profile feed
 Pillar: The Journey
