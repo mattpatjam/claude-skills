@@ -59,26 +59,36 @@ Run the scraper via Bash:
 /Users/matt/Desktop/Claude/.venv/bin/python3 /Users/matt/Desktop/Claude/.claude/skills/linkedin-weekly-posts/linkedin_analytics.py
 ```
 
-Parse the JSON output. It returns `posts` array with `impressions`, `engagements`, `hook`, and `text_preview` for the top 3 posts from the last 7 days.
+It reads the **profile activity feed**, which is authoritative. Do not use the creator-analytics dashboard as the source of truth: on 2026-10-13 it under-reported one post by 78% (2,161 against the feed's 10,018) and surfaced only 3 posts where the feed had 8.
+
+Output is a `posts` array sorted by impressions, each with `impressions`, `impressions_rounded`, `reactions`, `comments`, `reposts`, `age` (e.g. `5d`, `1w`), `age_days`, `hook`, `text_preview`, `full_text`, `full_len`. Top level carries `counters_found`, `posts_parsed` and, when something looks off, `warnings`.
+
+Useful flags:
+- `--days 14` widen the window (default 7), `--all` for no date filter
+- `--source both` scrape the feed and the dashboard, report `discrepancies` and `coverage`
+- `--source analytics` dashboard only (best effort parsing, mid-post fragments are common)
+
+**Checks before trusting the output:**
+- `counters_found` should equal `posts_parsed`. A gap means posts were dropped.
+- Any `warnings` entry means a post's body or date was recovered by fallback. Read them.
+- `impressions_rounded: true` means LinkedIn displayed a rounded `K`/`M` value, so the number is approximate.
 
 **If output contains `"error"`:** Tell Matthieu what went wrong. If error says "li_at cookie may have expired", ask him to:
 1. Open Chrome → LinkedIn → DevTools (F12) → Application → Cookies → `.linkedin.com` → `li_at` → copy the Value
 2. Paste the new value into `.env` replacing the `LI_AT=` line
 Then retry once.
 
-**If scraping succeeds:** Present the results clearly:
+**If scraping succeeds:** Present the results clearly, newest window first:
 ```
-Last 7 days — Top performing posts:
+Last 7 days (profile feed):
 
-1. [impressions] impressions • [engagements] engagements
+1. [impressions] impressions • [reactions] reactions • [comments] comments • [age]
    "[hook]"
 
-2. [impressions] impressions • [engagements] engagements
-   "[hook]"
-
-3. [impressions] impressions • [engagements] engagements
-   "[hook]"
+2. ...
 ```
+Compute and mention the engagement rate where it is informative, since impressions on this account cluster tightly while engagement separates posts sharply.
+
 Log these to the tracking files immediately (format below), then proceed to Step 3.
 
 Log format for `.claude/skills/linkedin-weekly-posts/posts_published.md`:
