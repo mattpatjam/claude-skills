@@ -170,6 +170,7 @@ PROFILE_JS = r"""() => {
             age,
             hook: body.split('\n')[0].slice(0, 220),
             text_preview: body.slice(0, 400),
+            full_text: body.slice(0, 2500),
             full_len: body.length,
         });
     }
