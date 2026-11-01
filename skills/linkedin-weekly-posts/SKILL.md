@@ -20,31 +20,37 @@ Runs the full weekly LinkedIn content creation workflow for Matthieu. Sequence i
 
 ## Step 1: Gather Recent Past (Required — Never Skip)
 
-Ask these 3 questions one at a time in natural conversation. Wait for each answer before asking the next. Do not bundle them.
+Matthieu is Head of Business Development at Bali Superhost (villa management) and is setting up its sales brokerage. He meets villa owners and investors before they sign. He does not handle guest complaints or day-to-day operations, so never ask about those.
 
-**Q1:** "What happened this week in a deal, viewing, or client conversation that surprised you, frustrated you, or taught you something? Even something small counts."
+Before the questions, say once: "Easiest is a voice note or rough notes, in your own words. I'll keep your phrasing." His raw words are the main material for the posts, so take them as given.
 
-**Q2:** "Any observation about a buyer, seller, or the market that stuck with you this week?"
+Ask these 4 questions one at a time in natural conversation. Wait for each answer before asking the next. Do not bundle them.
 
-**Q3:** "Anything you said to a client this week that landed well, or that you wish you'd said differently?"
+**Q1 (The pitch):** "What did a villa owner or prospect say in a meeting this week that stuck with you? A question, an objection, a reason they said yes or no."
 
-**Q4:** "What's something you're working through or learning right now as a professional — a deal dynamic, a market shift, a skill you're developing? Doesn't need to be resolved."
+**Q2 (The market):** "What's shifting in Bali villas or rentals right now that owners or investors should know about? Any number behind it: occupancy, nightly rates, yields, prices, supply?"
 
-**Q5:** "Is there a lesson from earlier in your career — a mistake, a deal gone wrong, a moment that changed how you work — that you've never posted about? Something you lived through that would be useful for someone earlier in the journey to hear."
+**Q3 (The investor):** "Did anyone ask you about buying or investing in a villa this week? What were they getting wrong, or right?"
 
-After all four answers, build this block:
+**Q4 (Your story):** "What's something from your career, sales or real estate, that shapes how you approach these conversations now?"
+
+Q1 is the most valuable answer. If he gives an owner's exact words, keep them exactly. Q4 is the fallback for a quiet week.
+
+After all four answers, build this block. Record his answers **verbatim** (clean up only filler like "um"). Do not summarize or polish them:
 
 ```
-RECENT PAST INPUT FROM MATTHIEU (this week):
+RECENT PAST INPUT FROM MATTHIEU (this week, his words):
 
-Q1 — Deal/viewing/conversation: [answer 1]
-Q2 — Market/buyer/seller observation: [answer 2]
-Q3 — Something said to a client: [answer 3]
-Q4 — Something currently being figured out: [answer 4]
+Q1 — The pitch: [answer 1, verbatim]
+Q2 — The market (numbers he gave): [answer 2, verbatim]
+Q3 — The investor: [answer 3, verbatim]
+Q4 — His story: [answer 4, verbatim]
 ```
 
 If any answer is "nothing" or blank: write "Nothing to report" for that item. Do NOT fabricate or prompt for more.
 If all four are empty: write `No recent past provided — write from professional expertise only.`
+
+Any number in Q2 is used only once it is verified (Matthieu's own data or a source on the approved list in `prompt.md`). If it can't be verified, write around it.
 
 Write this block to `/tmp/linkedin_recent_past.txt` using the Write tool.
 
@@ -101,6 +107,25 @@ Impressions: [n] | Reactions: [n] | Comments: [n] | Reposts: [n]
 ```
 
 Then recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_analytics.json` and update `last_updated`.
+
+**Voice reference (refresh monthly).** If `.claude/skills/linkedin-weekly-posts/voice_reference.md` is missing or its `Updated:` date is more than 30 days old, rebuild it:
+1. Run the scraper with `--all`.
+2. Rank posts by engagement rate, (reactions + comments + reposts) / impressions. Skip any post with fewer than 500 impressions, since the rate is noise below that.
+3. Take the top 5 and save each one's `full_text` exactly as published, with its date and engagement numbers:
+
+```
+# Voice Reference
+Updated: [YYYY-MM-DD]
+
+These are Matthieu's own best posts. Match how they sound, not how they are structured.
+
+## 1. [date] · [rate]% engagement · [impressions] impressions
+[full_text, unedited]
+
+## 2. ...
+```
+
+Never edit, polish or "fix" the text in this file. Its value is that it is his, as it went out.
 
 **If no:** skip to Step 3.
 
@@ -199,7 +224,14 @@ Then generate 6 post options following the prompt exactly:
 - 2 options for **Wednesday** (same theme, two different pillars — theme must differ from Tuesday)
 - 2 options for **Thursday** (same theme, two different pillars — theme must differ from Tuesday and Wednesday)
 
-Weave the recent past input naturally into the posts where relevant (personal story, client observation, market insight). Do not force it — only use it if it genuinely strengthens the post.
+**Write from his words, not from scratch.** Before drafting, read `voice_reference.md` and `/tmp/linkedin_recent_past.txt`. Where a post draws on his answers, start from his actual sentences and edit them down (cut, reorder, tighten). Keep his phrasing, his rhythm and his slightly non-native English turns where they read naturally. Do not swap his words for smoother generic ones. If a post has no input from him to draw on, match the sentence length and tone of the voice reference posts.
+
+**Vary the shape across the 6 options.** They must not all follow hook, story, lesson, question:
+- At least 1 option is a short post (300 to 700 characters)
+- At least 2 options do not end with a question
+- At least 1 option has no explicit lesson or takeaway line; it shows what happened and lets the reader draw the conclusion
+
+**One real detail per post.** Every post includes at least one specific thing only Matthieu could know: a named area, an exact verified number, or something an owner or investor actually said. A post that could have been written by anyone in Bali real estate gets rewritten.
 
 Before writing a single word of any post, internalize this non-negotiable formatting rule from CLAUDE.md: **no em dashes, no dashes of any kind as separators or connectors.** Replace every instance with a comma, period, or parentheses. This applies during drafting — not as a post-processing step. If you catch a dash while writing, fix it before moving on.
 
@@ -286,7 +318,8 @@ This log is what Step 3 uses in future sessions to avoid repeating themes and pi
 
 ## Notes
 
-- Step 1 is always first. Never jump to generation without the 3 questions.
+- Step 1 is always first. Never jump to generation without the 4 questions.
 - Do not send email. Session display is the delivery.
-- Character count target is 1,200–1,600 chars. LinkedIn's hard limit is 3,000 — the target is a readability guideline, not a hard stop.
+- Character count: most posts land between 800 and 1,600 chars, and short posts (300 to 700) are welcome. LinkedIn's hard limit is 3,000. Length is a readability guideline, not a hard stop.
+- The humanizer is a final polish, not the fix for a robotic draft. The voice comes from his words (Step 1) and the voice reference (Step 2).
 - Humanizer runs on every chosen post automatically (Step 7). Never wait to be asked.
