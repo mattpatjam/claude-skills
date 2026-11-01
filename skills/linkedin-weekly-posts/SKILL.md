@@ -146,7 +146,7 @@ common reason research comes back thin, so do not skip it:
 Run all of the following using the Scrapling MCP (`mcp__ScraplingServer__fetch`):
 
 1. **Matthieu's LinkedIn profile** — https://www.linkedin.com/in/matthieu-jammers-a40a0726/recent-activity/all/ (li_at cookie attached)
-   Extract: voice patterns, 10 most recent posts and hooks, topics covered in the last 60 days, what's performing. Do not repeat any topic or angle from the last 60 days.
+   Extract: 10 most recent posts and hooks, topics covered in the last 60 days, what's performing. Do not repeat any topic or angle from the last 60 days.
 
 2. **Terje H. Nilsen's newsletter** — https://www.linkedin.com/in/terje-h-nilsen-9905a843/recent-activity/newsletter/ (li_at cookie attached)
    Extract: what topics he's covering, angles that are performing, gaps Matthieu could fill with a different perspective.
@@ -158,12 +158,13 @@ Run all of the following using the Scrapling MCP (`mcp__ScraplingServer__fetch`)
    - Indonesia Expat: https://indonesiaexpat.id/
    - Nikkei Asia (Indonesia): https://asia.nikkei.com/Economy/Indonesia
 
-4. **Buyer pain-point sources (required)** — this is what keeps content pointed at buyers/investors rather than only industry peers, per the "Who This Is For" section of `prompt.md`:
+4. **Owner and investor pain-point sources (required)** — this keeps content pointed at the readers in the "Who This Is For" section of `prompt.md` (owners, developers, investors) rather than only what professionals discuss:
    - Reddit r/bali (https://www.reddit.com/r/bali/) and Quora — search for property/buying/investment threads. No cookie needed.
    - A Bali property/expat/investor Facebook group, if one is due for a check (FB_C_USER/FB_XS cookies attached). Use sparingly — back off at the first sign of a restriction rather than retrying, and fall back to Reddit/Quora. Facebook's bot detection is more aggressive than LinkedIn's.
-   Extract: what buyers are actually confused about, scared of getting wrong, or wish someone had told them — not what agents are discussing.
+   Search for villa owner, villa management, rental income, licensing and villa investment threads.
+   Extract: what owners and investors are actually confused about, frustrated with, or wish someone had told them — not what agents are discussing.
 
-**After research:** Summarize in 3–5 bullets what's currently being talked about in the market, what Terje is covering, what actual buyers are asking/worried about (from item 4 above), and what topics Matthieu hasn't touched recently. Use this to inform theme and angle selection. Only then proceed to Step 4 (theme selection).
+**After research:** Summarize in 3–5 bullets what's currently being talked about in the market, what Terje is covering, what owners and investors are asking/worried about (from item 4 above), and what topics Matthieu hasn't touched recently. Use this to inform theme and angle selection. Only then proceed to Step 4 (theme selection).
 
 If Scrapling hits a login wall on LinkedIn or Facebook: this almost always means the cookie parameter was missing or expired, not that scraping is blocked — check the cookie was attached before assuming failure. If it truly failed after that, tell Matthieu which cookie needs refreshing (see the comment above that variable in `.env`), note it, and proceed with what was retrieved + post history from `posts_published.md`. Do not fabricate trending data.
 
