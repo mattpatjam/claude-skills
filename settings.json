@@ -11,7 +11,13 @@
             "type": "command",
             "command": "/Users/matt/Desktop/Claude/.claude/hooks/git-sync.sh /Users/matt/Desktop/Claude",
             "timeout": 60,
-            "statusMessage": "Syncing to GitHub..."
+            "statusMessage": "Syncing workspace to GitHub..."
+          },
+          {
+            "type": "command",
+            "command": "/Users/matt/Desktop/Claude/.claude/hooks/git-sync.sh /Users/matt/Desktop/Claude/.claude",
+            "timeout": 60,
+            "statusMessage": "Syncing skills to GitHub..."
           }
         ]
       },

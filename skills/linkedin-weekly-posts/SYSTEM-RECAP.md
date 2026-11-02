@@ -175,7 +175,7 @@ Three dependencies are local to this machine and will not work in Desktop unless
 Mirror the pattern already built for Nathalie in `/Users/matt/Desktop/Claude/Personal/wife-linkedin-content-prompt.md`:
 
 1. Create a Claude.ai **Project** called "LinkedIn Content".
-2. Paste `prompt.md` (the full 664 lines) into **Custom instructions**. That is the writing engine.
+2. Paste `prompt.md` (the full 796 lines) into **Custom instructions**. That is the writing engine.
 3. Add as **Project knowledge** files: `posts_published.md` (so it knows what has run), `post_analytics.json` (so it knows what performs), and this recap.
 4. Replace Step 2 (analytics) with manual input: paste last week's numbers from the LinkedIn feed into the chat.
 5. Replace Step 3 (research) with manual input, or let Desktop web search for news and skip the LinkedIn scrape.
