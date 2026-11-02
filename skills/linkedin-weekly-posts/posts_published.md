@@ -12,20 +12,144 @@ Earlier note: verified against LinkedIn's analytics dashboard on 2026-07-06. Sev
 
 ---
 
+## 2026-10-28 (Tuesday) — SELECTED, humanized, awaiting publish
+Pillar: The Proof
+Theme: Bali Market (unit mix / RevPAR per key)
+Hook: "A three bedroom villa in Seminyak earns less per night than a two bedroom on the same street. Not per bedroom. In total."
+Note: 1,355 chars. Leads with the Seminyak 1BR (IDR 1.80M/key, 74%) vs 3BR (IDR 424k/key, 45%) spread, then pivots
+to why the source matters: Bestay operates the 623 villas, so the figure is a record rather than a projection.
+Closes on the brokerage being built that way. Seminyak figures are SPENT, do not reuse them in another post.
+Open: clearance to publish internal Bestay figures externally not yet confirmed by Matthieu.
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## 2026-10-29 (Wednesday) — SELECTED, humanized, awaiting publish
+Pillar: The Educator
+Theme: Bali Market (channel dependency / distribution)
+Hook: "Ask whoever manages your villa what share of last month's bookings came from a single platform. If the answer is above two thirds, you are not running a rental business. You are renting one."
+Note: 1,566 chars, close to the 1,600 ceiling, no room to add anything. Hangs on the 15 Oct cancellation window
+change (60 days to 30) plus the channel split (68.6% Airbnb, 20.4% Booking.com, 6.91% direct, direct +90% YoY).
+Includes the direct-booking platform push as an owner benefit, not a pitch. Channel split figures are SPENT.
+Impressions: — | Reactions: — | Comments: — | Reposts: —
+
+## WEEK NOTE 2026-10-27
+Thursday 2026-10-30 was written and then HELD at Matthieu's request, see "Held for future use" below.
+So this week publishes 2 posts, not 3, which is on the healthy side given 20 posts went out in the five
+weeks to 2026-10-27 against the skill's 2 to 3 per week.
+NOT WRITTEN, by decision: a second hiring post. The "Week three in the new job" post (1,403 imp) already
+announced both roles. Agreed alternative is to reshare Nathalia Valentine Trius's job post with a short
+comment rather than spend a content slot. Reshare copy not yet drafted.
+
+---
+
+## ANALYTICS REFRESH 2026-10-27 (profile feed, `--all`)
+
+Scraper returned `counters_found: 20 / posts_parsed: 20` but **every post came back with `age: None`**, so
+the `--days` filter excluded all 20 (`excluded_no_date: 20`). Ran with `--all` to recover metrics.
+BUG TO FIX: the age/date label parser is no longer matching the feed markup. Dates below are inferred
+from content and ordering, not read from the feed. Impressions figures supersede earlier entries for the
+same posts (numbers keep accruing as posts age).
+
+Seven posts below had never been logged. Four of them are the week of 2026-10-20.
+
+## 2026-10 (week of 10-20, exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Proof
+Theme: OLC Method Case Study (off-rotation)
+Hook: "Three weeks ago I finished training the Nirvana Life sales team in Bali. They're now 70% sold o..."
+Note: IMPORTANT CORRECTION TO THE 2026-10-20 READ. This is a pure proof/results post with a hard number
+and it placed 3rd of 20 on reach with the 3rd-best reaction count. The earlier conclusion that "nothing
+analytical came close to personal on reach" was wrong. Proof carrying a specific outcome number performs
+at near personal-story level. Personal stories still take the top 2 slots, but the gap is a number, not a genre.
+Impressions: 4991 | Reactions: 65 | Comments: 6 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (week of 10-20, exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Perspective
+Theme: Bali Market (macro fragility, Bali petrol queue + Lyon tourism office fire)
+Hook: "Last week Bali queued seven hours for petrol and Lyon's tourism office was set on fire. Same we..."
+Note: THIRD infrastructure-fragility post in roughly ten days (after the airport-luggage post and the fuel
+shortage post). Out-reached both at 2,934 but drew 13 reactions and ZERO comments, a 0.44% engagement rate,
+the worst of all 20 posts. Confirms the pattern: this frame still gets distributed and no longer gets replies.
+Retire the macro-fragility frame.
+Impressions: 2934 | Reactions: 13 | Comments: 0 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (week of 10-20, exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Journey
+Theme: New Role / Hiring (off-rotation)
+Hook: "Week three in the new job, we are doing things differently and I am hiring for two roles that w..."
+Note: Already announces the two open roles (Indonesian sales broker + admin/coordination). ANY further
+hiring post this cycle is a repeat of this one. If more reach is wanted on the roles, comment on or reshare
+Nathalia Valentine Trius's job post rather than spending a content slot.
+Impressions: 1403 | Reactions: 14 | Comments: 1 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (week of 10-20, exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Perspective
+Theme: Brokerage Positioning (off-rotation)
+Hook: "Most developers in Bali do not need another brokerage, all sending the same listing to the same..."
+Note: Low reach (670) but 4 comments, a 1.49% engagement rate and one of the best comment rates of the set.
+Already stakes out the "we are not another brokerage" positioning. Do not restate the thesis, only extend it
+with evidence.
+Impressions: 670 | Reactions: 6 | Comments: 4 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (week of 10-20, exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Perspective
+Theme: Bali Market (data verification)
+Hook: "Bali does not have a demand problem or an oversupply problem. It has a data verification proble..."
+Note: BEST COMMENT RATE OF ALL 20 POSTS. 5 comments on only 471 impressions, 1.06% comments-per-impression,
+roughly 5x the account norm. Lowest reach, most conversation. Signal: this argument makes people reply even
+when the algorithm barely distributes it. The thesis is now SPENT as a thesis. The unserved follow-up is the
+evidence behind it (actual portfolio numbers), not the claim again.
+Impressions: 471 | Reactions: 2 | Comments: 5 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (approx., exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Educator
+Theme: Legal Framework / Buying Process (hidden cost of waiting)
+Hook: "For years, one of the biggest hidden costs of buying in Bali wasn't the price, it was the wait."
+Impressions: 1050 | Reactions: 9 | Comments: 2 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## 2026-10 (approx., exact date unconfirmed) — NEWLY LOGGED 2026-10-27
+Pillar: The Proof
+Theme: Deal Profile / Client Fit
+Hook: "As sales, these are the kind of deals we love to close with a client that:"
+Impressions: 898 | Reactions: 9 | Comments: 2 | Reposts: 0 (profile feed, verified 2026-10-27)
+
+## REFRESHED FIGURES 2026-10-27 (posts already logged below, numbers have accrued)
+- Departure post ("Yesterday was my last day..."): 10,650 imp | 101 re | 18 co (was 10,018 / 97 / 18)
+- BSH announcement ("Five years in the same seat..."): 6,138 imp | 91 re | 20 co (was 5,566 / 86 / 19)
+- Hugh Grant / weddings and funerals: 3,919 imp | 24 re | 1 co (was 3,852 / 24 / 1)
+- Airport luggage: 2,546 imp | 15 re | 4 co (was 2,334 / 10 / 2)
+- Nadal Lombok listing: 2,375 imp | 14 re | 0 co (was 230 / 3 engagements — the old figure was badly wrong)
+- Bingin Beach rebuild: 1,845 imp | 19 re | 3 co | 1 rp (was 1,625 / 15 / 3 / 1)
+- Swiss coffee group / observation period: 1,744 imp | 14 re | 0 co (was 1,555 / 11 / 0)
+- Fuel shortage: 1,146 imp | 11 re | 2 co (was 829 / 6 / 1)
+- Switzerland/Bali dual identity: 1,127 imp | 21 re | 2 co (was 52 / 1 engagement — old figure badly wrong)
+- Villa management fee: 881 imp | 7 re | 0 co (was 850 / 6 / 0)
+- Europe trip / laptop before anyone else: 799 imp | 9 re | 5 co
+- Branded residences (BCG link): 498 imp | 6 re | 2 co (was 473 / 6 / 2) — still lowest reach, external link
+- Tony Robbins post: 383 imp | 3 re | 2 co | 1 rp — weakest of the set
+
+---
+
 ## 2026-10-13 (Monday) — PUBLISHED by Matthieu during the session
 Pillar: The Perspective
 Theme: Bali Market (management fee economics / labour costs)
 Hook: "A villa management fee at half the market rate is not a discount. Somebody downstream absorbs it, and it is usually the person cleaning your villa."
 Note: Tuesday Option 1 from the week of 2026-10-13, posted Monday instead. Argument: Badung's statutory minimum wage (IDR 3,791,003/month) is a fixed floor, so a halved management fee comes out of hours, headcount, benefits or insurance, which drives turnover and then service quality. Includes the line about being proud to work for a company that pays full salaries, benefits and health insurance, plus the point that owners choose the fee. NOTE: Matthieu's original "$200/month cleaner" figure was corrected to the statutory IDR 3.79M (~$210-230) before drafting, since $200 sits just below the legal minimum.
-Impressions: 89 | Reactions: 1 | Comments: 0 | Reposts: 0 (first hour only, recheck next week)
+Impressions: 850 | Reactions: 6 | Comments: 0 | Reposts: 0 (profile feed, verified 2026-10-20)
 
-## 2026-10-16 (Thursday) — CHOSEN, pending publication
+## 2026-10-16 (Thursday) — PUBLISHED, confirmed on profile feed 2026-10-20
 Pillar: The Educator
 Theme: Legal Framework (Bingin Beach redevelopment / spatial planning)
 Hook: "Remember the outcry when the government demolished 48 buildings at Bingin Beach. The rebuild plan is public now, and it is a lot smaller than people assumed."
 Note: Only post selected for the week of 2026-10-13 (Matthieu chose Thursday only). 1,575 chars, humanized. Phase one itemised from PUPR head I Nyoman Karyasa's direct quote in NusaBali (18 May 2026, article 220990): beach access plus ~3m cliffside staircase, clean water network, rinse areas (tempat bilas), public toilets, land grading (pematangan lahan) for wooden stalls (kedai-kedai berbahan kayu) and a performance stage (stage pertunjukan). Phase two = 2027, scope never published. Commercial conclusion unique to this post: replacement frontage is government built on state land, allocated by the regency, so Bingin beachfront does not return as private leasable frontage.
 DATE RESOLUTION: the "June or July" construction estimate applies to PHASE ONE physical work in 2026, not phase two in 2027. Honeycombers misattributed it to 2027 (and contradicted itself with mid-2026 in its own FAQ). NusaBali primary source is authoritative. Open item: unverified whether the tender was awarded or works began, flagged to Matthieu to check on the ground.
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 1625 | Reactions: 15 | Comments: 3 | Reposts: 1 (profile feed, verified 2026-10-20)
+
+## 2026-10-17 (Friday) — PUBLISHED, single post written on request outside the normal weekly cycle
+Pillar: The Perspective
+Theme: Bali Market (macro infrastructure fragility / island fuel shortage)
+Hook: "One tanker couldn't drop its anchor properly. Four days later, half of Bali couldn't get to work."
+Note: Written 2026-10-15 on Matthieu's direct request (his own angle: dependence on petrol for everything, the cleaning lady, the doctor needing to reach an urgent procedure), paired with his own photo alone in the office. 1,384 chars, humanized. Facts verified against Euronews, Jakarta Globe, Tempo and Indonesia Expat: shortage began Sun 11 Oct, Pertamina blamed a tanker anchor problem delaying unloading plus road congestion and panic buying on subsidised Pertalite, 57.9M litres scheduled into Bali 14-17 Oct, one Denpasar resident queued ~7 hours.
+POST-MORTEM (2026-10-20): underperformed. 829 impressions is the second-weakest of the fortnight. Two likely causes, both avoidable: (1) CANNIBALISATION, the airport-luggage post on ~10-13 ("the clearest infrastructure signal I have seen all year", 2,511 imp) made the same macro-fragility argument four days earlier, and the villa management fee post on 10-13 had already used the person-who-cleans-your-villa device; (2) VOLUME, 11 posts went out in the 14 days to 10-20, roughly 5 a week against the skill's 2-3, which is diluting reach per post. Lesson: check the last 7 days for argument overlap, not just the 60-day theme list, before committing to an angle.
+Impressions: 829 | Reactions: 6 | Comments: 1 | Reposts: 0 (profile feed, verified 2026-10-20)
 
 ## 2026-10-09 (approx., 4d before check) — verified against profile activity feed 2026-10-13, missed entirely by the creator-analytics dashboard
 Pillar: The Human
@@ -88,6 +212,47 @@ Impressions: 52 | Reactions: — | Comments: — | Reposts: — | Engagements: 1
 ---
 
 ## Held for future use (not yet published)
+HELD 2026-10-27 at Matthieu's request, pulled from Thursday 2026-10-30. Slot into the next LinkedIn
+posts session. Fully written and humanized, ready to publish as is.
+Pillar: The Human
+Theme: Bali Market (oversupply concentrated by product type)
+Hook: "A buyer told me recently that Bali is finished. He owns a six bedroom villa in Canggu. Both of those things are true and only one of them is about Bali."
+Length: 1,508 chars. Checked: no em dashes, no separator dashes, no curly quotes, no links, hook 152 chars.
+Hashtags: #BaliRealEstate #BaliVilla #PropertyInvestment #ExpatBali #BuyingAbroad
+
+Full text:
+A buyer told me recently that Bali is finished. He owns a six bedroom villa in Canggu. Both of those things are true and only one of them is about Bali.
+
+His villa ran under 50% occupancy this year. He reads that as a verdict on the market. I read it as a verdict on the product, and I understand why he would rather not hear the difference.
+
+The market is genuinely softer. Listings up 10.5%, rates down 12.4%, occupancy around 61%.
+
+But in the same twelve months, three bedroom villas in Sanur held 80.5% occupancy. Four bedroom villas on the Bukit earned IDR 1.10M per bedroom per night available on a IDR 6.6M rate.
+
+One island, one year, the same tourists walking off the same planes.
+
+What happened to him is not bad luck. Around 2021 and 2022 plenty of people built the same thing in the same few places, because that is what was selling. Those villas now compete with each other for the same group bookings.
+
+The ones that quietly kept working were smaller, or elsewhere, or both.
+
+If you are buying, here is the part of this that is actually useful. Ask whoever is selling to you where their occupancy numbers come from. Not a market report. Their own book. Someone who manages villas can show you twelve months of what those villas earned, by size and by area. Someone who only sells them cannot.
+
+That gap is roughly the difference between ending up with his villa and ending up with the one in Sanur.
+
+If you own here, have you compared your villa to the market, or to villas actually like yours?
+
+Image Prompt: Documentary editorial photograph, late afternoon: a wide empty six bedroom villa living pavilion seen from the garden, sliding doors open, immaculate furnishing, no guests, a single staff member far in the background straightening a cushion. Warm low angled sunlight, long shadows across polished floor. Beautiful but unused, the emptiness is the subject. Photorealistic, no identifiable faces, 4:5 aspect ratio.
+
+BEFORE PUBLISHING, RECHECK:
+- Market figures (listings +10.5%, rates -12.4%, occupancy ~61%) come from the Sept 2026 Bestay monthly
+  review. Confirm they have not moved before reposting in a later week.
+- Confirm the Canggu six bedroom owner is not identifiable to anyone who knows the villa.
+- Confirm clearance to publish internal Bestay portfolio figures externally.
+- The Sanur 3BR 80.5% and Bukit 4BR IDR 1.10M/key figures are RESERVED FOR THIS POST. Do not spend them
+  in another post in the meantime or this one loses its evidence.
+
+---
+
 Drafted 2026-07-13, bumped from the week of 2026-07-13 to make room for the tax free zone post. Ready to slot into a future week's Bali Market theme.
 Pillar: The Perspective
 Theme: Bali Market

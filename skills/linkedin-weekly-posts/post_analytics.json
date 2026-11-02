@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-10-13",
+  "last_updated": "2026-11-02",
+  "scraper_bug": "RESOLVED 2026-11-02. Previously (2026-10-27): linkedin_analytics.py returned age: None for all 20 posts, so --days excluded every one (excluded_no_date: 20) and --all was the workaround. Retested 2026-11-02: --all returned 20/20 posts with counters_found == posts_parsed and no warnings, and --days 14 returned 10 correctly dated posts with no excluded_no_date. The date parser works again. Windowed output can be trusted; re-flag here if age: None reappears.",
   "pillars_used": {
-    "The Educator": 4,
-    "The Perspective": 15,
-    "The Human": 12,
-    "The Proof": 4,
-    "The Journey": 5
+    "The Educator": 6,
+    "The Perspective": 17,
+    "The Human": 18,
+    "The Proof": 7
   },
+  "held_unpublished": "Thursday 2026-10-30 post (The Human, Bali Market oversupply by product type) written and humanized, then held at Matthieu's request on 2026-10-27 for the next posting session. Full text in posts_published.md under 'Held for future use'. The Sanur 3BR 80.5% and Bukit 4BR IDR 1.10M/key figures are reserved for it and must not be used in another post before it runs. Pillar/theme counts above include only the two published posts this week, not the held one.",
   "themes_used": {
     "Sales Techniques": 8,
     "Negotiation & Deal Dynamics": 1,
@@ -35,18 +36,20 @@
       "note": "2026-10 (Bali Market, airport luggage / infrastructure signal) added: 2,334 impressions / 10 reactions / 2 comments, a 0.51% engagement rate, the weakest of the October window despite the highest reach. Skewed by one outlier post (34,009 impressions), median performance closer to 900-2000. Reaction avg (170) based on the 3 posts with reaction breakdown (25, 27, 458); most other posts have combined engagements only, not reaction breakdown. 08-13 (Lombok Market, villa oversupply contrarian take) added: 2000 impressions / 39 engagements. 08-18 (Legal Framework, Kura Kura/PFII bill signed into law) added: 1044 impressions / 9 engagements. 08-22 (Bali Market, $200K ocean view villa / buyer pain-point angle) added: 4602 impressions / 64 engagements. ~09-2026 (Lombok Market, Rafa Nadal Tennis Academy land price move, logged late from a 4-week gap in skill use) added: 230 impressions / 3 engagements, pulling the average down since it's a low-reach outlier. 2026-10-13 (Bali Market, management fee vs statutory wage floor / labour ethics) published by Matthieu: 89 impressions / 1 reaction in the first hour, recheck next week."
     },
     "The Human": {
-      "avg_impressions": 1459,
+      "avg_impressions": 2525,
       "avg_reactions": 31,
-      "post_count": 11,
+      "post_count": 16,
+      "pillar_merge": "2026-11-02: 'The Journey' was merged into 'The Human' and no longer exists as a separate pillar; the two overlapped and splitting them made the strongest pillar compete with itself. Pre-merge figures preserved: The Human 11 posts / 1,459 avg impressions, The Journey 5 posts / 4,869 avg impressions. The merged avg_impressions (2,525) is the weighted average of the two. pillars_used went from 12 + 6 to 18. The Journey's own history note is kept below under the _retired_The_Journey key. Journey posts out-reached Human posts by more than 3x, so treat the merged average as flattering to the old Human material and do not read a drop against the old Journey number as a decline.",
       "note": "reaction avg (31) based on the 2 posts with reaction breakdown (30, 31); most recent posts have combined engagements only, not reaction breakdown. 08-11 (Negotiation & Deal Dynamics, renamed from Sales Techniques, walked-away-buyer mystery hook) added: 2000 impressions / 41 engagements, one of the strongest hooks of the window. 08-19 (Construction Due Diligence / property management angle, Uluwatu management company withholding numbers) added: 1544 impressions / 6 engagements."
     },
     "The Proof": {
-      "avg_impressions": 1691,
-      "avg_reactions": null,
-      "post_count": 4,
-      "note": "no reaction breakdowns available; 07-29 (Bali Market, Lombok land resale) had combined engagements of 11 on 436 impressions. 08-12 (Bali Market, Uluwatu seawall infrastructure) added: 937 impressions / 9 engagements. 08-27 (OLC Method Case Study off-rotation, Nirvana sales training result / 70% sold out) added: 5000 impressions / 128 engagements, best-performing Proof post and best post of this window."
+      "avg_impressions": 2200,
+      "avg_reactions": 37,
+      "post_count": 6,
+      "note": "2026-10-27 REVISION: the Nirvana sales-training proof post re-measured on the profile feed at 4,991 impressions / 65 reactions / 6 comments, placing 3rd of 20 posts on reach. This overturns the 2026-10-20 conclusion that market/analytical posts cannot reach personal-story levels. A proof post carrying a specific outcome number (70% sold out) performs close to a personal story. The differentiator is a hard number, not the genre. Also added: 'As sales, these are the kind of deals we love to close' 898 / 9 / 2. Earlier note follows. No reaction breakdowns available; 07-29 (Bali Market, Lombok land resale) had combined engagements of 11 on 436 impressions. 08-12 (Bali Market, Uluwatu seawall infrastructure) added: 937 impressions / 9 engagements. 08-27 (OLC Method Case Study off-rotation, Nirvana sales training result / 70% sold out) added: 5000 impressions / 128 engagements, best-performing Proof post and best post of this window."
     },
-    "The Journey": {
+    "_retired_The_Journey": {
+      "retired": "2026-11-02, merged into The Human. Not an active pillar. Kept for history only, do not select it or log to it.",
       "avg_impressions": 4869,
       "avg_reactions": null,
       "post_count": 5,

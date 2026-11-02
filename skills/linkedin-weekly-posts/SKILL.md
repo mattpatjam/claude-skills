@@ -20,7 +20,7 @@ Runs the full weekly LinkedIn content creation workflow for Matthieu. Sequence i
 
 ## Step 1: Gather Recent Past (Required — Never Skip)
 
-Matthieu is Head of Business Development at Bali Superhost (villa management) and is setting up its sales brokerage. He meets villa owners and investors before they sign. He does not handle guest complaints or day-to-day operations, so never ask about those.
+Matthieu is Director of Business Development, Real Estate Brokerage and Property Acquisition, at Bali Superhost (villa management), where he is building the real estate brokerage from the ground up. He meets villa owners, developers and investors before they sign. He does not handle guest complaints or day-to-day operations, so never ask about those.
 
 Before the questions, say once: "Easiest is a voice note or rough notes, in your own words. I'll keep your phrasing." His raw words are the main material for the posts, so take them as given.
 
@@ -108,7 +108,11 @@ Impressions: [n] | Reactions: [n] | Comments: [n] | Reposts: [n]
 
 Then recalculate pillar averages in `.claude/skills/linkedin-weekly-posts/post_analytics.json` and update `last_updated`.
 
-**Voice reference (refresh monthly).** If `.claude/skills/linkedin-weekly-posts/voice_reference.md` is missing or its `Updated:` date is more than 30 days old, rebuild it:
+**Voice reference (refresh monthly).** Check `.claude/skills/linkedin-weekly-posts/voice_reference.md`. It exists, built 2026-11-02 from a full profile scrape.
+
+**If its `Updated:` date is 30 days old or less:** leave it alone and go to Step 3.
+
+**If it is missing, or its `Updated:` date is more than 30 days old:** rebuild it before going to Step 3.
 1. Run the scraper with `--all`.
 2. Rank posts by engagement rate, (reactions + comments + reposts) / impressions. Skip any post with fewer than 500 impressions, since the rate is noise below that.
 3. Take the top 5 and save each one's `full_text` exactly as published, with its date and engagement numbers:
@@ -127,21 +131,18 @@ These are Matthieu's own best posts. Match how they sound, not how they are stru
 
 Never edit, polish or "fix" the text in this file. Its value is that it is his, as it went out.
 
-**If no:** skip to Step 3.
-
 ---
 
 ## Step 3: Research (Required — Never Skip)
 
 **Do this before writing a single word of any post. No exceptions.**
 
-**Cookie authentication — required on every LinkedIn and Facebook fetch.** Read the
-session cookie value(s) from `.env` and attach them as the `cookies` parameter on
-every `mcp__ScraplingServer__fetch` (or `stealthy_fetch`) call to either domain. A
-fetch without this returns a login wall, not real data — this is the single most
-common reason research comes back thin, so do not skip it:
-- LinkedIn: `cookies: [{"name": "li_at", "value": "<LI_AT from .env>", "domain": ".linkedin.com", "path": "/"}]`
-- Facebook: `cookies: [{"name": "c_user", "value": "<FB_C_USER from .env>", "domain": ".facebook.com", "path": "/"}, {"name": "xs", "value": "<FB_XS from .env>", "domain": ".facebook.com", "path": "/"}]`
+**Cookie authentication — required on every LinkedIn fetch.** Read `LI_AT` from `.env`
+and attach it as the `cookies` parameter on every `mcp__ScraplingServer__fetch` (or
+`stealthy_fetch`) call to linkedin.com. A fetch without this returns a login wall, not
+real data — this is the single most common reason research comes back thin, so do not
+skip it:
+- `cookies: [{"name": "li_at", "value": "<LI_AT from .env>", "domain": ".linkedin.com", "path": "/"}]`
 
 Run all of the following using the Scrapling MCP (`mcp__ScraplingServer__fetch`):
 
@@ -160,13 +161,13 @@ Run all of the following using the Scrapling MCP (`mcp__ScraplingServer__fetch`)
 
 4. **Owner and investor pain-point sources (required)** — this keeps content pointed at the readers in the "Who This Is For" section of `prompt.md` (owners, developers, investors) rather than only what professionals discuss:
    - Reddit r/bali (https://www.reddit.com/r/bali/) and Quora — search for property/buying/investment threads. No cookie needed.
-   - A Bali property/expat/investor Facebook group, if one is due for a check (FB_C_USER/FB_XS cookies attached). Use sparingly — back off at the first sign of a restriction rather than retrying, and fall back to Reddit/Quora. Facebook's bot detection is more aggressive than LinkedIn's.
+   - Do not scrape Facebook groups. Dropped 2026-11-02: it needs Matthieu's personal session cookie and risks his account being checkpointed, which costs more than the research is worth.
    Search for villa owner, villa management, rental income, licensing and villa investment threads.
    Extract: what owners and investors are actually confused about, frustrated with, or wish someone had told them — not what agents are discussing.
 
 **After research:** Summarize in 3–5 bullets what's currently being talked about in the market, what Terje is covering, what owners and investors are asking/worried about (from item 4 above), and what topics Matthieu hasn't touched recently. Use this to inform theme and angle selection. Only then proceed to Step 4 (theme selection).
 
-If Scrapling hits a login wall on LinkedIn or Facebook: this almost always means the cookie parameter was missing or expired, not that scraping is blocked — check the cookie was attached before assuming failure. If it truly failed after that, tell Matthieu which cookie needs refreshing (see the comment above that variable in `.env`), note it, and proceed with what was retrieved + post history from `posts_published.md`. Do not fabricate trending data.
+If Scrapling hits a login wall on LinkedIn: this almost always means the cookie parameter was missing or expired, not that scraping is blocked — check the cookie was attached before assuming failure. If it truly failed after that, tell Matthieu that `LI_AT` needs refreshing (see the comment above that variable in `.env`), note it, and proceed with what was retrieved + post history from `posts_published.md`. Do not fabricate trending data.
 
 ---
 
@@ -176,30 +177,31 @@ Read `.claude/skills/linkedin-weekly-posts/prompt.md` for the pillar and theme d
 Read `.claude/skills/linkedin-weekly-posts/posts_published.md` to check what has been covered in the last 60 days.
 Read `/tmp/linkedin_recent_past.txt` for this week's personal input.
 
-Using the research from Step 3 and the recent past input, propose the three themes and specific post angles for the week. For each angle, identify which of the five topic types it draws from — this sharpens the angle and prevents repetitive content:
+Using the research from Step 3 and the recent past input, propose the three themes and specific post angles for the week. For each angle, identify which of the four topic types it draws from. The label is not decoration: each type has its own drafting rules in the TOPIC TYPES section of `prompt.md`, and the one chosen here changes how the post gets written in Step 5.
 
+- **Recent Past** — something from the last 7 days: a meeting, an owner's objection, a market observation, or a thing he said that landed
 - **Far Past** — a defining moment, early career lesson, or old deal that shaped how Matthieu works
-- **Recent Past** — something from the last 7 days: a viewing, client conversation, market observation, or thing he said that landed
-- **Present** — a thought forming right now, an open question he's working through, a real-time observation
+- **Present** — a thought forming right now, an open question he's working through, a real-time observation from building the brokerage
 - **Trending** — something being discussed in the market, industry, or news that Matthieu can add a qualified perspective to
-- **Manufactured** — engineer the experience to write about it (rare, highest effort, highest payout — use sparingly)
+
+Across the three days use at least two different types, and never the same type three days running.
 
 ```
 TUESDAY [date]
 Theme: [theme]
-Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
+Topic type: [Recent Past / Far Past / Present / Trending]
 Angle: [one sentence describing the specific take — not the full post]
 Why now: [why this angle is timely or relevant based on research]
 
 WEDNESDAY [date]
 Theme: [theme]
-Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
+Topic type: [Recent Past / Far Past / Present / Trending]
 Angle: [one sentence]
 Why now: [why timely]
 
 THURSDAY [date]
 Theme: [theme]
-Topic type: [Far Past / Recent Past / Present / Trending / Manufactured]
+Topic type: [Recent Past / Far Past / Present / Trending]
 Angle: [one sentence]
 Why now: [why timely]
 ```
@@ -231,6 +233,8 @@ Then generate 6 post options following the prompt exactly:
 - At least 1 option is a short post (300 to 700 characters)
 - At least 2 options do not end with a question
 - At least 1 option has no explicit lesson or takeaway line; it shows what happened and lets the reader draw the conclusion
+- Lengths are genuinely varied, with no two options on the same day within 200 characters of each other. Six options of similar length reads as machine-written even when each one is good.
+- No option exceeds 1,600 characters. Hard ceiling, no exceptions.
 
 **One real detail per post.** Every post includes at least one specific thing only Matthieu could know: a named area, an exact verified number, or something an owner or investor actually said. A post that could have been written by anyone in Bali real estate gets rewritten.
 
@@ -319,8 +323,10 @@ This log is what Step 3 uses in future sessions to avoid repeating themes and pi
 
 ## Notes
 
+- **Never skip a step.** Steps 1 to 8 run in order, every time, unless Matthieu explicitly says to skip one in that session. A step he skipped last week is not skipped this week.
 - Step 1 is always first. Never jump to generation without the 4 questions.
-- Do not send email. Session display is the delivery.
-- Character count: most posts land between 800 and 1,600 chars, and short posts (300 to 700) are welcome. LinkedIn's hard limit is 3,000. Length is a readability guideline, not a hard stop.
+- Delivery is the session display. There is no email step and nothing is sent anywhere.
+- Character count: hard ceiling 1,600 characters, never exceeded. Most posts land between 800 and 1,600, and short posts (300 to 700) are welcome and expected. Vary the lengths deliberately.
+- Cadence: three posts a week, Tuesday, Wednesday and Thursday, two options each. All six are produced in one session.
 - The humanizer is a final polish, not the fix for a robotic draft. The voice comes from his words (Step 1) and the voice reference (Step 2).
 - Humanizer runs on every chosen post automatically (Step 7). Never wait to be asked.
