@@ -29,7 +29,7 @@ Hook: "Ask whoever manages your villa what share of last month's bookings came f
 Note: 1,566 chars, close to the 1,600 ceiling, no room to add anything. Hangs on the 15 Oct cancellation window
 change (60 days to 30) plus the channel split (68.6% Airbnb, 20.4% Booking.com, 6.91% direct, direct +90% YoY).
 Includes the direct-booking platform push as an owner benefit, not a pitch. Channel split figures are SPENT.
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Impressions: 664 | Reactions: 2 | Comments: 3 | Reposts: 0 (profile feed, verified 2026-11-03, 4 days old. 0.75% engagement rate. Lowest reach of the recent set, but 3 comments on 664 impressions is a decent reply rate: the "ask your manager X" construction pulls replies even when reach is small.)
 
 ## WEEK NOTE 2026-10-27
 Thursday 2026-10-30 was written and then HELD at Matthieu's request, see "Held for future use" below.
