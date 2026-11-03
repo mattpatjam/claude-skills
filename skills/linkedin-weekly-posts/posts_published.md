@@ -19,8 +19,8 @@ Hook: "A three bedroom villa in Seminyak earns less per night than a two bedroom
 Note: 1,355 chars. Leads with the Seminyak 1BR (IDR 1.80M/key, 74%) vs 3BR (IDR 424k/key, 45%) spread, then pivots
 to why the source matters: Bestay operates the 623 villas, so the figure is a record rather than a projection.
 Closes on the brokerage being built that way. Seminyak figures are SPENT, do not reuse them in another post.
-Open: clearance to publish internal Bestay figures externally not yet confirmed by Matthieu.
-Impressions: — | Reactions: — | Comments: — | Reposts: —
+Open: clearance to publish internal Bestay figures externally not yet confirmed by Matthieu. RESOLVED IN PRACTICE 2026-11-03: he published it, so Bestay portfolio figures have now gone out externally twice. Owner names, named underperforming villas and loss figures remain off limits.
+Impressions: 1146 | Reactions: 6 | Comments: 3 | Reposts: 0 (profile feed, verified 2026-11-03, 6 days old. 0.79% engagement rate, mid-pack.)
 
 ## 2026-10-29 (Wednesday) — SELECTED, humanized, awaiting publish
 Pillar: The Educator
