@@ -12,7 +12,7 @@ Earlier note: verified against LinkedIn's analytics dashboard on 2026-07-06. Sev
 
 ---
 
-## 2026-10-28 (Tuesday) — SELECTED, humanized, awaiting publish
+## 2026-10-28 (Tuesday) — PUBLISHED, measured 2026-11-03
 Pillar: The Proof
 Theme: Bali Market (unit mix / RevPAR per key)
 Hook: "A three bedroom villa in Seminyak earns less per night than a two bedroom on the same street. Not per bedroom. In total."
