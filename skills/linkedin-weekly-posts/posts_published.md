@@ -22,7 +22,7 @@ Closes on the brokerage being built that way. Seminyak figures are SPENT, do not
 Open: clearance to publish internal Bestay figures externally not yet confirmed by Matthieu. RESOLVED IN PRACTICE 2026-11-03: he published it, so Bestay portfolio figures have now gone out externally twice. Owner names, named underperforming villas and loss figures remain off limits.
 Impressions: 1146 | Reactions: 6 | Comments: 3 | Reposts: 0 (profile feed, verified 2026-11-03, 6 days old. 0.79% engagement rate, mid-pack.)
 
-## 2026-10-29 (Wednesday) — SELECTED, humanized, awaiting publish
+## 2026-10-29 (Wednesday) — PUBLISHED, measured 2026-11-03
 Pillar: The Educator
 Theme: Bali Market (channel dependency / distribution)
 Hook: "Ask whoever manages your villa what share of last month's bookings came from a single platform. If the answer is above two thirds, you are not running a rental business. You are renting one."
